@@ -74,9 +74,9 @@ This was heavier.
 
 This was the aftermath.
 
-Rowan thought of Earth—of the quiet hours after an incident was “resolved,” when the alerts stopped but the damage remained. When people walked around stunned, replaying decisions, wondering which branch had led them here.
+Rowan thought of Earth—of the quiet hours after an incident was "resolved," when the alerts stopped but the damage remained. When people walked around stunned, replaying decisions, wondering which branch had led them here. The postmortem meeting where they'd spent six hours documenting root causes and mitigation steps, but no one had mentioned the human cost. The junior engineer who'd quit. The sleep lost. The trust eroded. Kellan was the cost. The human cost. The part that most systems tried to ignore.
 
-She’d always hated postmortems that rushed past that part.
+She'd always hated postmortems that rushed past that part.
 
 Kellan’s fingers curled suddenly, weak but intentional, catching against her sleeve.
 

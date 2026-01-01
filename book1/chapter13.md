@@ -88,11 +88,13 @@ The air changed.
 
 Not all at once—just enough to notice. A subtle thickening, like the space itself had gained weight. Rowan felt it settle into her shoulders first, then her chest.
 
-Kellan swore. “I feel—”
+Kellan swore. "I feel—"
 
-“I know,” Rowan said. “Don’t fight it yet.”
+"I know," Rowan said. "Don't fight it yet."
 
-That was the trick. Fighting early just gave the system more data.
+That was the trick. Fighting early just gave the system more data. The first rule of incident response: wait. Observe. Understand the failure mode before you start changing things. Rowan had learned that the hard way—early in her career, she'd panicked and started rolling back changes during an outage, only to realize she'd been rolling back the fix, not the problem. Wait. Observe. Understand.
+
+Then act.
 
 Lio pressed a hand to their sternum. “It’s hard to breathe.”
 

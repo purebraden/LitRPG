@@ -33,9 +33,13 @@ Lio’s voice was thin. “I can’t— I can’t cross that.”
 
 Rowan stared at the bridge.
 
-A memory hit her: a childhood field trip to a ropes course, her stomach lurching at the height, her teacher’s cheerful voice saying, “You’re safe!” while Rowan stared at fraying rope and thought, That’s not safety, that’s optimism.
+A memory hit her: a childhood field trip to a ropes course, her stomach lurching at the height, her teacher's cheerful voice saying, "You're safe!" while Rowan stared at fraying rope and thought, That's not safety, that's optimism.
 
 Same feeling now.
+
+The bridge looked about as stable as that database had been—the production deploy where the migration had failed halfway through, leaving them with inconsistent state and no clear rollback path. Three hours of panic while they tried to figure out if they could recover or if they'd need to restore from backup and lose a day's worth of transactions.
+
+The bridge looked like that. Not obviously broken, but fundamentally untrustworthy.
 
 Rowan stepped closer to the bridge’s edge and peered down.
 

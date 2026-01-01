@@ -19,13 +19,15 @@ Lio broke the silence first. “Do you think we did the right thing back there?�
 
 Rowan didn’t answer immediately.
 
-A memory rose up uninvited: a friend from her old team—Maya—standing in the break room after a bad incident, staring into a cup of coffee like it contained the meaning of the universe. “If we’d just rolled back sooner,” Maya had said, voice thin. “If we’d just—”
+A memory rose up uninvited: a friend from her old team—Maya—standing in the break room after a bad incident, staring into a cup of coffee like it contained the meaning of the universe. "If we'd just rolled back sooner," Maya had said, voice thin. "If we'd just—"
 
-Rowan had put a hand on her shoulder and said, “We made the best call with the information we had.”
+Rowan had put a hand on her shoulder and said, "We made the best call with the information we had."
 
-Maya had shaken her head. “That’s what people say when they don’t want to be blamed.”
+Maya had shaken her head. "That's what people say when they don't want to be blamed."
 
-Rowan had never forgotten that.
+Then the postmortem had happened. Budget cuts came down. "Lessons learned" became "people to blame." Maya had quit a week later, after the third time leadership asked her to justify decisions she'd made with incomplete data.
+
+Rowan had never forgotten that. Never forgotten the promise she'd made to herself: not to let it happen again. Not to let people become variables.
 
 Rowan looked at Lio now, at their anxious eyes.
 
@@ -41,9 +43,37 @@ Rowan looked at him. “No. Together gets you hurt. Alone gets you compliant.”
 
 Kellan swallowed hard. His gaze flicked away.
 
-Rowan understood, then, that Kellan wasn’t arguing with her.
+Rowan understood, then, that Kellan wasn't arguing with her.
 
 He was arguing with his own past.
+
+They passed a narrow alcove carved into the wall, and Rowan caught movement—someone crouched inside, huddled against the stone.
+
+Rowan slowed, hand going up.
+
+The person looked up. A young woman, maybe early twenties, with dark hair that had been cut short and uneven. Her eyes were red-rimmed, her face pale. She clutched a scrap of fabric in one hand.
+
+"Don't," she whispered, voice hoarse. "Just—just keep going."
+
+Rowan stopped anyway. "Are you hurt?"
+
+The woman's mouth twisted. "Not anymore."
+
+Lio moved closer to Rowan's side, eyes wide. "What happened?"
+
+The woman laughed, short and bitter. "I had a friend. We were together. Then I chose wrong, and the system made sure I knew it." Her grip tightened on the fabric. "Now I don't have a friend anymore."
+
+Rowan's chest tightened. "I'm sorry."
+
+The woman—Zara, she'd say if asked—shook her head. "Don't be. Just—just don't make the same mistake." Her eyes flicked to Lio and Kellan. "Don't think they're worth the cost."
+
+Rowan felt something cold settle in her stomach. "They are."
+
+Zara's expression went flat. "Then you're going to learn the same way I did."
+
+She turned away, hunching back into the alcove.
+
+Rowan stood there for a moment, then forced herself to move on. There was nothing she could do for Zara. Not right now. Not without making everything worse.
 
 They reached a junction where the corridor split into three paths. No signage. No helpful overlay arrow. Just stone and choice.
 
