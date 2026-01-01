@@ -33,9 +33,9 @@ On the other side, the light from the seam dimmed and then vanished as the door 
 
 Rowan found herself in a corridor that looked like it had been built to impress someone. The walls were smooth and dark, cut into gentle curves that guided the eye forward. The glow-veins here were deliberate, arranged in parallel lines like runway lights.
 
-It was the first place she’d seen in this world that felt like design.
+It was the first place she'd seen in this world that felt like design.
 
-Which meant it was either safe or an ambush. And Rowan had lived long enough to know those were often the same thing.
+It was either safe or an ambush. And Rowan had lived long enough to know those were often the same thing.
 
 She scanned quickly. No creatures. No corpses. No obvious traps. The corridor stretched ahead and then curved out of sight.
 
@@ -163,9 +163,11 @@ Lio’s eyes flashed. “Why not? It’s— it’s supplies.”
 
 “It’s bait,” Rowan said, voice low. “And if it isn’t, it’s still a contract. We don’t sign contracts we haven’t read.”
 
-Lio swallowed. “You… you talk like my manager.”
+Lio swallowed. "You… you talk like my manager."
 
-Rowan huffed a dry laugh. “That’s because your manager was trying to keep the budget alive. This thing is trying to keep something else alive. And it’s not us.”
+Rowan huffed a dry laugh. "That's because your manager was trying to keep the budget alive. This thing is trying to keep something else alive. And it's not us."
+
+The Black Friday incident came to mind—the API gateway team and the database team both prioritizing their own systems while customers couldn't check out. People were systems. Systems were people. The principle held.
 
 Rowan let go of Lio’s wrist, but she didn’t step away.
 
@@ -266,7 +268,9 @@ Lio’s eyes filled. “Teaching what?”
 
 Rowan looked at the pillar, then at the carefully placed supplies, then at the too-clean benches.
 
-“It’s teaching me,” Rowan said slowly, “that every time I take something, you pay for it.”
+"It's teaching me," Rowan said slowly, "that every time I take something, you pay for it."
+
+Like a team-building exercise designed by someone who'd never worked with actual humans. Or office politics where every resource allocation came with strings attached. The System just made it explicit.
 
 Lio stared at her in horror.
 

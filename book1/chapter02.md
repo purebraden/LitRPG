@@ -122,7 +122,9 @@ Rowan stared.
 
 Silence.
 
-She exhaled. Slow. Controlled. She had done this before, in different clothes, with different stakes. A system offered a constraint with hidden subclauses and the choice wasn’t really a choice.
+She exhaled. Slow. Controlled. She had done this before, in different clothes, with different stakes. The on-call agreement she'd signed three years ago, hidden clauses buried in paragraph twelve that meant they could page her at 3 AM for "critical issues" that turned out to be someone's test environment. The contract with the monitoring vendor that auto-renewed unless you canceled during a two-week window every other year. Same shape. Different room.
+
+A system offered a constraint with hidden subclauses and the choice wasn't really a choice.
 
 She couldn’t stay here. Something had found her once; something could find her again. And if the system punished “no measurable progress,” then simply hiding until she healed might count as failure.
 
@@ -147,6 +149,10 @@ She looked back up at the floating Path offer.
 “I accept,” she said clearly. “With notes.”
 
 For a moment nothing happened.
+
+Rowan waited. Three seconds. Five.
+
+Please hold, your call is important to us, she thought, and almost laughed. The absurdity of treating a life-or-death system prompt like a customer service queue. But here she was, waiting for confirmation like it was a form submission.
 
 Then the words shifted again.
 

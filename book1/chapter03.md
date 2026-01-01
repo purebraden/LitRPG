@@ -23,7 +23,7 @@ Not in front of her, not blocking her view—just… present. A layer in her per
 
 Rowan tried to ignore it for three minutes, then failed.
 
-She had spent too many years staring at dashboards to let one exist in her vicinity without interrogating it.
+She had spent too many years staring at dashboards to let one exist in her vicinity without interrogating it. Three days debugging a Grafana panel that showed metrics from the wrong Prometheus instance, all because someone had changed the datasource config and not updated the docs. Old habits died hard. Especially when they kept you alive.
 
 “Okay,” she said softly. “Let’s test.”
 
@@ -133,7 +133,7 @@ She stared at the bowl and then at the floating text. It had not updated. Not a 
 
 Rowan’s jaw flexed.
 
-“Undocumented feature,” she said.
+"Undocumented feature," she said. Like that passive-aggressive coworker who'd add features to the API without updating the docs and then get surprised when everyone broke production. "Thanks, Greg. Really appreciate the heads-up."
 
 She took a step into the room.
 
@@ -261,11 +261,9 @@ Rowan kept her hands up, palms open.
 
 The person swallowed hard. Their gaze flicked to the floating text in Rowan’s vision—except their eyes didn’t track it. They were looking through her, not at it.
 
-Which meant—
+Rowan's stomach tightened.
 
-Rowan’s stomach tightened.
-
-They can’t see it.
+They can't see it.
 
 Rowan didn’t have time to process that before the person stumbled forward another step and the system responded.
 

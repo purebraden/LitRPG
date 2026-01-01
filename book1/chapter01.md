@@ -29,9 +29,11 @@ Rowan closed her eyes and waited for panic.
 
 It didn’t come.
 
-What came instead was a familiar, weary clarity—the same mental state she’d hit during production outages, when the alarms were screaming and the dashboards were on fire and someone, somewhere, was already drafting the wrong postmortem.
+What came instead was a familiar, weary clarity—the same mental state she'd hit during production outages, when the alarms were screaming and the dashboards were on fire and someone, somewhere, was already drafting the wrong postmortem. That time the payment system went down at 2 AM and she'd spent three hours debugging database cluster failures while half the engineering team tried to deploy fixes that made everything worse. Friday afternoon deploys that broke everything right before the weekend. The incident where the API gateway decided to route all traffic to a dead service and no one noticed until customer complaints flooded in.
 
-You didn’t panic then. You assessed. You stabilized. You survived.
+This was just another incident. Different context. Same principle.
+
+You didn't panic then. You assessed. You stabilized. You survived.
 
 She pushed herself up on one elbow and immediately regretted it.
 
@@ -127,11 +129,25 @@ Rowan collapsed back against the stone, shaking violently.
 
 She laughed once, a sharp, hysterical bark that echoed off the walls and sounded wrong in her ears.
 
-“Okay,” she gasped. “Okay. So. Not dead.”
+"Okay," she gasped. "Okay. So. Not dead."
 
 Her laughter turned into a cough. Blood spattered the floor.
 
-Her vision blurred.
+I should have called in sick today, she thought, absurdly. This was definitely a valid excuse.
+
+Her vision blurred. The creature's body lay sprawled nearby, one of its many eyes still staring, unblinking. The armor plating had cracked where she'd hit it. Dark fluid oozed from the wound. She'd done that. With a rock. And her bare hands.
+
+Her arm throbbed where the claws had caught her. Blood ran down her wrist, warm and sticky. She needed to stop the bleeding, but moving seemed like an unreasonable demand right now.
+
+Her body shook—adrenaline crash, probably. Or blood loss. Or both. The stone beneath her felt cold against her back. The creature's blood was already congealing.
+
+She forced herself to sit up, head spinning. The cavern swam. Her ankle screamed in protest. Not broken, maybe. Sprained, definitely. She could still feel it, which was both a relief and a curse.
+
+With shaking hands, she tore a strip from the bottom of her shirt—already bloodied, already ruined—and wrapped it clumsily around her arm. The fabric was thin, cheap, meant for office air conditioning, not dungeon survival. It would have to do.
+
+The knot was lopsided. The pressure made her arm pulse with pain. Good. Pain meant she was still connected. Still present.
+
+Her vision blurred again.
 
 She felt herself tipping, consciousness slipping like a bad connection.
 
