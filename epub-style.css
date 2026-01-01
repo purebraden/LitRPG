@@ -1,0 +1,28 @@
+/* EPUB Style Sheet for System Messages */
+/* This styles System messages to stand out in the eBook */
+
+.system-message {
+    text-align: center;
+    font-weight: bold;
+    font-family: monospace;
+    margin: 1em 0;
+    padding: 0.5em;
+    background-color: #f5f5f5;
+    border-left: 3px solid #333;
+    border-right: 3px solid #333;
+}
+
+/* Alternative style - uncomment to use */
+/*
+.system-message {
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin: 1.5em 0;
+    padding: 1em;
+    background-color: #e8e8e8;
+    border: 1px solid #666;
+}
+*/
+

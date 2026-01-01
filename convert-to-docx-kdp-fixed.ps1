@@ -71,19 +71,19 @@ $env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine") + ";"
 pandoc $outputMd -o $outputDocx --toc --toc-depth=2 --standalone --wrap=none
 
 if (Test-Path $outputDocx) {
-    Write-Host "✓ DOCX file created: $outputDocx"
+    Write-Host "DOCX file created: $outputDocx"
     Write-Host ""
     Write-Host "IMPORTANT NEXT STEPS:"
     Write-Host "1. Open the DOCX file in Microsoft Word"
     Write-Host "2. Use Find and Replace to find: [SYSTEM]"
-    Write-Host "3. Replace with: (leave empty, we will format manually)"
+    Write-Host "3. Replace with: (leave empty)"
     Write-Host "4. Find: [/SYSTEM]"
     Write-Host "5. Replace with: (leave empty)"
     Write-Host "6. For each System message:"
     Write-Host "   - Select the System message text"
     Write-Host "   - Format as: Centered, All Caps, Bold"
     Write-Host "   - Or use a text box/border for visual distinction"
-    Write-Host "7. Check for any remaining markdown syntax (backticks, etc.)"
+    Write-Host "7. Check for any remaining markdown syntax"
     Write-Host "8. Review formatting throughout"
 } else {
     Write-Warning "DOCX file was not created. Check for errors above."
@@ -91,4 +91,3 @@ if (Test-Path $outputDocx) {
 
 Write-Host ""
 Write-Host "Done!"
-
