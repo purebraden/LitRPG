@@ -1,9 +1,9 @@
 # Chapter 15
 ## The Healing
 
-They stayed in the alcove for three days.
+The alcove became home for three days.
 
-Or maybe it was longer. Time felt unreliable here, stretched thin by exhaustion and fear and the constant awareness that the system was watching, waiting, calculating.
+Or maybe it was longer. Time felt unreliable here, stretched thin by exhaustion and fear and the constant awareness that the system was watching, waiting, calculating. But they stayed. Hiding in the narrow recess, making themselves small, making themselves quiet, making themselves as invisible as three people with nowhere else to go could be.
 
 Rowan didn't sleep much. She couldn't. Every time she closed her eyes, she saw Kellan falling, saw the emptiness in his eyes, saw the way the system had taken something from him and left something else in its place.
 

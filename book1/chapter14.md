@@ -200,3 +200,35 @@ Slower now.
 Heavier.
 
 But together.
+
+They didn't get far.
+
+Kellan's steps grew unsteady after only a few minutes. His breathing hitched. His weight sagged against Rowan's side, and she realized they couldn't keep going like this. Not when he needed rest. Not when he needed time to process what the system had done.
+
+They found an alcove—a narrow recess in the corridor wall, barely deep enough to qualify as shelter, but enough to get out of the main passage. Enough to hide, temporarily, from whatever might come looking.
+
+Rowan eased Kellan down carefully, positioning him against the stone wall. Lio hovered close, their expression worried.
+
+"We're staying here?" Lio asked quietly.
+
+Rowan nodded, scanning the corridor behind them. Empty. Quiet. For now. "Just for a little while. Until he can walk properly. Until we can move without—"
+
+She didn't finish the thought.
+
+Until we can move without him collapsing.
+Until we can move without me worrying he'll break.
+Until we can move without the system noticing we're vulnerable.
+
+"We'll rest," Rowan said instead. "Just rest. For now."
+
+Lio settled down beside Kellan, their small frame protective, their presence steadying.
+
+Rowan took up position near the alcove's entrance, watching, waiting, making sure they were safe.
+
+They'd rest.
+
+They'd heal.
+
+They'd survive.
+
+Together.
