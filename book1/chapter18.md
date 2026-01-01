@@ -93,9 +93,11 @@ Rowan almost laughed.
 
 Almost.
 
-On Earth, she’d written post-incident notes like that—careful, sanitized language to describe a system that had failed in a way no one wanted to own.
+On Earth, she'd written post-incident notes like that—careful, sanitized language to describe a system that had failed in a way no one wanted to own. Six hours spent on a postmortem that everyone would read once, nod at, then forget. All that work. All that care. And in the end, it was just documentation. Just words. Just proof that something had happened, even if no one wanted to remember it.
 
-She’d hated writing them.
+She'd hated writing them. Hated that they felt useless, even when they weren't.
+
+Rowan wasn't going to let it be useless.
 
 A final block resolved beneath the others.
 
