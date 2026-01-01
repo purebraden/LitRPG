@@ -1,136 +1,155 @@
 # Chapter 20
-## End of Book Hook
+## Commitment
 
-The corridor ended without ceremony.
+The choice didn’t arrive as a moment.
 
-No boss gate. No dramatic threshold. Just a gradual widening of space until the stone walls pulled back and the air changed.
+It arrived as weight.
 
-Rowan felt it first.
+They walked for a long time after leaving the storage chamber, the dungeon unfolding in clean, deliberate segments—as if it wanted to prove it could still behave. Corridors led to corridors. Doors opened when approached. Hazards announced themselves politely, then waited.
 
-Not pressure. Not resistance.
+The system was on its best behavior.
 
-Scale.
+Rowan didn’t trust it.
 
-The dungeon opened into a vast, terraced cavern that stretched farther than the glow-veins could reasonably justify. Stone buildings clung to the walls in careful tiers, bridges arcing between them like ribs. Light came from everywhere and nowhere—lamps, veins, reflective crystal—enough to suggest safety without promising it.
+Kellan moved with more confidence now, though his attention still fractured if he stopped too long. He followed Rowan’s pace instinctively, like some part of him had learned where safety clustered.
 
-A city.
+Lio walked close on Rowan’s other side.
 
-Or something pretending to be one.
+“Are you thinking about what they said?” Lio asked quietly.
 
-Lio stopped short, staring. “There are… people.”
+Rowan nodded. “I’ve been thinking about it since before they said it.”
 
-There were.
+Lio frowned. “Then why did it matter?”
 
-Figures moved along the terraces, some alone, some in groups. Voices carried faintly—conversation, laughter, argument. Life, continuing under a ceiling of stone.
+Rowan considered the question. “Because confirmation changes risk.”
 
-Kellan exhaled, long and shaky. “We made it.”
+Lio didn’t ask her to explain.
 
-Rowan didn’t answer.
+They reached a fork where the corridor split three ways.
 
-Cities were systems.
+Rowan stopped.
 
-She scanned instinctively, cataloging flows. Choke points. Patrol routes. Resource hubs. Places where people gathered and places they were quietly discouraged from staying too long.
-
-This wasn’t refuge.
-
-It was governance.
-
-As they stepped fully into the open space, Rowan’s overlay appeared.
-
-Not abrupt.
-
-Measured.
+Her overlay appeared instantly.
 
 ```
-REGION TRANSITION CONFIRMED
-LOCATION TYPE: POPULATION CENTER
-PATH STATUS: ACTIVE
+PATH OPTIONS AVAILABLE
+PROBABILITY OF SURVIVAL:
+ROUTE A: 71%
+ROUTE B: 38%
+ROUTE C: 19%
 ```
 
-The words settled in the air, neutral and final.
+Clear.
+Helpful.
+Neutral.
 
-Rowan felt the familiar chill crawl up her spine.
+Kellan squinted at the empty space. “Which one?”
 
-Lio glanced at her. “Is that… bad?”
+Rowan didn’t answer right away.
 
-Rowan considered. “It’s honest.”
+Route A glowed faintly, as if eager. Wide corridor. Stable footing. Minimal variance.
 
-They moved down the first terrace ramp, blending into foot traffic. No one stopped them. No one welcomed them. A few curious glances slid their way, then moved on.
+Route C disappeared into uneven stone and shadow.
 
-Normal.
+Rowan felt the familiar pull—optimization dressed up as kindness.
 
-That worried her more than hostility.
+She exhaled slowly.
 
-The overlay updated again, slower than before.
+“What happens if we take C?” Lio asked.
 
-```
-DEVIATION TOLERANCE: REDUCED
-CORRECTIVE INFLUENCE: ESCALATED
-```
+Rowan swallowed. “The system expects us not to.”
 
-Rowan’s jaw tightened.
+Kellan grimaced. “That sounds bad.”
 
-There it was.
+Rowan nodded. “Yes.”
 
-The system wasn’t angry.
+Silence stretched.
 
-It was adjusting parameters.
+This was the cost the Wildcard had meant.
 
-Kellan rubbed at his temples. “I don’t like this place,” he muttered.
+Not heroics.
+Not rebellion.
 
-Rowan nodded. “You shouldn’t.”
+Consistency.
 
-Lio hesitated. “Can we leave?”
+If she wanted to matter to the system—to stay visible as an anomaly—she couldn’t only resist when it was dramatic. She had to resist when it was *inconvenient*.
 
-Rowan looked around—at the bridges, the clustered dwellings, the way movement funneled subtly toward certain paths.
+Rowan turned to face them both.
 
-“Yes,” she said. “But not without being noticed.”
+“I need to be clear,” she said. “If you stay with me, this won’t get easier. The system will keep pushing back. It will keep taking things.”
 
-They reached a small overlook where the city spread out beneath them, layered and alive. For a moment, Rowan allowed herself to simply watch.
+Lio’s hands curled into their sleeves. “Like Kellan?”
 
-So many people.
+Rowan nodded. “Yes.”
 
-So many variables.
+Kellan’s jaw tightened. “You didn’t do that to me.”
 
-The system loved this kind of environment. Enough complexity to hide its hands. Enough normalization that resistance looked like aberration.
+Rowan met his gaze. “I didn’t stop it.”
 
-Rowan felt the weight of the Wildcard’s words settle again.
+“That’s not the same,” he said, firmly.
 
-*Make it unsure.*
+Rowan looked away, then back again. “I can’t promise safety. I can’t promise fairness. I can promise that if the system comes for one of you, I won’t trade you for comfort.”
 
-The overlay flickered one last time.
-
-No warning.
-No suggestion.
-
-Just a quiet addition.
+The overlay flickered.
 
 ```
-NOTE: SUBJECT PROXIMITY INCREASED
+NOTE: PROLONGED DECISION DETECTED
 ```
 
-Rowan frowned. “Subject?”
+Rowan ignored it.
 
-The system did not clarify.
+Lio took a breath. “If we leave you,” they said softly, “does it stop?”
 
-Lio leaned closer. “Rowan?”
+Rowan hesitated.
 
-Rowan forced her attention back to them, pushing the unease aside. “We keep our heads down,” she said. “We learn how this place works. And we don’t assume the system’s version of ‘normal’ is safe.”
+“Yes,” she said. “Eventually.”
 
-Kellan managed a thin smile. “That sounds like a plan.”
+Lio nodded slowly, absorbing that.
 
-Rowan looked out over the city again.
+Then they shook their head. “Then that’s not a real option.”
 
-This was a different kind of dungeon.
+Rowan felt something crack—and then settle.
 
-One built of rules and incentives instead of claws and stone.
+Kellan stepped closer. “You don’t get to decide this alone,” he said. “If the cost is staying human, I’m in.”
 
-She felt something inside her settle—not fear, but focus.
+Rowan closed her eyes for a brief second.
 
-The system had tightened its grip.
+This was the commitment.
 
-Fine.
+Not spoken to the system.
+Not declared in defiance.
 
-Rowan squared her shoulders.
+Chosen, quietly, by people who knew the price.
 
-“Then I’ll need to be very careful,” she said quietly, “who I protect next.”
+Rowan opened her eyes and looked back at the fork.
+
+She stepped toward Route C.
+
+The overlay reacted instantly.
+
+```
+WARNING: DEVIATION INCREASING
+SURVIVAL PROBABILITY ADJUSTED: 19% → 17%
+```
+
+Rowan smiled faintly.
+
+“Still not zero,” she murmured.
+
+She turned back to them. “Stay close. Watch for anything that feels… too helpful.”
+
+Lio managed a small, nervous laugh. “That’s a weird thing to be afraid of.”
+
+Rowan nodded. “You’ll get used to it.”
+
+They moved into the shadowed corridor together.
+
+Behind them, the glow from Route A dimmed.
+
+The system recalculated.
+
+And for the first time, Rowan felt certain of something that had nothing to do with probability.
+
+She wasn’t trying to win.
+
+She was trying to remain.

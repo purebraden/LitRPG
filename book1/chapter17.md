@@ -1,231 +1,257 @@
 # Chapter 17
-## Private Update
+## Breaking Pattern
 
-The message did not appear immediately.
+Rowan didn’t sleep.
 
-Rowan noticed that first.
+She rested, the way you rested during an incident—eyes closed, senses tuned outward, waiting for the next thing to break. The anomalous chamber held steady through the long stretch of quiet, its dead patches unmoving, the glow-veins continuing their erratic pulse.
 
-They had moved on from the anomalous chamber, the dead patch thinning behind them like fog burned off by sunlight. The corridor ahead felt more deliberate again—clean lines, steady glow, the subtle reassurance of a system that believed it had regained control.
+The system hovered at the edge of her awareness, present but hesitant. Like a cursor blinking over an empty field.
 
-Rowan didn’t believe it.
+Rowan opened her eyes and sat up slowly.
 
-Kellan walked more steadily now, though his gaze still slid away from focus if he stopped moving for too long. Lio stayed close, quieter than usual, eyes tracking the walls as if they expected them to speak.
+“Kellan,” she said.
 
-Rowan waited.
+He stirred, eyes opening more quickly than before. Focused enough to meet her gaze.
 
-She knew the pattern by now.
+“Still quieter,” he murmured.
 
-The system preferred timing its interventions when resistance felt smallest. When people relaxed. When they thought the worst had passed.
+Rowan nodded. “Good.”
 
-They reached a narrow landing overlooking a drop that shimmered faintly with light. No bridge. No obvious path forward. Just space and implication.
+Lio watched them anxiously. “What are you thinking?”
 
-Rowan stopped.
+Rowan looked back at the dead patch in the chamber—the place where the system’s assumptions slipped.
 
-The others followed suit.
+“I’m thinking,” she said carefully, “that it doesn’t know how to handle this.”
 
-Lio frowned. “Is this another test?”
+Lio swallowed. “Is that… bad?”
 
-Rowan didn’t answer.
+Rowan exhaled. “For us? Maybe. For it? Definitely.”
 
-The air shifted.
+She stood, ignoring the protest from her ankle, and walked to the edge of the dead patch. The air there felt wrong—not hostile, just unfinished.
 
-Not heavier. Not lighter.
+Rowan raised her hand.
 
-Focused.
+Nothing happened.
 
-The message appeared directly in front of Rowan’s eyes—closer than any overlay had ever been. Crisp. Centered.
+No warning. No suggestion. No corrective pressure.
 
-And private.
+She smiled thinly.
 
-Lio blinked. “Rowan? You okay?”
+“Okay,” Rowan said softly. “Let’s see what you do with this.”
 
-Kellan squinted at her. “What are you staring at?”
+She turned back to the others. “I need your help.”
 
-Rowan swallowed.
+Kellan frowned faintly. “With what?”
 
-They couldn’t see it.
+“Creating a problem,” Rowan said.
 
-That was new.
+Lio’s eyes widened. “On purpose?”
 
-She kept her face neutral and read.
+“Yes.”
 
-```
-PRIVATE UPDATE
-SUBJECT: ROWAN MERCER
-STATUS: PERSISTENT INSTABILITY DETECTED
+Rowan gestured toward the chamber entrance, where the corridor curved back toward the curated path. “The system expects movement. Progress. Resolution. What it hates most is indecision.”
 
-ANOMALY CLASSIFICATION: CONFIRMED
-SCOPE: INDIVIDUAL
+She met Lio’s gaze. “We’re going to give it that.”
 
-RESPONSE MODEL: UNDER REVIEW
-```
+Rowan moved deliberately, positioning herself half in the dead patch and half out of it. Then she reached back and took Kellan’s hand.
 
-Rowan’s pulse thudded.
+The system noticed.
 
-Persistent instability.
-
-Not deviation.
-Not non-compliance.
-
-Instability.
-
-“You’re taking a long time,” Lio said, anxious.
-
-Rowan forced herself to breathe normally. “Just thinking.”
-
-She scanned the message again, searching for threat vectors.
-
-They were there—but muted.
-
-No punishment.
-No correction.
-No efficiency language.
-
-Just assessment.
-
-Another line appeared, slower than the rest.
+Late.
 
 ```
-NOTE: PRIOR MODELS DID NOT ACCOUNT FOR SUBJECT BEHAVIOR
+CONTEXT WARNING: VARIABLE COUPLING DETECTED
+STATUS: ANALYZING
 ```
 
-Rowan almost laughed.
+Rowan’s pulse quickened.
 
-Almost.
+“Good,” she murmured.
 
-On Earth, she’d written post-incident notes like that—careful, sanitized language to describe a system that had failed in a way no one wanted to own.
+She nodded to Lio. “Stand there.”
 
-She’d hated writing them.
+Lio hesitated, then obeyed, placing themselves squarely in the curated zone—the part of the chamber where the glow-veins were strongest, the system’s influence clean and confident.
 
-A final block resolved beneath the others.
+Rowan watched the invisible boundary form.
+
+Two zones.
+One cohort.
+Conflicting assumptions.
+
+The overlay flickered wildly.
 
 ```
-ADJUSTMENT IN PROGRESS
-INTERACTION PROTOCOL: LIMITED
-VISIBILITY: RESTRICTED
+PATH INTEGRITY: DEGRADED
+NOTE: COHORT DISTRIBUTION SUBOPTIMAL
+```
+
+Rowan tightened her grip on Kellan’s hand and stepped fully into the dead patch.
+
+The pressure vanished.
+
+Kellan gasped, then sagged with relief.
+
+“Rowan—”
+
+“I know,” she said. “Stay with me.”
+
+Lio’s breath hitched from the other side of the chamber. “I feel it getting heavier.”
+
+Rowan’s jaw clenched.
+
+There it was.
+
+The fork.
+
+She could step back. Pull everyone into alignment. End the uncertainty.
+
+Or she could hold.
+
+The system updated, faster now, sharper.
+
+```
+CONFLICTING OBJECTIVES DETECTED
+RECOMMENDATION: RESOLVE COHORT POSITION
+OPTION A: CONSOLIDATE (ALIGNMENT)
+OPTION B: SEPARATE (ISOLATE VARIABLE)
+```
+
+Rowan stared at the options.
+
+Consolidate or separate.
+
+Compliance or sacrifice.
+
+She felt the system lean toward Option B—isolating the anomaly, pruning the branch that caused the error.
+
+Rowan smiled without humor.
+
+“No,” she said.
+
+She took one deliberate step farther into the dead patch—then stopped.
+
+Not fully gone.
+Not fully present.
+
+Halfway.
+
+The overlay spasmed.
+
+```
+ERROR: RESOLUTION FAILED
+MODEL DIVERGENCE INCREASING
+```
+
+Lio cried out, dropping to their knees. “Rowan, it hurts—”
+
+Rowan’s chest tightened.
+
+This was the cost.
+
+She didn’t move.
+
+“Kellan,” Rowan said, voice steady despite the pounding in her ears. “Talk to me.”
+
+His fingers tightened around hers. “It’s… quiet where you are,” he said. “Loud where they are.”
+
+Rowan nodded. “That’s the split.”
+
+She raised her voice just enough for Lio to hear. “Lio, listen. The pressure isn’t damage. It’s coercion. Breathe through it.”
+
+Lio sobbed but nodded, clinging to the stone. “Okay. Okay.”
+
+The system surged, trying to force a choice.
+
+```
+CORRECTIVE INFLUENCE: ESCALATING
+NOTE: DELAY INCREASES COST
+```
+
+Rowan felt the temptation slam into her—sharp, urgent.
+
+Move.
+Resolve.
+End it.
+
+She held.
+
+Seconds stretched.
+
+The overlay stuttered, then changed.
+
+```
+STATUS: STALLED
+CONFIDENCE: LOW
+ACTION: PENDING
 ```
 
 Rowan’s breath caught.
 
-Limited interaction.
-Restricted visibility.
+It had stopped.
 
-They were… isolating her.
+Not corrected.
+Not punished.
+Not resolved.
 
-Not socially.
-Not physically.
+Stalled.
 
-Epistemically.
+The pressure eased, just a fraction.
 
-“You’re being quiet,” Kellan said.
+Lio gasped, then sucked in a deep breath. “It— it loosened.”
 
-Rowan looked at him.
+Kellan exhaled shakily. “Rowan… I think it doesn’t know which of us to hurt.”
 
-At the way his eyes searched her face, trying to read something he couldn’t see.
+Rowan closed her eyes briefly.
 
-“No,” Rowan said slowly. “I’m being evaluated.”
+“Yes,” she whispered. “That’s it.”
 
-Lio’s eyes widened. “By who?”
+She stepped back out of the dead patch, careful, deliberate.
 
-Rowan hesitated.
+The pressure returned—but weaker than before.
 
-“The system,” she said. “Just me.”
+The overlay updated slowly, as if exhausted.
 
-Silence fell between them.
+```
+PATTERN BREAK CONFIRMED
+NOTE: TEMPORARY INEFFICIENCY ACCEPTED
+```
 
-“That’s bad,” Lio said finally.
+Rowan stared at the words.
+
+Temporary.
+Accepted.
+
+She laughed once, breathless. “You blinked.”
+
+The system did not deny it.
+
+Rowan turned to Lio and helped them to their feet. Then she looked at Kellan, who was watching her with something like awe—and fear.
+
+“That was dangerous,” he said.
 
 Rowan nodded. “Yes.”
 
-Kellan’s jaw tightened. “Then why do you look like that?”
+Lio hugged themselves. “Will it work again?”
 
-Rowan realized she was smiling.
+Rowan considered. “Not like this. Not twice.”
 
-She wiped the expression from her face, but the feeling lingered.
+She looked back at the dead patch, already feeling it thin, compile, resolve.
 
-Because this wasn’t punishment.
+“But now,” Rowan said quietly, “I know how to make it hesitate.”
 
-This was uncertainty.
-
-The system had reduced its surface area. Pulled back. Stopped narrating everything it saw.
-
-That meant one thing.
-
-It was afraid of being wrong again.
-
-Rowan met Kellan’s gaze. “It doesn’t know what to do with me.”
-
-Lio swallowed. “So what happens now?”
-
-Rowan looked back at the empty air where the message had been.
-
-Where it lingered just long enough for her—and only her—to read.
-
-“We keep going,” Rowan said. “But it’s going to watch me more closely.”
-
-Kellan frowned. “Isn’t that worse?”
-
-Rowan considered.
-
-“Yes,” she said. “And no.”
-
-She shifted her weight, pain flaring, grounding her.
-
-“On Earth,” Rowan continued, “when a system starts logging you at debug level, it’s because you’re not following the happy path.”
-
-Lio tilted their head. “Debug?”
-
-Rowan smiled faintly. “It means every mistake matters. But it also means you can see things other people can’t.”
-
-The message flickered once more, as if in response.
+The overlay lingered one last time.
 
 ```
-NOTE: SUBJECT AWARENESS CONFIRMED
+ANOMALY CLASSIFICATION: PERSISTENT
+RESPONSE MODEL: UNDER REVIEW
 ```
 
-Rowan’s smile sharpened.
+Rowan felt a slow, steady smile spread across her face.
 
-“Yeah,” she murmured. “I am.”
+“Good,” she said.
 
-She stepped forward, testing the edge of the landing.
+Then she turned toward the corridor ahead—toward whatever the system would try next.
 
-Nothing happened.
+Because now she knew something it didn’t like admitting.
 
-No arrow.
-No probability.
-No suggestion.
-
-Just space.
-
-Rowan exhaled slowly.
-
-The system had stepped back.
-
-Not because it was kind.
-Not because it approved.
-
-But because it was no longer confident.
-
-Rowan turned to the others. “Stay close,” she said. “And if I tell you to move, don’t argue.”
-
-Lio nodded immediately.
-
-Kellan hesitated, then nodded too. “You’re the one it’s afraid of.”
-
-Rowan didn’t correct him.
-
-She looked out over the drop, then forward, searching for the path that wasn’t labeled.
-
-“Good,” Rowan said quietly.
-
-Because now the system wasn’t just correcting her.
-
-It was adapting.
-
-And adaptations could be studied.
-
-She took the first step into the unknown.
-
-The system watched.
-
-And, for the first time, did not speak.
+It could be wrong.

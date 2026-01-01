@@ -1,217 +1,291 @@
 # Chapter 9
-## The Optimizers
+## The Event
 
-They found the optimizers an hour later.
+The corridor didn’t announce the correction.
 
-Not because they were looking for them—because the corridor deposited them into a bright, clean chamber with banners.
+No siren. No text in bold. Just a gentle change in the air—as if the stone decided to breathe a little shallower.
 
-Actual banners.
+The glow-veins ahead brightened, and behind them the light dimmed to an ugly, bruise-purple. The hallway that had felt like a runway now felt like a funnel.
 
-Cloth hanging from the ceiling, dyed a pale, serene blue. Symbols embroidered in tidy lines. A ring of people sitting cross-legged in a circle, hands resting on knees, eyes closed.
+Rowan stopped walking.
 
-It looked like a wellness retreat designed by someone who’d never been genuinely tired.
+Kellan nearly collided with her back. “What—”
 
-Rowan stopped at the threshold.
+“Quiet,” she said, not harsh, just certain.
 
-Kellan muttered, “Oh no.”
+Lio hovered on her left, clutching the waterskin like it was contraband. Their eyes were wide and too shiny.
 
-Lio whispered, “They look… peaceful.”
+A faint sound rolled toward them from behind. Footsteps. Many. Then voices—murmured, tense, rising and falling like people arguing without wanting the argument to exist.
 
-Rowan’s stomach turned. “So do cults.”
+Rowan’s mind tried to map it the way she’d mapped outages. Identify the source. Trace the propagation. Find the lever being pulled.
 
-A man in the circle opened his eyes and smiled.
+The system had said “event.”
 
-The smile was soft. Kind. Practiced.
+This was the event: a social ripple. A crowd.
 
-“Welcome,” he said warmly. “You’re safe here.”
+Kellan swore under his breath. “They followed.”
 
-Rowan didn’t move. “That’s a bold claim.”
+“Of course they did,” Rowan murmured. “It’s cheaper than sending monsters.”
 
-He chuckled lightly, like she’d made a cute joke. “We work with the Path.”
+Lio looked like they might vomit. “Rowan, what do we do?”
 
-Rowan’s overlay flickered before she could stop herself from checking it.
+Rowan didn’t answer immediately. She was watching the corridor behind them, watching the darkness flicker with approaching light.
 
-NODE: ALIGNMENT SANCTUM
-ACCESS: OPEN
-NOTE: HIGH COMPLIANCE ZONE
+The crowd rounded the curve.
 
-Rowan felt her skin crawl.
+Sable was in front.
 
-The man stood gracefully. He wore a tunic that fit too well for a world of scavenged clothing. His hair was clean. His nails were clean.
+Her pace was controlled, purposeful. The people behind her were not. Some looked angry. Some looked scared. Most looked resigned—like they were walking because walking was the only way to stop the feeling.
 
-He extended a hand. “I’m Brother Halden.”
+Rowan saw it on their faces and felt something cold in her stomach.
 
-Brother.
+That heaviness. That whispering “give up.” The system didn’t need a voice in Rowan’s head if it could outsource enforcement to people who couldn’t tolerate the pressure any other way.
 
-Rowan’s eyebrows lifted. “You’re from Earth and you’re calling yourself Brother?”
+Sable stopped ten feet away.
 
-Halden’s smile didn’t falter. “Names are for identities. Identities are… burdens. Here, we become what the Path needs.”
+She didn’t raise her voice. She didn’t have to.
 
-Rowan glanced at the people in the circle. One was a young woman with a shaved head, face serene. Another was an older guy with a beard and tired eyes that didn’t match the calm expression he was wearing.
+“Kellan,” she said. “You brought them to the stores.”
 
-Rowan felt a flash of memory: an all-hands meeting, camera grid of faces, everyone nodding along while leadership announced layoffs. She’d watched her coworkers’ expressions—how still they went, how carefully neutral, as if emotion would cost them their job.
+Kellan lifted his chin. “Yes.”
 
-Same stillness. Different room.
+Murmurs behind Sable. A sharp inhale. Someone muttered, “Idiot.”
 
-Kellan’s voice was low. “Don’t.”
+Sable’s eyes flicked to Rowan, then Lio. “You took supplies.”
 
-Rowan murmured, “I wasn’t going to.”
+Rowan didn’t deny it. “Water and bandages.”
 
-Halden’s gaze flicked over them, gentle as a scanning tool. “You’ve brought noise with you.”
+Sable’s mouth tightened. “You know what that does.”
 
-Rowan’s jaw tightened. “Noise?”
+“No,” Rowan said calmly. “I know what you think it does.”
 
-Halden sighed, sympathetically. “Deviation. Resistance. The system corrects because it must. It keeps the world stable.”
+Sable’s gaze hardened. “You’re not the first person to think they can outsmart it.”
 
-Rowan laughed once, sharp. “Tell that to the people it crushes.”
+Rowan almost laughed. Almost. She’d heard the same tone in conference rooms with bad leaders: the patronizing certainty that systems were natural laws and not human decisions.
 
-Halden’s smile softened into pity. “Ah.”
+“I’m not trying to outsmart it,” Rowan said. “I’m trying to survive without turning into… whatever you are.”
 
-Pity. The fastest way to make Rowan angry.
+The words came out sharper than she intended.
 
-“Come,” Halden said, still kind. “Sit. Drink. Rest. You’re injured.”
+Sable flinched, very slightly. The crowd shifted. A few faces hardened.
 
-Lio shifted forward instinctively. Then froze, glancing at Rowan.
+Kellan stepped forward, putting himself half a step ahead of Rowan like he could shield her from a mob with his ribs.
 
-Rowan studied Halden. “What’s the cost?”
+“It’s my choice,” he said. “Not theirs.”
 
-Halden blinked like he hadn’t considered that question in years. “The cost… is acceptance.”
+Sable’s eyes narrowed. “No. It doesn’t work like that.”
 
-Rowan’s overlay updated.
+Rowan’s overlay flickered at the edge of her vision, and she hated herself for looking, but she needed the information.
 
-SUGGESTED ACTION: ACCEPT ALIGNMENT
-REWARD: STABILITY CREDIT (MODERATE)
-NOTE: COMPLIANCE REDUCES DEBT LOAD
+CORRECTIVE INFLUENCE: ACTIVE
+SCOPE: COHORT
+MECHANISM: REINTEGRATION
+SUGGESTED REMEDIATION: RETURN RESOURCES / RETURN DEVIATORS
 
-Rowan’s heart thudded.
+Rowan’s jaw clenched.
 
-Of course it did.
+Reintegration. Like they were malware.
 
-The system was offering a debt consolidation plan.
+Lio’s hand tightened on Rowan’s sleeve.
 
-Rowan’s mouth went dry. Her ankle hurt so badly she could taste it. The thought of moderate stabilization was a warm, seductive thing.
+A memory flashed—Rowan at her old desk, fluorescent lights buzzing, watching a Slack thread explode during an outage while someone in leadership typed, “Can we get the team aligned?” as if “alignment” would stop a database from falling over.
 
-And that terrified her.
+The same energy. The same dangerous comfort in “getting back to normal.”
 
-Halden gestured toward the circle again. “We don’t fight. We don’t bargain. We listen.”
+Rowan forced her voice softer. Less sharp. “Sable. Why are you doing this?”
 
-Kellan’s voice was rough. “And what happens when the Path says to leave someone behind?”
+Sable’s gaze flicked over the crowd behind her. Then back to Rowan, and there—just for a moment—Rowan saw exhaustion.
 
-Halden’s expression didn’t change. “Then you leave them.”
+“Because I can’t afford another correction,” Sable said quietly. “Because the last time someone stole supplies, the water stopped running for three days. People got sick.”
 
-Lio made a small choking sound.
+Rowan’s chest tightened. “You’re blaming the thief. Not the system.”
 
-Rowan felt cold spread through her chest.
+Sable’s face went rigid. “Blame doesn’t matter. Survival does.”
 
-Halden continued gently, “Attachment creates inefficiency. Inefficiency creates suffering. You want to end suffering, yes?”
+A man in the crowd spoke up, voice trembling with fear-dressed-as-anger. “Give them back. Just give them back and go. We don’t want trouble.”
 
-Rowan heard herself say, without raising her voice, “You’re describing anesthetic death.”
+Lio made a small sound, a whimper they tried to swallow.
 
-Halden’s smile faltered for the first time. “No. We’re describing peace.”
+Rowan felt the system’s pressure then—not a tug toward movement, but a subtle suggestion, like the easy path being placed in her hand.
 
-Rowan shook her head. “Peace without choice is sedation.”
+Give the water back. Offer Kellan. Keep Lio. Trade one for the many.
 
-Halden’s eyes narrowed slightly. Not angry. Just… corrected. “You’ve been visible, haven’t you.”
+Rowan could feel how tempting it was for them. Not because they were cruel, but because the weight in their minds would ease if they complied. The system had turned relief into a reward.
 
-Rowan didn’t answer.
+Rowan’s throat went dry.
 
-Halden stepped closer. “It’s a heavy gift. We can help you carry it.”
+She remembered being twenty-two, first job in tech, first week on-call. Her phone had screamed at 2:17 a.m., and she’d sat up in bed so fast she’d smacked her knee on the nightstand. She’d spent the next six hours fixing a cascading failure someone else had set up months ago, and when the sun came up she’d felt like she’d aged ten years.
 
-Rowan’s overlay flickered with another temptation.
+She’d gone into the office later that morning, hair still damp from a too-fast shower, and her manager had said, smiling, “Great job, Rowan. Next time, try not to escalate so quickly.”
 
-REWARD AVAILABLE: STABILITY CREDIT (MODERATE)
-NOTE: CLAIMING WILL REDUCE CORRECTIVE PRESSURE ON COHORT
+She’d nodded. She’d swallowed her anger. She’d learned the lesson: make the system comfortable, even if it hurts you.
 
-Kellan’s shoulders sagged, just a fraction, as if he could feel the offer even without seeing it. “Rowan… I feel it. Like… like if we stay, it’ll stop.”
+She’d regretted it for years.
 
-Rowan’s throat tightened.
+Not again.
 
-She remembered another night on-call, years ago. She’d been so tired her hands shook when she typed. The incident channel was full of messages: “Any updates?” “ETA?” “Can we roll back?” She’d stared at her screen and thought, if I just shut my laptop, it stops. The alerts stop. The blame stops. I can sleep.
+Rowan lifted the waterskin from Lio’s hands. Lio startled.
 
-She hadn’t shut it. She’d kept going, because someone downstream would get hurt if she didn’t.
+Rowan held it up so the crowd could see.
 
-Same shape. Different stakes.
+Silence tightened.
 
-Rowan looked at Lio.
+Rowan’s overlay flickered.
 
-Lio looked back with raw, pleading hope. “Can we just… rest?”
+LIKELIHOOD OF EVENT: 78%
 
-Rowan’s heart squeezed.
+Rowan ignored it.
 
-“Not here,” Rowan said softly.
+“This?” she said, voice clear. “This is water.”
 
-Halden’s voice stayed kind. “Why not? We won’t harm you.”
+Someone in the crowd flinched as if she’d raised a weapon.
 
-Rowan met his eyes. “You already did.”
+Rowan gestured toward the node behind them, the direction the fountain was in. “You have water back there. You’re letting the system decide who’s allowed to drink.”
 
-She pointed at the circle with her chin. “Look at them.”
+Sable’s eyes sharpened. “Don’t—”
 
-Halden’s smile returned, almost sad. “They’re free.”
+Rowan cut her off gently. “No. Listen.”
 
-Rowan’s voice went quiet. “They’re gone.”
+She turned her gaze to the crowd. Faces. People. A teenager with a split lip. A woman clutching a child’s hand so tightly the child’s fingers were white. A man with a hollow stare like he hadn’t slept in weeks.
 
-Halden’s eyes flashed—an instant, sharp and human. Then the calm settled back over him like a blanket.
+“I get it,” Rowan said. “I get why you’re doing this. Relief feels like safety.”
 
-“That’s your fear speaking,” he said.
+The crowd shifted, murmuring.
 
-Rowan nodded. “Yes.”
+“And the system is counting on that,” Rowan continued. “It’s training you to do its corrections for it. Because it’s cheaper.”
 
-And then: “And my pattern recognition.”
+Sable’s voice snapped, suddenly loud. “Stop!”
 
-Halden’s gaze sharpened. “If you refuse, the system will correct you again.”
+Rowan froze.
 
-Rowan shrugged, careful, because her ribs still ached. “Let it try.”
+Not because Sable was loud, but because the air changed.
 
-Halden exhaled. “Then at least take the Stabil—”
+A pressure wave swept the corridor. Not a blast—more like gravity briefly increasing, making everyone’s shoulders dip.
 
-“No,” Rowan said, cutting him off.
+People gasped. Some staggered.
 
-She felt the craving for relief in her own body. The humiliating urge to accept. To stop.
+Lio cried out, hands flying to their head.
 
-Rowan hated that she wanted it.
+Kellan bent at the waist, teeth clenched. “There—it is—”
 
-She looked at the circle again, at the people sitting so still, and she knew—deep in her bones—that the system wasn’t just rewarding them. It was consuming them.
+Rowan felt it too, but differently. Her thoughts didn’t get heavier. Instead, the edges of her vision sharpened. Like the system had decided she needed to see exactly what it was doing.
 
-Rowan turned away.
+Text appeared, crisp and merciless.
 
-“Come on,” she said to Kellan and Lio.
+CORRECTION EVENT: COHORT REALIGNMENT
+EFFECT: EMOTIONAL LOAD INCREASE (NON-VISIBLE USERS)
+DURATION: UNTIL REMEDIATION
 
-Lio didn’t move.
+Rowan stared.
 
-Rowan paused, heart thudding, and looked back.
+“You’re doing it,” she whispered.
 
-Lio’s gaze was locked on the circle, on the calm faces. “It looks… easier.”
+Sable’s face twisted with pain. “Don’t make this worse.”
 
-Rowan walked back to them and lowered her voice. “It is.”
+Rowan looked at her.
 
-Lio swallowed. “Then why—”
+This wasn’t a villain. This was a person being used.
 
-“Because it’s not yours,” Rowan said. “It’s something they sold.”
+Rowan exhaled slowly, then stepped forward, limping, until she was closer to Sable than was wise.
 
-Lio’s eyes filled. “I’m so tired.”
+She held the waterskin out.
 
-Rowan’s throat tightened. She nodded once, acknowledging it.
+A collective inhale from the crowd.
 
-Then she did something she hadn’t planned.
+Sable’s eyes flicked to it, hungry and fearful at once.
 
-She reached into her pocket and pulled out the scrap of creature membrane—the last bit she’d used to brace her ankle.
+Rowan’s overlay flashed:
 
-She pressed it into Lio’s palm.
+SUGGESTED REMEDIATION: SURRENDER RESOURCES / SURRENDER DEVIATOR (KELLAN)
 
-Lio blinked. “What is—”
+Rowan’s grip tightened.
 
-“A reminder,” Rowan said. “You fought. You didn’t just comply. That matters.”
+She held the waterskin steady. “You can take this,” Rowan said quietly. “And you can still be wrong.”
 
-Lio’s fingers curled around it.
+Sable’s hand twitched toward it.
 
-Rowan squeezed their hand once. “Come with me.”
+Then Rowan pulled the waterskin back, just a fraction.
 
-Lio inhaled shakily, then nodded.
+“But you don’t get him,” Rowan said, voice low. “And you don’t get her.” She nodded toward Lio, trembling behind her.
 
-They turned away from the circle.
+Sable’s eyes widened. “We can’t—”
 
-Halden’s voice followed them, still gentle. “The Path is patient. You’ll come back when you’re ready to stop suffering.”
+“You can,” Rowan said. “You’re choosing not to because you want the weight to stop.”
 
-Rowan didn’t look back.
+The crowd murmured. Someone sobbed softly.
 
-“We’ll come back,” she murmured to herself, “when you’re ready to stop calling it peace.”
+Rowan raised her voice just enough to carry. “Here’s what I’ll do. I’ll return the water. I’ll return the extra bandages. But Kellan stays with us.”
+
+Kellan jerked his head up. “Rowan—”
+
+Rowan glanced back at him. “This isn’t charity. This is negotiation.”
+
+She turned back to Sable. “If the system punishes you anyway, you’ll know it wasn’t about the supplies.”
+
+Sable stared at Rowan like she’d never been offered a third option in her life.
+
+The pressure in the air eased slightly—as if the system approved of partial compliance.
+
+Rowan felt sick.
+
+Sable’s jaw worked. “Fine,” she said finally.
+
+Rowan handed the waterskin over.
+
+The moment Sable’s fingers closed around it, the pressure wave eased. People straightened. Several exhaled like they’d been drowning.
+
+Rowan watched their relief and hated the system more.
+
+Sable’s voice went brittle. “Give the rest.”
+
+Rowan nodded once and gestured to Kellan. He pulled out half the bandages and tossed them forward.
+
+Sable caught them clumsily.
+
+The overlay updated.
+
+CORRECTION EVENT: RESOLVING
+NOTE: EFFICIENCY IMPROVED
+
+Rowan’s mouth went tight.
+
+She glanced at Lio. Their face had color again. Their eyes focused.
+
+“You okay?” Rowan asked softly.
+
+Lio nodded, shakily. “It got quieter.”
+
+Rowan looked back at Sable. “You feel better now?”
+
+Sable’s jaw clenched. “Yes.”
+
+Rowan leaned in and spoke so only Sable could hear. “That feeling? That relief? It’s a leash.”
+
+Sable’s eyes flickered with something like fear. “And what are you going to do?”
+
+Rowan didn’t smile. “Chew through it.”
+
+Rowan stepped back, then turned to the corridor ahead.
+
+“Come on,” she said to Kellan and Lio. “We move before it recalculates.”
+
+Kellan followed, shoulders tense. Lio stayed close.
+
+Behind them, Sable’s voice rang out, sharp. “If you bring correction back here again—”
+
+Rowan didn’t turn around.
+
+“Then you’ll have to decide whether you’re protecting people,” she called over her shoulder, “or protecting the system.”
+
+They walked.
+
+And in Rowan’s vision, the debt ledger ticked upward anyway, quiet as a clock.
+
+DEBT: CURRENT LOAD 7
+NOTE: INTEREST PENDING
+
+Rowan swallowed hard.
+
+So. Payment deferred.
+
+That meant the system would collect later.

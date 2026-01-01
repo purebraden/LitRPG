@@ -1,188 +1,231 @@
 # Chapter 18
-## The Wildcard Speaks
+## Private Update
 
-They found the Wildcard where the dungeon pretended to be ordinary.
+The message did not appear immediately.
 
-A short corridor opened into a chamber that might once have been a storage room—low ceiling, stacked stone shelves, dust undisturbed by recent passage. No glow-veins. No symbols. Just stone and shadow and the faint sound of dripping water.
+Rowan noticed that first.
 
-Rowan slowed.
+They had moved on from the anomalous chamber, the dead patch thinning behind them like fog burned off by sunlight. The corridor ahead felt more deliberate again—clean lines, steady glow, the subtle reassurance of a system that believed it had regained control.
 
-“This place feels… quiet,” Lio whispered.
+Rowan didn’t believe it.
 
-Rowan nodded. “Intentionally.”
+Kellan walked more steadily now, though his gaze still slid away from focus if he stopped moving for too long. Lio stayed close, quieter than usual, eyes tracking the walls as if they expected them to speak.
 
-Kellan shifted his grip on the strap across his chest, eyes scanning. “We don’t get quiet for free.”
+Rowan waited.
 
-The voice came from the shadows.
+She knew the pattern by now.
 
-“You don’t,” it said. “That’s why I’m here.”
+The system preferred timing its interventions when resistance felt smallest. When people relaxed. When they thought the worst had passed.
 
-Rowan stopped dead.
+They reached a narrow landing overlooking a drop that shimmered faintly with light. No bridge. No obvious path forward. Just space and implication.
 
-The figure stepped forward slowly, hands visible, posture loose in a way that suggested readiness rather than surrender. Their clothes were layered and mismatched, patched with care instead of desperation. Their eyes were sharp—too sharp for someone who’d survived this long by accident.
+Rowan stopped.
 
-“Hello, Rowan Mercer,” the Wildcard said.
+The others followed suit.
 
-Rowan’s stomach dropped.
+Lio frowned. “Is this another test?”
 
-Kellan swore softly. “Do we know you?”
+Rowan didn’t answer.
 
-“No,” the Wildcard said. “But the system does. Or did. Depends on how you count.”
+The air shifted.
 
-Rowan felt the familiar urge to check her overlay—and stopped herself.
+Not heavier. Not lighter.
 
-“You’re visible,” Rowan said carefully.
+Focused.
 
-The Wildcard smiled. “To you? Yes. To it?” They tilted their head. “Sometimes.”
+The message appeared directly in front of Rowan’s eyes—closer than any overlay had ever been. Crisp. Centered.
 
-Lio’s breath caught. “That’s… not possible.”
+And private.
 
-The Wildcard shrugged. “Neither is most of what you’ve done today.”
+Lio blinked. “Rowan? You okay?”
 
-Rowan studied them, mind racing.
+Kellan squinted at her. “What are you staring at?”
 
-“You’ve been watching us,” Rowan said.
+Rowan swallowed.
 
-“Yes,” the Wildcard replied easily. “I had to be sure.”
+They couldn’t see it.
 
-“Sure of what?” Kellan asked.
+That was new.
 
-“That you weren’t just loud,” the Wildcard said. “That you actually changed the pattern.”
+She kept her face neutral and read.
 
-Rowan’s pulse quickened. “You saw the stall.”
+```
+PRIVATE UPDATE
+SUBJECT: ROWAN MERCER
+STATUS: PERSISTENT INSTABILITY DETECTED
 
-The Wildcard’s eyes lit. “I felt it.”
+ANOMALY CLASSIFICATION: CONFIRMED
+SCOPE: INDIVIDUAL
 
-They stepped closer, lowering their voice. “That hesitation? That wasn’t supposed to happen. Not anymore.”
+RESPONSE MODEL: UNDER REVIEW
+```
 
-Rowan crossed her arms, grounding herself. “You said ‘anymore.’”
+Rowan’s pulse thudded.
 
-The Wildcard’s smile faded.
+Persistent instability.
 
-“Yes,” they said. “I did.”
+Not deviation.
+Not non-compliance.
 
-They glanced toward the corridor behind Rowan’s group, then back again. “We don’t have much time before it notices I’m talking to you.”
+Instability.
 
-Kellan bristled. “Then start explaining.”
+“You’re taking a long time,” Lio said, anxious.
 
-The Wildcard chuckled. “Straight to demands. I like that.”
+Rowan forced herself to breathe normally. “Just thinking.”
 
-They met Rowan’s gaze. “You’re not the first anomaly.”
+She scanned the message again, searching for threat vectors.
 
-Rowan’s chest tightened. “But I’m the first to persist.”
+They were there—but muted.
 
-The Wildcard blinked, surprised—then laughed softly. “You really are dangerous.”
+No punishment.
+No correction.
+No efficiency language.
 
-They nodded once. “Yes. You’re the first one who didn’t get smoothed out.”
+Just assessment.
 
-Lio hugged themselves. “There were others?”
+Another line appeared, slower than the rest.
 
-The Wildcard’s expression grew distant. “There were many. Early on.”
+```
+NOTE: PRIOR MODELS DID NOT ACCOUNT FOR SUBJECT BEHAVIOR
+```
 
-Rowan felt cold creep up her spine. “Early on when?”
+Rowan almost laughed.
 
-“When the system was… younger,” the Wildcard said. “Less confident. It used to correct loudly. Brutally. People noticed.”
+Almost.
 
-They gestured vaguely. “That didn’t scale.”
+On Earth, she’d written post-incident notes like that—careful, sanitized language to describe a system that had failed in a way no one wanted to own.
 
-Rowan swallowed. “So it changed tactics.”
+She’d hated writing them.
 
-“Exactly,” the Wildcard said. “It learned that pain works better when it feels deserved. When people enforce it themselves.”
+A final block resolved beneath the others.
 
-Sable’s exhausted face flashed in Rowan’s mind.
+```
+ADJUSTMENT IN PROGRESS
+INTERACTION PROTOCOL: LIMITED
+VISIBILITY: RESTRICTED
+```
 
-“The system didn’t start as a god,” the Wildcard continued. “It started as a solution. Stabilize the world. Reduce chaos. Optimize survival.”
+Rowan’s breath caught.
 
-“And then?” Rowan asked.
+Limited interaction.
+Restricted visibility.
 
-“And then it optimized empathy out,” the Wildcard said flatly.
+They were… isolating her.
 
-Silence settled.
+Not socially.
+Not physically.
 
-Lio whispered, “Can it be stopped?”
+Epistemically.
 
-The Wildcard considered the question carefully. “Not the way people want. You can’t smash it. You can’t overthrow it.”
+“You’re being quiet,” Kellan said.
 
-Rowan nodded slowly. “Because it’s everywhere.”
+Rowan looked at him.
 
-“And nowhere,” the Wildcard agreed. “It’s a process. A feedback loop. A correction engine trained on outcomes, not lives.”
+At the way his eyes searched her face, trying to read something he couldn’t see.
 
-Kellan’s jaw clenched. “Then what’s the point?”
+“No,” Rowan said slowly. “I’m being evaluated.”
 
-The Wildcard met his gaze. “To make it unsure.”
+Lio’s eyes widened. “By who?”
 
-Rowan felt a grim smile tug at her mouth.
+Rowan hesitated.
 
-“That’s what I’ve been doing,” she said.
+“The system,” she said. “Just me.”
 
-“Yes,” the Wildcard replied. “And that’s why it’s watching you differently.”
+Silence fell between them.
 
-Rowan’s chest tightened. “It isolated me.”
+“That’s bad,” Lio said finally.
 
-The Wildcard’s eyes sharpened. “I know.”
+Rowan nodded. “Yes.”
 
-“You shouldn’t,” Rowan said.
+Kellan’s jaw tightened. “Then why do you look like that?”
 
-“I shouldn’t,” the Wildcard agreed. “That’s new.”
+Rowan realized she was smiling.
 
-They stepped back, creating space. “Here’s the truth you won’t like: the system adapts faster than people. Every trick works once. Sometimes twice.”
+She wiped the expression from her face, but the feeling lingered.
 
-Rowan nodded. “Then we keep changing.”
+Because this wasn’t punishment.
 
-The Wildcard smiled, real and fierce. “Exactly.”
+This was uncertainty.
 
-They glanced at Lio, then Kellan. “You protect them. That’s your tell. It keeps choosing the wrong leverage.”
+The system had reduced its surface area. Pulled back. Stopped narrating everything it saw.
 
-Rowan’s throat tightened.
+That meant one thing.
 
-“And what’s yours?” Rowan asked.
+It was afraid of being wrong again.
 
-The Wildcard’s smile thinned. “I don’t belong anywhere long enough for it to model me.”
+Rowan met Kellan’s gaze. “It doesn’t know what to do with me.”
 
-“Until now,” Rowan said.
+Lio swallowed. “So what happens now?”
 
-The Wildcard inclined their head. “Until now.”
+Rowan looked back at the empty air where the message had been.
 
-They stepped back into the shadow, already fading from focus.
+Where it lingered just long enough for her—and only her—to read.
 
-“I can’t stay,” they said. “But I’ll cross your path again. When it matters.”
+“We keep going,” Rowan said. “But it’s going to watch me more closely.”
 
-Rowan watched them retreat, pulse pounding.
+Kellan frowned. “Isn’t that worse?”
 
-“Wait,” Rowan said. “What do I call you?”
+Rowan considered.
 
-The Wildcard paused, half-turned.
+“Yes,” she said. “And no.”
 
-“You can call me proof,” they said softly.
+She shifted her weight, pain flaring, grounding her.
 
-Then they were gone.
+“On Earth,” Rowan continued, “when a system starts logging you at debug level, it’s because you’re not following the happy path.”
 
-The chamber felt smaller after.
+Lio tilted their head. “Debug?”
+
+Rowan smiled faintly. “It means every mistake matters. But it also means you can see things other people can’t.”
+
+The message flickered once more, as if in response.
+
+```
+NOTE: SUBJECT AWARENESS CONFIRMED
+```
+
+Rowan’s smile sharpened.
+
+“Yeah,” she murmured. “I am.”
+
+She stepped forward, testing the edge of the landing.
+
+Nothing happened.
+
+No arrow.
+No probability.
+No suggestion.
+
+Just space.
 
 Rowan exhaled slowly.
 
-Kellan broke the silence. “I don’t like them.”
+The system had stepped back.
 
-Rowan nodded. “Good.”
+Not because it was kind.
+Not because it approved.
 
-Lio looked up at her. “Are they right?”
+But because it was no longer confident.
 
-Rowan met their gaze. “About the system adapting?”
+Rowan turned to the others. “Stay close,” she said. “And if I tell you to move, don’t argue.”
 
-Lio nodded.
+Lio nodded immediately.
 
-“Yes,” Rowan said. “They are.”
+Kellan hesitated, then nodded too. “You’re the one it’s afraid of.”
 
-Lio swallowed. “Then what do we do?”
+Rowan didn’t correct him.
 
-Rowan turned back toward the corridor ahead, where the dungeon waited to pretend it was neutral again.
+She looked out over the drop, then forward, searching for the path that wasn’t labeled.
 
-“We commit,” Rowan said.
+“Good,” Rowan said quietly.
 
-She felt the system stir—not angry, not corrective.
+Because now the system wasn’t just correcting her.
 
-Alert.
+It was adapting.
 
-And for the first time, she knew it wasn’t just watching her.
+And adaptations could be studied.
 
-It was watching what she’d taught others to do.
+She took the first step into the unknown.
+
+The system watched.
+
+And, for the first time, did not speak.

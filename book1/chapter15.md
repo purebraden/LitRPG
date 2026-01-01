@@ -1,210 +1,245 @@
 # Chapter 15
-## Anomalous Persistence
+## The Healing
 
-The system started lagging.
+They stayed in the alcove for three days.
 
-Rowan noticed it the way she’d noticed bad metrics back on Earth—not as a single failure, but as a pattern that didn’t quite line up. Messages that arrived a fraction too late. Overlays that flickered, then stabilized, as if reconsidering.
+Or maybe it was longer. Time felt unreliable here, stretched thin by exhaustion and fear and the constant awareness that the system was watching, waiting, calculating.
 
-She didn’t say anything at first.
+Rowan didn't sleep much. She couldn't. Every time she closed her eyes, she saw Kellan falling, saw the emptiness in his eyes, saw the way the system had taken something from him and left something else in its place.
 
-They moved slowly, Kellan’s weight heavy between her and Lio. He walked when guided, feet shuffling, eyes unfocused. Sometimes he murmured under his breath, fragments without context.
+She stayed close instead, watching his breathing, counting his pulse, making sure he was still alive. Still present. Still fighting.
 
-Too loud.
-Too many.
-Make it stop.
+Lio helped. They brought water when Rowan asked, sat close when she needed the contact, talked quietly when the silence got too loud.
 
-Rowan cataloged it all automatically, even as something cold settled in her chest.
+Together, they kept watch.
 
-This wasn’t temporary.
+Together, they survived.
 
-This was damage.
+On the second day, Kellan started responding.
 
-The corridor ahead narrowed, then widened into a chamber with a low ceiling and broken stone pillars. The glow-veins here were irregular, some dark, some pulsing erratically like a failing heartbeat.
+It was small, at first. A flicker of recognition when Rowan said his name. A twitch of his fingers when she held his hand. A shift in his breathing when Lio spoke.
 
-Rowan paused.
+Rowan cataloged it all, storing it away, building a picture of what was coming back and what was staying gone.
 
-Lio looked up at her. “Why are we stopping?”
+The system had taken something. But it hadn't taken everything.
 
-Rowan frowned slightly. “We’re not supposed to be here yet.”
+That mattered.
 
-Lio blinked. “How do you know?”
+On the third day, Kellan spoke.
 
-Rowan hesitated.
+His voice was rough, broken, like he'd forgotten how to use it. But it was his voice. It was him.
 
-Because the system hasn’t told me what to do.
-Because it’s quiet when it shouldn’t be.
-Because something is missing.
+"Rowan?"
 
-She shook her head. “Instinct.”
+Rowan's head snapped up. She'd been dozing, slumped against the wall, exhaustion finally catching up with her.
 
-That wasn’t entirely a lie.
+"I'm here," she said, moving closer, taking his hand. "I'm here. How are you feeling?"
 
-Rowan’s overlay appeared late—so late she’d already taken three steps into the chamber before it resolved.
+Kellan's eyes focused, just for a moment. Then drifted again. "Tired. Everything's… tired."
 
-```
-ZONE IDENTIFICATION: UNKNOWN
-STATUS: PENDING
-NOTE: DATA INCOMPLETE
-```
+Rowan's chest tightened. "That's okay. You're safe. We're safe. You can rest."
 
-Rowan stopped dead.
+Kellan's brow furrowed. "The system—"
 
-Her pulse thudded.
+"Is gone," Rowan said. "For now. It's quiet. You can rest."
 
-The system didn’t do “unknown.” Everything had a label. Everything fit into a box, even if the box was hostile.
+Kellan's eyes searched her face. "You're lying."
 
-This… wasn’t.
+Rowan's throat tightened. "No. I'm not. The system's not here. Not right now. We're in a safe place. You can rest."
 
-Lio felt her stop and nearly bumped into her. “Rowan?”
+Kellan's grip tightened on her hand. "Don't leave."
 
-Rowan held up a hand. “Do you see anything?”
+Rowan's eyes filled with tears. "I'm not going anywhere. I promise."
 
-Lio glanced around, confused. “Stone? Pillars? It smells weird.”
+Kellan's eyes closed. "Good. That's good."
 
-Kellan muttered, barely audible. “Static.”
+Rowan stayed there, holding his hand, watching him sleep, making sure he was still breathing, still alive, still fighting.
 
-Rowan’s breath caught.
+Lio moved closer, sitting beside her.
 
-She looked at him sharply. “What did you say?”
+"Is he going to be okay?" Lio asked.
 
-Kellan didn’t respond. His eyes were unfocused again, but his brow furrowed, like he was listening to something no one else could hear.
+Rowan swallowed. "I don't know. But he's getting better. That's something."
 
-Rowan turned slowly, scanning the chamber.
+Lio's voice was small. "What did the system do to him?"
 
-She saw it then.
+Rowan's jaw tightened. "It broke something. Something inside. Something important."
 
-Not text.
+Lio's eyes filled with tears. "Can it be fixed?"
 
-Absence.
+Rowan looked at Kellan. At the way he'd responded to her voice. At the way he'd held her hand. At the way he was still fighting, still present, still human.
 
-A dead patch in her vision, like a spot her eyes slid around instead of focusing on. When she tried to look directly at it, her overlay stuttered.
+"I don't know," Rowan said. "But I know he's not gone. I know he's still here. I know he's still fighting. And that's enough. For now, that's enough."
 
-```
-WARNING: SIGNAL DEGRADATION
-SOURCE: UNRESOLVED
-```
+Lio nodded slowly. "What do we do now?"
 
-Rowan’s mouth went dry.
+Rowan looked around the alcove. At the stone walls. At the darkness beyond. At the place that had become their temporary sanctuary.
 
-She took a careful step toward the dead patch.
+"We wait," Rowan said. "We heal. We rest. And then we keep going."
 
-Nothing stopped her.
+Lio's voice was quiet. "Where are we going?"
 
-No pressure. No warning. No corrective nudge.
+Rowan met their gaze. "Away from here. Away from the system. Somewhere we can be safe. Somewhere we can be free."
 
-That alone was terrifying.
+Lio's eyes searched her face. "Does that place exist?"
 
-Lio whispered, “Rowan… I don’t like this.”
+Rowan's throat tightened. "I don't know. But I'm going to find it. Or I'm going to make it."
 
-“I know,” Rowan said quietly. “Stay close.”
+Lio nodded. "Together?"
 
-She reached out and brushed her fingers through the empty space.
+Rowan smiled, despite everything. "Together."
 
-The system didn’t react.
+They sat there for a long time, watching Kellan sleep, making sure he was safe, making sure he was healing.
 
-Instead, she felt… resistance. Not physical. Conceptual. Like pushing against an idea that hadn’t finished compiling.
+The system was gone. For now.
 
-Rowan sucked in a sharp breath.
+But it would be back. It always came back.
 
-On Earth, she’d once dealt with a monitoring outage caused by a race condition—two systems writing to the same state at the same time, each assuming it was the authority. The result hadn’t been clean failure.
+Rowan knew that. She'd learned that lesson the hard way.
 
-It had been silence.
+But she also knew that they were stronger than the system thought. They were more resilient. They were more human.
 
-Blind spots.
+And as long as they were human, as long as they could feel, as long as they could fight, they had a chance.
 
-People had gotten hurt because alerts never fired.
+Rowan was going to make sure they kept that chance.
 
-Rowan pulled her hand back slowly.
+No matter what.
 
-“This isn’t a correction zone,” she murmured.
+No matter how long it took.
 
-Lio frowned. “Then what is it?”
+They were going to heal.
 
-Rowan swallowed. “A gap.”
+They were going to recover.
 
-Her overlay flickered again, visibly unstable now.
+They were going to survive.
 
-```
-NOTE: OBSERVATION DELAY DETECTED
-STATUS: REVIEWING
-```
+Together.
 
-Reviewing.
+Later that day, Kellan woke again.
 
-The system was watching itself.
+His eyes were clearer this time, more focused, more present.
 
-Rowan felt a chill run down her spine.
+"Rowan?" he said.
 
-She looked back at Kellan. His breathing had steadied. His shoulders were less hunched. The frantic tension had eased, just a fraction.
+"I'm here," Rowan said, moving closer. "How are you feeling?"
 
-“Kellan,” Rowan said softly. “How do you feel?”
+Kellan's brow furrowed. "Confused. Everything feels… fuzzy. Like I'm not quite here."
 
-He blinked slowly, eyes focusing for a heartbeat. “Quieter,” he whispered.
+Rowan's chest tightened. "That's okay. You're safe. You're with us. You're healing."
 
-Rowan’s heart skipped.
+Kellan's eyes searched her face. "What happened?"
 
-Lio’s eyes widened. “Really?”
+Rowan swallowed. "The system corrected you. It hurt you. But you survived. And you're healing. And you're going to be okay."
 
-Kellan nodded faintly. “It’s… farther away.”
+Kellan's grip tightened on her hand. "I remember… pressure. Weight. Like everything was too much. Like I was drowning."
 
-Rowan turned back to the dead patch, understanding dawning.
+Rowan's eyes filled with tears. "I know. I'm sorry. I couldn't stop it."
 
-This place interfered with the system.
+Kellan's eyes focused on her. "It's not your fault."
 
-Not enough to break it.
+Rowan's throat tightened. "I know. But I still feel like it is."
 
-Enough to confuse it.
+Kellan's hand squeezed hers. "Don't. You didn't do this. The system did. You didn't hurt me. The system hurt me. And you're here. You're helping. You're not leaving. That's enough."
 
-Rowan’s overlay updated again, late and clipped.
+Rowan's eyes filled with tears. "I'm not going anywhere. I promise."
 
-```
-ANOMALOUS CONDITION: CONFIRMED
-PERSISTENCE: UNEXPECTED
-NOTE: MODEL CONFIDENCE REDUCED
-```
+Kellan's eyes closed. "Good. That's good."
 
-Rowan stared at the words.
+Rowan stayed there, holding his hand, watching him rest, making sure he was safe, making sure he was healing.
 
-Model confidence reduced.
+The system had hurt him. It had broken something. It had changed him.
 
-She let out a breath she hadn’t realized she was holding.
+But it hadn't broken him completely. It hadn't changed him entirely. It hadn't taken everything.
 
-“So,” she said quietly, more to herself than anyone else. “You can hesitate.”
+He was still Kellan. He was still fighting. He was still human.
 
-The system did not respond.
+And that was enough.
 
-But it didn’t correct her, either.
+For now, that was enough.
 
-Rowan felt something dangerous bloom in her chest.
+The next day, they started moving again.
 
-Hope.
+Kellan could walk now, with help. His steps were slow, careful, like he was learning how to move again. But he could walk. He could move. He could survive.
 
-She turned to Lio. “We’re staying here for a bit.”
+That was enough.
 
-Lio hesitated. “Is that safe?”
+Rowan supported him on one side, Lio on the other, and together they moved through the corridor, away from the alcove, away from the place where the system had hurt them, toward whatever came next.
 
-Rowan shook her head. “Probably not.”
+The system was watching. Rowan could feel it. The weight of its attention, the pressure of its calculations, the awareness that it was learning, adapting, preparing.
 
-Then, with grim certainty: “But it’s informative.”
+But it wasn't acting. Not yet.
 
-She guided Kellan toward one of the broken pillars and eased him down. He didn’t resist. His breathing remained steady.
+It was waiting.
 
-Rowan crouched nearby, watching the overlay flicker and fail to settle.
+Watching.
 
-The system wasn’t gone.
+Learning.
 
-It was uncertain.
+Rowan was doing the same.
 
-And for the first time since she’d fallen into this world, Rowan realized something fundamental.
+They were both learning how to fight.
 
-The system didn’t just enforce reality.
+They were both learning what the other could do.
 
-It depended on it behaving predictably.
+They were both preparing for what came next.
 
-Rowan leaned back against the stone and allowed herself one thin, dangerous smile.
+But for now, they were moving. They were healing. They were surviving.
 
-“Found you,” she whispered.
+Together.
 
-Somewhere in the invisible architecture of the world, something recalculated.
+And that was enough.
 
-And this time, it wasn’t sure it was right.
+For now, that was enough.
+
+Rowan looked at Kellan. At the way he was walking, careful, deliberate, like he was testing each step. At the way his eyes were clearer now, more focused. At the way he was coming back to himself, piece by piece.
+
+The system had hurt him. It had broken something. It had changed him.
+
+But it hadn't broken him completely. It hadn't changed him entirely. It hadn't taken everything.
+
+He was still Kellan. He was still fighting. He was still human.
+
+And that was enough.
+
+Rowan looked back once, at the alcove where they'd hidden, where they'd healed, where they'd learned that the system could hurt them but couldn't break them.
+
+It was already fading into memory, becoming just another place they'd survived, just another moment they'd endured.
+
+But it was more than that.
+
+It was proof.
+
+Proof that they could heal. Proof that they could recover. Proof that the system couldn't break them completely.
+
+Rowan filed that away. Stored it. Saved it for later.
+
+They were going to need that proof.
+
+They were going to need that hope.
+
+They were going to need to remember that they were stronger than the system thought.
+
+Rowan looked ahead, at the darkness, at whatever came next.
+
+The system was waiting.
+
+Watching.
+
+Learning.
+
+But so were they.
+
+And they were getting stronger.
+
+They were getting smarter.
+
+They were getting better at surviving.
+
+Together.
+
+The fight wasn't over.
+
+It was just beginning.
+
+And Rowan was ready.
+
