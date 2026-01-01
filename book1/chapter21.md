@@ -133,4 +133,70 @@ Fine.
 
 Rowan squared her shoulders.
 
-“Then I’ll need to be very careful,” she said quietly, “who I protect next.”
+"Then I'll need to be very careful," she said quietly, "who I protect next."
+
+A voice spoke from the shadows beside the overlook.
+
+"You already are."
+
+Rowan turned sharply, hand going to her belt, scanning the darkness.
+
+A figure stepped forward—a young woman with short dark hair and sharp eyes. Her clothes were practical, layered, patched with care. She moved with the controlled stillness of someone who'd learned to be quiet.
+
+"Easy," the woman said, hands visible. "I'm not here to start trouble."
+
+Rowan kept her posture ready. "Then why are you here?"
+
+The woman's gaze swept over Rowan, then Lio, then Kellan. Her eyes lingered on Rowan's face, as if reading something there.
+
+"You're new," she said. "And you're heavy."
+
+Rowan's jaw tightened. "What does that mean?"
+
+"Debt," the woman said. "You've got a lot of it. The system's been tracking you. Not many people accumulate that much deviation and still walk around."
+
+Kellan stepped forward slightly. "Who are you?"
+
+The woman hesitated, then said, "Tara. And I'm here because people like you don't usually last long in the city. The system doesn't like anomalies."
+
+Rowan studied her. "And you?"
+
+Tara's mouth twitched. "I'm part of the problem. Or the solution. Depends on who you ask."
+
+She glanced around, scanning for watchers, then lowered her voice. "There's a resistance. Small. Fragmented. But real. We help people who the system wants to... optimize out."
+
+Lio's eyes widened. "You help people?"
+
+"Sometimes," Tara said. "When we can. When it's worth the risk."
+
+Rowan's pulse quickened. "What kind of resistance?"
+
+"The kind that recognizes the system isn't neutral," Tara said. "The kind that remembers that efficiency at any cost isn't efficiency—it's harm."
+
+She met Rowan's gaze. "You've been making the system work for your choices. That's rare. Most people either comply or get corrected out of existence."
+
+Rowan didn't deny it. "And?"
+
+"And you might be useful," Tara said. "Or you might be a liability. Depends on what you do next."
+
+Rowan felt the weight of that. The responsibility. The choice.
+
+"What happens next?" she asked.
+
+Tara smiled, sharp and brief. "You learn how the city works. You figure out who you can trust. You decide if you want to just survive, or if you want to actually change something."
+
+She stepped back into the shadows. "I'll find you again. When you're ready. If you're still alive."
+
+Rowan watched her disappear, feeling the weight of the city, of the system, of all the choices ahead.
+
+Behind her, Lio whispered, "Was that... good?"
+
+Rowan didn't answer immediately. She looked out over the city, at all the people, at all the systems, at all the ways the world could break them down or build them up.
+
+"Maybe," she said finally. "We'll find out."
+
+They moved deeper into the city, and Rowan felt the system's attention settle on them like a weight.
+
+Ready or not, they were here.
+
+And the real work was just beginning.

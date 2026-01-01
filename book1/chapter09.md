@@ -1,7 +1,124 @@
 # Chapter 9
 ## The Event
 
-The corridor didn’t announce the correction.
+They'd been walking for what felt like hours when the corridor opened into a wider chamber.
+
+This one felt different. Cleaner. More intentional. The glow-veins formed patterns on the walls—geometric shapes that felt almost like decoration. Benches lined the walls. In the center, a fountain—not glowing water like the node, but clear, still water that reflected the light from above.
+
+And people.
+
+A small group, maybe six or seven, clustered around the fountain. They looked... peaceful. Relaxed in a way Rowan hadn't seen since arriving. Their clothes were clean. Their faces were calm. They sat in a loose circle, talking quietly, and when they noticed Rowan's group, they didn't tense. Didn't prepare for a fight.
+
+One of them stood—a middle-aged man with a trimmed beard and kind eyes. He approached with open hands.
+
+"Welcome," he said, voice warm. "You look like you've been through quite a journey."
+
+Rowan stopped, scanning the room. No obvious threats. No system warnings. Just calm. Peace.
+
+She didn't trust it.
+
+The man smiled. "My name is Brother Halden. This is an Alignment Sanctum. A place of rest. A place of acceptance."
+
+Rowan's skin prickled. "Alignment?"
+
+Halden's smile didn't waver. "The system provides structure. Purpose. When we accept that, we find peace."
+
+Behind him, the others in the circle nodded. A young woman with a shaved head—Cassandra, someone would say. An older man with a beard—Robert. A middle-aged woman—Patricia. A young man—James. All of them looked at Rowan with expressions of gentle understanding.
+
+"We've all been where you are," Halden continued. "Fighting. Resisting. But the system isn't our enemy. It's our guide. When we align with its purpose, the pressure stops. The corrections ease. Life becomes... simpler."
+
+Lio shifted behind Rowan, uncertain.
+
+Kellan's voice was rough. "At what cost?"
+
+Halden's expression grew sad. "The cost of peace is always acceptance. The system asks us to let go of what doesn't serve the greater good. To release attachments that cause friction."
+
+Rowan's jaw tightened. "You mean people."
+
+"I mean efficiency," Halden said gently. "The system optimizes for survival. For stability. When we fight that, we create instability. When we accept it, we become part of the solution."
+
+He gestured to the fountain. "Would you like to rest? Take some water? We can talk. No pressure. No demands. Just... understanding."
+
+Rowan stared at him, at the calm faces of his followers, at the way they'd given up resistance and found peace.
+
+It looked like surrender dressed up as wisdom.
+
+"My name is Rowan," she said. "And I'm not interested in your kind of peace."
+
+Halden's smile didn't falter, but something in his eyes shifted. "I understand. Many feel that way at first. But the system offers stability credits. Debt reduction. A path forward without the constant pressure. All it asks is that you accept its guidance."
+
+Rowan's overlay flickered.
+
+```
+SUGGESTED ACTION: ACCEPT ALIGNMENT
+REWARD: STABILITY CREDIT (MODERATE)
+DEBT REDUCTION: AVAILABLE
+NOTE: COHORT OPTIMIZATION RECOMMENDED
+```
+
+Rowan stared at the word "optimization" and felt cold fury.
+
+"You're asking me to trade my companions for comfort," she said.
+
+Halden shook his head. "I'm asking you to consider what truly serves the greatest good. The system measures outcomes. When we align with its goals, we all benefit."
+
+"No," Rowan said. "When we align with its goals, the system benefits. And we learn to stop caring about the cost."
+
+Behind Halden, Cassandra spoke quietly. "It doesn't have to hurt. The acceptance is a choice. Once you make it, the pressure stops. You can rest. You can be safe."
+
+Rowan looked at her, at the calm in her eyes, at the way she'd clearly given up something to find that peace.
+
+"What did you give up?" Rowan asked.
+
+Cassandra's smile wavered. "I was a teacher. On Earth. I had students. When I came here, the system showed me how much pain I'd caused by caring too much. By trying to save everyone. I learned to let go. To accept that some things aren't meant to be saved."
+
+Robert nodded. "I was a mechanic. I used to fix things that were broken. But the system showed me that not everything needs fixing. Sometimes the most efficient solution is to discard what doesn't work."
+
+Patricia's voice was quiet. "I was a nurse. I tried to save everyone. The system showed me that not everyone can be saved. That trying to save everyone just causes more suffering."
+
+James, the youngest, just looked away.
+
+Rowan felt sick.
+
+These weren't villains. They were broken people who'd been taught that care was the problem. That empathy was inefficiency. That giving up was acceptance.
+
+She looked at Lio and Kellan. "We're leaving."
+
+Halden's voice stayed gentle. "You don't have to. You can rest here. Just for a moment. No obligation."
+
+But Rowan heard the trap. Just rest. Just accept. Just let the system's peace settle into your bones until you forgot what it was like to care.
+
+"No," she said. "Thank you, but no."
+
+She turned and led Lio and Kellan back toward the corridor.
+
+Behind them, Halden called, "The offer stands. If you change your mind, you know where to find us."
+
+Rowan didn't look back.
+
+The corridor beyond the sanctum felt rougher. Less curated. More like the dungeon had stopped trying to charm them and settled back into its default state: indifferent stone with teeth.
+
+They walked in silence for a while, until Kellan spoke.
+
+"They looked happy," he said quietly. "Peaceful."
+
+Rowan nodded. "Yes. They did."
+
+Lio's voice was small. "Was that... wrong? To want that?"
+
+Rowan stopped and turned to face them. "No. Wanting peace isn't wrong. But peace that requires you to stop caring? That's not peace. That's anesthesia."
+
+Kellan's jaw tightened. "They'd stopped feeling the pain."
+
+"Yes," Rowan said. "But they'd also stopped feeling anything else."
+
+They walked on, leaving the sanctum behind, and Rowan felt the system's pressure return—subtle, persistent, reminding her that comfort was available if she'd just choose efficiency over care.
+
+She kept walking.
+
+---
+
+The corridor didn't announce the correction.
 
 No siren. No text in bold. Just a gentle change in the air—as if the stone decided to breathe a little shallower.
 

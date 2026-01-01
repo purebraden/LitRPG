@@ -243,6 +243,118 @@ A faint sound came from behind her—footsteps, hurried and uneven.
 
 Rowan turned sharply, pain flaring in her ankle, and raised her hands instinctively.
 
+Movement in the corridor beyond—not one person. Two.
+
+A young man, maybe early twenties, supporting someone else. An older woman, his mother maybe, her arm slung over his shoulders, her face pale and drawn. Blood stained the side of her shirt, dark and spreading.
+
+They stumbled into the room together, the young man's eyes wide with desperation.
+
+"Please," he gasped. "Help. She's hurt. Something—something got her—"
+
+Rowan's stomach tightened. "Who are you?"
+
+"Jace," the young man said, voice cracking. "This is my mom, Elena. We fell—we fell together. Please—"
+
+The woman—Elena—groaned, her eyes fluttering. She was barely conscious, her breathing shallow.
+
+Rowan stepped forward, then stopped. Her overlay hadn't updated. No system response. No warnings. Nothing.
+
+That was wrong.
+
+She looked at Jace, at the desperation in his eyes, at the way he held his mother like she was the only thing keeping him from falling apart.
+
+This was the system's test, again. Help them, or move on.
+
+Jace's eyes flicked to the pedestal, then to Rowan. "Can you—can you see—"
+
+Rowan cut him off. "The text? Yes. Can you?"
+
+Jace shook his head, confused. "Text? What text? I just—I just feel like I need to get to the door. Like something's pushing. Please, help us first, then we can—"
+
+Elena coughed, blood flecking her lips.
+
+Rowan's jaw clenched. The system was using them. Making them a distraction. Making them a choice.
+
+But they were real people. Real people who needed help.
+
+She moved toward them, but Jace flinched back, pulling his mother with him.
+
+"Wait," he said. "You're—you're hurt too. Your ankle—"
+
+Rowan stopped. "I'll manage. Let me look at her."
+
+Jace hesitated, then nodded, lowering Elena gently to the floor. Rowan knelt beside them, ignoring the protest from her own injuries.
+
+Elena's wound was bad. A deep gash along her ribs, still bleeding. Not fresh, but not old either. Whatever had done this, it had been recent.
+
+"How long ago?" Rowan asked.
+
+"Maybe an hour?" Jace's voice shook. "We were running. Something was chasing us. It caught her. I managed to—to hit it with a rock, and we ran. But she's getting worse."
+
+Rowan pressed her hand against the wound, applying pressure. Elena gasped, her eyes opening slightly.
+
+"Jace," she whispered.
+
+"I'm here, Mom. I'm here."
+
+Rowan looked at the door, then back at Elena. She could help them get to the door. Could try to stabilize Elena. But it would slow her down. And the system would count that as deviation.
+
+She looked at Jace. "Can you carry her?"
+
+Jace nodded, though his arms were already shaking from exhaustion. "Yes. I can."
+
+Rowan stood. "Then we're getting you to the door. Together."
+
+Jace's eyes filled with tears. "Thank you. Thank you so much."
+
+But as they moved toward the door, Rowan felt the system's pressure increase—not on her, but on Jace and Elena. They flinched, both of them, as if struck by an invisible weight.
+
+"Jace," Elena whispered. "It hurts. It hurts so much."
+
+Jace's face contorted with pain. "I know, Mom. Just—just hold on."
+
+Rowan watched them struggle under the system's influence, and felt cold fury settle in her chest. The system was punishing them for being vulnerable. For needing help. For existing.
+
+They reached the door, but Elena's breathing had grown more labored. Rowan knew, with terrible certainty, that Elena wasn't going to make it much further. Not without proper medical care. And the system wasn't going to provide that.
+
+Jace must have realized it too, because he looked at Rowan with desperate hope. "Is there—is there anything you can do? At the pedestal? Maybe—"
+
+Rowan shook her head. "The pedestal is a trap. Taking from it makes things worse."
+
+"But she'll die!" Jace's voice broke. "My mom will die!"
+
+Rowan's throat tightened. "I know. But taking from the system won't save her. It'll just make you pay for it later."
+
+Jace stared at her, tears streaming down his face. "Then what do I do?"
+
+Rowan met his gaze. "You choose. Help her now, or keep yourself safe. The system wants you to think there's only one right answer. But there isn't. There's just choice. And consequence."
+
+Jace looked down at his mother, at her pale face, at the blood still seeping from her wound. Then he looked back at Rowan.
+
+"I choose her," he said, voice firm despite the tears. "Always."
+
+Rowan nodded. "Then I'll help you get to the door. After that—"
+
+She didn't finish. Didn't need to.
+
+They moved toward the door, Jace supporting Elena, Rowan limping beside them. The system's pressure increased with each step, but Jace didn't stop. Didn't give in.
+
+They reached the door. Rowan pressed her palm against the symbol, and it began to open.
+
+"Go," she said to Jace. "Quickly."
+
+Jace looked at her, then nodded. "Thank you. For—for everything."
+
+He and Elena passed through the door together, disappearing into the darkness beyond.
+
+Rowan watched them go, her chest tight with a grief she didn't have time for.
+
+The door began to close.
+
+A faint sound came from behind her—footsteps, hurried and uneven.
+
+Rowan turned sharply, pain flaring in her ankle, and raised her hands instinctively.
+
 A figure stumbled into the room.
 
 Human.
