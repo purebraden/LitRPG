@@ -114,9 +114,9 @@ Aster’s smile faded. “I hate that.”
 
 Rowan blinked, surprised.
 
-Aster’s grip tightened on the spear. “I hate it because it’s lazy. It’s like—” They searched for words, then huffed. “It’s like a bad manager who doesn’t want documentation, so they just punish you until you ‘get it.’”
+Aster's grip tightened on the spear. "I hate it because it's lazy. It's like—" They searched for words, then huffed. "It's like a bad manager who doesn't want documentation, so they just punish you until you 'get it.'"
 
-Rowan’s mouth opened slightly.
+Rowan's mouth opened slightly. Been there, done that. Got the t-shirt and the therapy bill.
 
 Kellan muttered, almost to himself, “Oh. You’re one of us.”
 

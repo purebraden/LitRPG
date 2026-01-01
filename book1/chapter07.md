@@ -148,7 +148,7 @@ Rowan’s heart thudded.
 
 No immediate punishment.
 
-Which meant either punishment was delayed, or the system escalated when debt hit a threshold, or it applied pressure through humans.
+Either punishment was delayed, or the system escalated when debt hit a threshold, or it applied pressure through humans.
 
 Rowan looked at Kellan and felt the weight of what he’d done by guiding them here.
 
@@ -231,9 +231,11 @@ Lio wiped their mouth and looked at Rowan with something like fragile hope.
 
 Rowan looked at the overlay.
 
-No hint of repayment. No instructions. No ledger entries labeled “forgiveness.”
+No hint of repayment. No instructions. No ledger entries labeled "forgiveness."
 
-Rowan’s voice went very calm. “I don’t know.”
+Like a credit score that only goes down. Or technical debt that compounds until every deploy becomes a risk. The teams that had let their codebase accumulate debt until every change required three days of untangling dependencies. This felt the same. Only the currency was different.
+
+Rowan's voice went very calm. "I don't know."
 
 Lio’s face crumpled.
 
@@ -291,117 +293,3 @@ Because whatever the system was about to do, Rowan could feel it coiling.
 And she had a sinking suspicion it was going to use the easiest lever it had.
 
 People.
-
-If you want, next I can:
-
-Outline Chapters 8–11 (end of Act II), OR
-
-Write Chapter 8 immediately, where the “event” hits: a social correction ripple that forces Kellan to face his past optimization choice, and pushes Rowan toward a cruel “efficient” solution she refuses.
-
-You said:
-Does this read like it was written by ai so far? 
-ChatGPT said:
-Some readers will clock it as “AI-ish” in a few places unless you sand down a handful of patterns. The good news: it’s already better than most AI drafts because it has consistent voice, concrete action, and a coherent system concept. What’s giving “AI” vibes right now is mostly rhythm and repetition, not plot or character.
-
-Here’s an honest breakdown of what’s working and what to tweak.
-
-What doesn’t read AI
-Rowan’s competence voice (systems thinking, wary of incentives) feels authored.
-
-Scene logic is tight: door → node → social gate → debt.
-
-System tone is consistent (bureaucratic, sanitized harm language).
-
-The found-family hook lands (Rowan choosing Lio, Kellan’s regret).
-
-What can read AI (and why)
-1) Repeated “Rowan did X / Rowan felt Y” sentence starts
-AI tends to overuse name-subject constructions for clarity. Humans vary more with pronouns, fragments, internal beats, and sensory pivots.
-
-Example pattern:
-“Rowan looked… Rowan stared… Rowan swallowed… Rowan nodded…” (it clusters)
-
-Fix: mix in:
-
-sentence fragments (“Too clean.”)
-
-pronoun starts (“She stared at the pillar.”)
-
-environmental subject starts (“The corridor narrowed.”)
-
-dialogue tags sparingly
-
-2) On-the-nose “explainer” lines
-Lines like “This wasn’t a game… It was governance” are cool, but if used too often they can feel like the narrator stepping out to summarize.
-
-Fix: show it through action/consequence more often; keep the “thesis lines” as rare spikes.
-
-3) Familiar AI cadences: “Which meant—”
-That em dash “Which meant—” appears a lot. It’s a common LLM rhythm marker.
-
-Fix: replace with occasional:
-
-“So.”
-
-“In other words…”
-
-nothing at all (let the inference land)
-
-4) Repeated motif words too close together
-You’ve got a strong motif set (optimize, measurable, discouraged, debt, correction). That’s good. But when the same word hits 2–3 times in a paragraph, it feels generated.
-
-Fix: keep the motif words but widen synonyms and spacing:
-
-optimize → “minimize loss,” “pick the clean path,” “reduce variance”
-
-debt → “ledger,” “load,” “balance,” “interest”
-
-correction → “nudge,” “realignment,” “intervention”
-
-5) Some internal metaphors stack
-Rowan’s tech metaphors are great, but if every insight is a tech analogy, it can feel like a gimmick (and AI likes consistent gimmicks).
-
-Fix: keep ~60–70% tech lens, and let the rest be human/physical:
-
-fatigue, shame, fear, touch, breath, silence, the way people look away
-
-The fastest way to make it feel 100% human-authored
-Do a “human pass” with three rules:
-
-Cut 10–15% of explanatory sentences.
-
-Break the cadence every 6–8 paragraphs with a short fragment or a weird, specific detail.
-
-Add one unexpected, personal micro-thought per chapter (something only Rowan would think).
-
-Example micro-thought types
-A petty memory from Earth (printer rage, badge access, stale office coffee)
-
-An oddly specific sensory association (hospital antiseptic, subway metal smell)
-
-A human contradiction (she’s scared but annoyed, hurt but stubborn)
-
-Tiny sample rewrite (to show the difference)
-Original-ish beat:
-“Rowan stared at DISCOURAGED until it felt like a dare.”
-
-More human-varied version:
-“DISCOURAGED sat in her vision like a stamped form.
-Rowan smiled anyway.
-‘Cool,’ she whispered. ‘Then I’m early.’”
-
-Same meaning, less “AI cadence.”
-
-Bottom line
-It won’t scream “AI” to most genre readers, but it might ping the more sensitive ones because of repetition and cadence. That’s very fixable with a single revision pass.
-
-If you want, paste one chapter you’re most worried about (5, 6, or 7) and I’ll do a line-level “de-AI pass” that:
-
-keeps your voice
-
-increases sentence variety
-
-reduces motif repetition
-
-adds a couple of human-only details
-…and I’ll return both cleaned prose + a brief changelog so you can apply the same edits going forward.

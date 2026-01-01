@@ -21,7 +21,7 @@ Rowan slowed instinctively.
 
 Lio’s breath hitched. “There are… people.”
 
-Rowan’s gaze swept the group. No one was smiling. No one looked relaxed. They looked like survivors who’d learned that hope had a price.
+Rowan's gaze swept the group. No one was smiling. No one looked relaxed. They looked like survivors who'd learned that hope had a price. Like the networking event from hell, where everyone was sizing each other up but no one actually wanted to connect. Or an all-hands meeting where the CEO announced layoffs and everyone pretended it was "strategic restructuring."
 
 One of them—a tall woman with cropped hair and a scar across her cheek—noticed Rowan and Lio and straightened.
 
@@ -145,11 +145,13 @@ So that was it.
 
 A survivor community shaped by the system’s punishments until self-policing became survival.
 
-Rowan looked at the fountain. People stood near it, dipping cups, washing hands. A small girl—maybe ten—sat on the edge, staring at her feet with blank resignation.
+Rowan looked at the fountain. People stood near it, dipping cups, washing hands. 
+
+A young woman with short-cropped hair and a bandaged arm caught Rowan's eye—Mira, someone would call her later, if names mattered here. She stood slightly apart from the others, watching with sharp eyes. A teenager with a split lip—Marcus—leaned against the wall, looking exhausted. A mother and daughter—Sarah and Emma—sat together, the daughter maybe ten, staring at her feet with blank resignation. An older man with a limp—Gregory—dipped a cup into the fountain with careful precision. A man with haunted eyes—David—stood alone, lost in thought. Siblings, maybe late teens—Alex and Sam—stayed close together, never leaving each other's side.
 
 Rowan felt something twist inside her chest.
 
-“You have kids here,” Rowan said quietly.
+"You have kids here," Rowan said quietly.
 
 The scarred woman’s gaze flicked to the girl. “We have whoever survives long enough to reach this point.”
 
@@ -266,7 +268,7 @@ Leave Lio. Improve probability. Get access. Move on.
 
 Rowan’s stomach turned.
 
-She’d seen this logic before in different forms: layoffs framed as optimization, harmful policies justified by metrics, people turned into cost centers.
+She'd seen this logic before in different forms: layoffs framed as optimization, harmful policies justified by metrics, people turned into cost centers. The all-hands meeting where they'd announced "headcount optimization" and three teams disappeared overnight. The manager who'd justified cutting benefits by pointing to quarterly projections. The board that treated human beings like variables in a spreadsheet.
 
 It was still wrong.
 

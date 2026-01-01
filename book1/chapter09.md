@@ -88,9 +88,9 @@ Reintegration. Like they were malware.
 
 Lio’s hand tightened on Rowan’s sleeve.
 
-A memory flashed—Rowan at her old desk, fluorescent lights buzzing, watching a Slack thread explode during an outage while someone in leadership typed, “Can we get the team aligned?” as if “alignment” would stop a database from falling over.
+A memory flashed—Rowan at her old desk, fluorescent lights buzzing, watching a Slack thread explode during an outage while someone in leadership typed, "Can we get the team aligned?" as if "alignment" would stop a database from falling over. The all-hands meeting where they'd announced "strategic headcount optimization" and Maya had quit the next day, after the postmortem where "lessons learned" became "people to blame." The point was compliance. The point was making the cut look like optimization.
 
-The same energy. The same dangerous comfort in “getting back to normal.”
+The same energy. The same dangerous comfort in "getting back to normal."
 
 Rowan forced her voice softer. Less sharp. “Sable. Why are you doing this?”
 
