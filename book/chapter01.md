@@ -1,4 +1,4 @@
-# Chapter 1  
+# Chapter 1
 ## The Failure Event
 
 Rowan Mercer knew she was going to die because the ground gave way beneath her feet and there was no warning.
@@ -9,7 +9,7 @@ She fell.
 
 The air tore past her ears. Her stomach lurched with the certainty that this was terminal, that there was no branch to grab, no ledge, no miracle hiding in latency. Just gravity doing what it always did when allowed.
 
-*Okay*, she thought, distantly. *That’s… unfortunate.*
+Okay, she thought, distantly. That’s… unfortunate.
 
 She hit stone hard enough to knock the breath from her lungs and the lights from her vision. Pain flared everywhere at once, sharp and unsorted, like an alert storm with no deduplication. Her ribs screamed. Her shoulder burned. Her ankle twisted at an angle that made her stomach revolt.
 
@@ -53,7 +53,7 @@ There were sounds—distant, irregular. A scraping, maybe. Stone against stone. 
 
 Rowan exhaled slowly.
 
-*All right,* she thought. *If this is happening, it’s happening.*
+All right, she thought. If this is happening, it’s happening.
 
 Her mind reached automatically for structure. What had come before the fall? She’d been walking. Sidewalk. Late afternoon. The sun low, the air cold with the promise of winter. She’d been thinking about a deploy scheduled for Monday and whether the new monitoring thresholds were going to false-positive themselves into oblivion.
 
@@ -91,7 +91,7 @@ Closer.
 
 Rowan pushed herself flat against the wall, every nerve alight. She scanned the ground frantically and spotted a jagged shard of stone within reach. She grabbed it with shaking fingers and held it out in front of her like it might matter.
 
-*Okay. Okay. Okay.*
+Okay. Okay. Okay.
 
 She had no magic. No weapons. No system notifications cheerfully explaining her options. Just pain, a corpse, and something moving in the dark.
 
@@ -141,16 +141,10 @@ The message appeared.
 
 Three seconds too late.
 
-```
 PATH ASSIGNMENT: PENDING
-```
 
 The words floated in the air above her, stark and colorless, utterly unconcerned with the blood pooling beneath them.
 
-Rowan stared at them through dimming vision and thought, very calmly,
-
-*You are so far behind.*
+Rowan stared at them through dimming vision and thought, very calmly, You are so far behind.
 
 Darkness took her before the message could say anything else.
-
-*End Chapter 1*
