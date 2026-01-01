@@ -3,9 +3,11 @@
 
 The system started lagging.
 
-Rowan noticed it the way she’d noticed bad metrics back on Earth—not as a single failure, but as a pattern that didn’t quite line up. Messages that arrived a fraction too late. Overlays that flickered, then stabilized, as if reconsidering.
+Rowan noticed it the way she'd noticed bad metrics back on Earth—not as a single failure, but as a pattern that didn't quite line up. Messages that arrived a fraction too late. Overlays that flickered, then stabilized, as if reconsidering.
 
-She didn’t say anything at first.
+Like dozing with her phone next to her pillow during an on-call shift, half-waking to alerts that turned out to be false positives. That bleary uncertainty, where you weren't sure if the system was broken or just lying. Different context. Same exhaustion.
+
+She didn't say anything at first.
 
 They moved slowly, Kellan’s weight heavy between her and Lio. He walked when guided, feet shuffling, eyes unfocused. Sometimes he murmured under his breath, fragments without context.
 
