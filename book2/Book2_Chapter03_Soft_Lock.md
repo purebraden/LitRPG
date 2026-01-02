@@ -1,4 +1,4 @@
-# Book 2 — Chapter 3: Soft Lock
+# Chapter 3: Soft Lock
 
 The building did not look important.
 

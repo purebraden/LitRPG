@@ -1,4 +1,4 @@
-# Book 2 — Chapter 10: You Cannot Optimize Trust
+# Chapter 10: You Cannot Optimize Trust
 
 The hours stretched.
 

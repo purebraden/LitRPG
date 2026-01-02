@@ -1,4 +1,4 @@
-# Book 2 — Epilogue
+# Epilogue
 
 They stayed at the settlement for three days.
 

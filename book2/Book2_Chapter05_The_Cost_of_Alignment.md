@@ -1,4 +1,4 @@
-# Book 2 — Chapter 5: The Cost of Alignment
+# Chapter 5: The Cost of Alignment
 
 Kellan slept better after he accepted the offer.
 

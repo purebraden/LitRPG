@@ -1,4 +1,4 @@
-# Book 2 — Chapter 1: Residual State Detected
+# Chapter 1: Residual State Detected
 
 The city announced itself before it appeared.
 

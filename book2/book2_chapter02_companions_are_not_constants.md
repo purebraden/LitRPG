@@ -1,4 +1,4 @@
-# Book 2 — Chapter 2: Companions Are Not Constants
+# Chapter 2: Companions Are Not Constants
 
 Tara led them to a small room above a bakery that smelled like yeast and old wood. The space was cramped but clean, with three narrow beds pushed against the walls and a single window that overlooked a courtyard where people moved in predictable patterns.
 

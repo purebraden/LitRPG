@@ -1,4 +1,4 @@
-# Book 2 — Chapter 6: Shadow Metrics
+# Chapter 6: Shadow Metrics
 
 The building was smaller than Rowan expected. Older. Its walls were thick with layers of paint that had been applied and reapplied until the original color was impossible to determine. The door hung slightly crooked, as if the frame had settled over time.
 

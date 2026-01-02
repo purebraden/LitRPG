@@ -1,4 +1,4 @@
-# Book 2 — Chapter 4.5: Familiar Faces
+# Chapter 4.5: Familiar Faces
 
 They'd been walking for an hour when Rowan saw her.
 

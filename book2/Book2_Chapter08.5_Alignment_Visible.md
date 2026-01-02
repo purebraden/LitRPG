@@ -1,4 +1,4 @@
-# Book 2 — Chapter 8.5: Alignment Visible
+# Chapter 8.5: Alignment Visible
 
 The walk away from the plaza was quiet.
 

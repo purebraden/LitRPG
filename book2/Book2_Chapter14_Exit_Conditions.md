@@ -1,4 +1,4 @@
-# Book 2 — Chapter 14: Exit Conditions
+# Chapter 14: Exit Conditions
 
 They walked for hours.
 

@@ -1,4 +1,4 @@
-# Book 2 — Chapter 8: Proxy Authority
+# Chapter 8: Proxy Authority
 
 The city felt finished.
 

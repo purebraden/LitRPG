@@ -1,4 +1,4 @@
-# Book 2 — Chapter 7: Privilege Escalation
+# Chapter 7: Privilege Escalation
 
 Rowan noticed the gaps first.
 

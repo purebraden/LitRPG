@@ -1,4 +1,4 @@
-# Book 2 — Chapter 12: Residual Cascade
+# Chapter 12: Residual Cascade
 
 The ripple started small.
 

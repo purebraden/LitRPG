@@ -1,4 +1,4 @@
-# Book 2 — Chapter 4: Probability Smells Like Smoke
+# Chapter 4: Probability Smells Like Smoke
 
 The next morning, Rowan woke to the smell of bread and the sound of the city settling into its routine. She'd slept poorly, her dreams full of frozen smiles and lagging words. When she opened her eyes, Lio was already up, sitting by the window with a cup of something steaming.
 

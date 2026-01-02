@@ -1,4 +1,4 @@
-# Book 2 — Chapter 9.5: Deferred
+# Chapter 9.5: Deferred
 
 They waited.
 

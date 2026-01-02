@@ -1,4 +1,4 @@
-# Book 2 — Chapter 9: Containment Logic
+# Chapter 9: Containment Logic
 
 The city tightened.
 

@@ -1,4 +1,4 @@
-# Book 2 — Chapter 7.5: The Price of Remembering
+# Chapter 7.5: The Price of Remembering
 
 They found him in a small workshop, tucked away in a side street that felt older, rougher, less finished than the rest of the city.
 

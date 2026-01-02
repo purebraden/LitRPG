@@ -1,4 +1,4 @@
-# Book 2 — Chapter 11: Emergency Override
+# Chapter 11: Emergency Override
 
 The correction began without announcement.
 

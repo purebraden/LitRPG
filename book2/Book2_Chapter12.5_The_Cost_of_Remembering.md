@@ -1,4 +1,4 @@
-# Book 2 — Chapter 12.5: The Cost of Remembering
+# Chapter 12.5: The Cost of Remembering
 
 They found a space between two buildings, a narrow gap where the city's structure didn't quite meet. Not shelter. Not safe. Just a pause. Just a moment to breathe.
 

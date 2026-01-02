@@ -1,4 +1,4 @@
-# Book 2 — Chapter 13: Undefined Behavior
+# Chapter 13: Undefined Behavior
 
 The city stopped pretending.
 

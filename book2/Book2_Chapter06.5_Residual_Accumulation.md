@@ -1,4 +1,4 @@
-# Book 2 — Chapter 6.5: Residual Accumulation
+# Chapter 6.5: Residual Accumulation
 
 Rowan noticed it first in small moments.
 
