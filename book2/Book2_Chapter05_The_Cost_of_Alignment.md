@@ -102,7 +102,7 @@ Kellan shrugged. "I didn't used to understand them."
 
 Rowan watched him read the board with interest, his eyes tracking the information like it was a manual he'd finally learned to read. Clear. Structured. Actionable. He was learning the System's language. And once you understood the language, you started speaking it.
 
-Rowan's blood rushed. The fog from earlier chapters of the city had lifted just enough for her to see the shape of the trap.
+Rowan's blood rushed. The fog from their time in the city had lifted just enough for her to see the shape of the trap.
 
 “Kellan,” she said. “They’re not giving you answers. They’re giving you fewer questions.”
 

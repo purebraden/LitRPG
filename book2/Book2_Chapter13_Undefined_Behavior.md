@@ -2,6 +2,8 @@
 
 The city stopped pretending.
 
+They'd left David's room hours ago, moving through alleys and service corridors, staying hidden. The ripple was still spreading. The city was still remembering. And the System was responding.
+
 By afternoon, the containment patterns had changed again—not tighter this time, but stranger. The streets didn’t funnel. They fractured. Routes that should have remained open were abruptly “under maintenance.” Bridges that had existed that morning now carried clean white signs that said CLOSED in friendly script, as if closure were a service being provided for their comfort.
 
 Rowan felt the difference in the air: less pressure, more *searching*.

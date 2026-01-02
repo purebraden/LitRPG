@@ -1,8 +1,8 @@
 # Book 2 — Chapter 10: You Cannot Optimize Trust
 
-They found shelter in the back room of a closed shop, hidden behind empty shelves and the smell of old wood. Not safe. Not permanent. Just quiet.
+The hours stretched.
 
-Rowan sat on the floor, back against the wall, and tried to breathe through the aftermath. The containment had tightened. The System had Tara marked. The question hung in the air between them, unspoken but present.
+Rowan sat on the floor of the storage room, back against the wall, and tried to breathe through the aftermath. The containment had tightened. The System had Tara marked. The question hung in the air between them, unspoken but present.
 
 What would it cost?
 
@@ -92,7 +92,7 @@ And without that data, Tara remained unclassified.
 
 Uncorrected.
 
-Rowan closed her eyes again. The aftermath of Chapter 9 still pressed at her—the containment, the marking, the case-building. But underneath it, something else.
+Rowan closed her eyes again. The aftermath of the containment, the marking, the case-building still pressed at her. But underneath it, something else.
 
 A choice.
 

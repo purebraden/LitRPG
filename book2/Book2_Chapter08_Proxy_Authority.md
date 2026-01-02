@@ -2,9 +2,9 @@
 
 The city felt finished.
 
-Rowan noticed it in the absence of small errors. No dropped objects. No late responses. No awkward pauses where people recalculated how to continue. The streets moved with a confidence that hadn’t been there before, as if uncertainty itself had been trimmed away overnight.
+Rowan noticed it in the absence of small errors. No dropped objects. No late responses. No awkward pauses where people recalculated how to continue. The streets moved with a confidence that hadn't been there before, as if uncertainty itself had been trimmed away overnight.
 
-After Chapter Seven, the city had adapted.
+After the gaps, after Wildcard's appearance, the city had adapted.
 
 Rowan walked slower than the others. Not because she was tired—though she was—but because moving too quickly felt wrong, like interrupting something mid-process. The aftermath of her deliberate violation hadn’t faded. It had flattened.
 
@@ -134,7 +134,7 @@ For a fraction of a second, his mouth opened without sound.
 
 “Proxy authority engaged,” he said at last.
 
-Rowan felt it then—the line she’d crossed the chapter before becoming visible from the other side.
+Rowan felt it then—the line she'd crossed when she'd used empathy deliberately, when she'd violated containment, becoming visible from the other side.
 
 “You’re speaking for it,” she said.
 

@@ -8,7 +8,7 @@ And remembering hurt.
 
 Lio sat beside her, hand on her shoulder, steady and present. Tara crouched nearby, knees drawn up, hands wrapped around her shins. Her eyes were wide, frightened, but she wasn't shaking anymore.
 
-Kellan stood near the door, watching the street through a crack in the boards. His posture was efficient, his attention distributed evenly. But something was different. Something was wrong.
+Kellan stood at the edge of the gap, watching the street through the narrow opening between buildings. His posture was efficient, his attention distributed evenly. But something was different. Something was wrong.
 
 He wasn't just watching.
 
@@ -28,7 +28,7 @@ The remembering.
 
 "I don't know," Rowan said at last. "I feel… responsible."
 
-"You are," Kellan said, not looking away from the door. "You caused the ripple. You spread the empathy. You made the city remember itself."
+"You are," Kellan said, not looking away from the opening. "You caused the ripple. You spread the empathy. You made the city remember itself."
 
 The words hit like a physical blow.
 

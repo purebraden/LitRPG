@@ -1,5 +1,7 @@
 # Book 2 — Chapter 12.75: Aftermath
 
+They moved through the city, staying in the shadows, watching for signs of the ripple's spread. The space between buildings had felt too exposed, too open. They needed somewhere quieter. Somewhere the System's attention might wander.
+
 They found him in a small room above a shop, sitting by a window, staring out at the city below.
 
 David.
