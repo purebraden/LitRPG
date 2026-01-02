@@ -370,3 +370,517 @@
 5. **Timeline**: Publish Book 1, then release Book 2 in 6-8 weeks
 
 Good luck with your launch! 🚀
+
+---
+
+## A+ Content Guide
+
+A+ Content (formerly Enhanced Product Description) allows you to add rich media elements to your book's Amazon product page. This appears in the "From the Publisher" section and helps readers understand your book better, potentially increasing conversion rates.
+
+### How to Add A+ Content on KDP
+
+#### Step 1: Access A+ Content Manager
+1. Log into [kdp.amazon.com](https://kdp.amazon.com)
+2. In your KDP dashboard, click on the **"Marketing"** tab
+3. Scroll down to find the **"A+ Content"** section
+4. Select your marketplace (e.g., **Amazon.com**)
+5. Click **"Manage A+ Content"** or **"Start creating A+ content"**
+
+#### Step 2: Create New A+ Content
+1. Click **"Start creating A+ content"** (if starting fresh)
+2. Enter a descriptive name:
+   - Example: "Fracture Protocol: Path of Unintended Consequence - A+ Content"
+   - This is for your internal reference only
+
+#### Step 3: Add Modules
+A+ Content uses modular templates. You can add multiple modules to create a rich page. Click **"Add Module"** and choose from available templates:
+
+**Recommended Module Types for Books:**
+- **Standard Image Header with Text** (great for banners)
+- **Image with Text Overlay** (for key selling points)
+- **Standard Single Image and Sidebar** (author photo + bio)
+- **Standard Three Image and Text** (showcasing themes/features)
+- **Standard Four Image & Text Quadrant** (key book elements)
+
+**Your Available Images** (in `images/` folder):
+- `Aplus-Top-Banner.png` - Use for top header module
+- `aplus-tone-section-banner.png` - For tone/style section
+- `divider-what-this-book-is.png` - Section divider
+- `divider-who-this-book-is-for.png` - Target audience section
+- `divider-series-promise.png` - Series information
+- `book-cover.png` - Main cover image
+- `Fracture_Protocol_Path_of_Unintended_Consequence_Cover.jpg` - High-res cover
+
+#### Step 4: Fill Out Each Module
+
+**Module 1: Top Banner (Standard Image Header with Text)**
+- **Image**: Upload `Aplus-Top-Banner.png`
+- **Headline**: "Fracture Protocol: Path of Unintended Consequence"
+- **Body Text** (500 chars max): 
+  ```
+  The System promised order. It did not promise mercy.
+  
+  When reality itself is governed by a directive-driven System that optimizes outcomes over lives, survival becomes a matter of compliance. Most people adapt. Some break. A rare few persist.
+  
+  Rowan Mercer was not chosen. She was not summoned. She fell.
+  ```
+
+**Module 2: What This Book Is (Standard Single Image and Sidebar)**
+- **Main Image**: Upload `divider-what-this-book-is.png`
+- **Headline**: "What This Book Is"
+- **Body Text**:
+  ```
+  A sharp, character-driven LitRPG about hostile systems, unintended consequences, and the cost of remaining human when compliance is easier.
+  
+  Features:
+  • Strong female protagonist with SRE background
+  • System as antagonist (not power fantasy)
+  • Found family themes
+  • Technical problem-solving approach
+  • Real cost for resistance
+  ```
+- **Sidebar Options** (choose one):
+
+  **Option A: Quick Facts (Text Sidebar)**
+  - **Sidebar Headline**: "Book Details"
+  - **Sidebar Text**:
+    ```
+    Genre: LitRPG / Isekai
+    Series: Fracture Protocol, Book 1
+    Themes: Found Family, Resistance, Technical Problem-Solving
+    Tone: Character-Driven, Thoughtful, Tense
+    ```
+
+  **Option B: Key Tagline (Text Sidebar)**
+  - **Sidebar Headline**: "The Promise"
+  - **Sidebar Text**:
+    ```
+    The System optimizes.
+    She resists.
+    
+    Every system breaks somewhere.
+    ```
+
+  **Option C: Cover Image (Image Sidebar)**
+  - **Sidebar Image**: Upload `book-cover.png` or `Fracture_Protocol_Path_of_Unintended_Consequence_Cover.jpg`
+  - (No sidebar text needed if using image)
+
+  **Option D: Genre Tags (Text Sidebar)**
+  - **Sidebar Headline**: "Perfect For Fans Of"
+  - **Sidebar Text**:
+    ```
+    • LitRPG with depth
+    • Strong female leads
+    • Found family stories
+    • Systems with consequences
+    • Technical protagonists
+    ```
+
+**Module 3: Who This Book Is For (Standard Single Image and Sidebar)**
+- **Main Image**: Upload `divider-who-this-book-is-for.png`
+- **Headline**: "Perfect For Readers Who Love"
+- **Body Text**:
+  ```
+  • LitRPG and Isekai stories with depth
+  • Characters who think their way out of problems
+  • Found family and meaningful relationships
+  • Systems that have consequences, not just rewards
+  • Stories about resistance and defiance
+  • Female protagonists who are smart, not just powerful
+  ```
+- **Sidebar Options** (choose one):
+
+  **Option A: Series Info (Text Sidebar)**
+  - **Sidebar Headline**: "The Series"
+  - **Sidebar Text**:
+    ```
+    Book 1 of Fracture Protocol
+    
+    A series about systems that optimize past empathy, resistance that carries real cost, and found family forged under pressure.
+    
+    The System is always watching.
+    ```
+
+  **Option B: Core Theme (Text Sidebar)**
+  - **Sidebar Headline**: "The Core Question"
+  - **Sidebar Text**:
+    ```
+    What does resistance cost when compliance is safer?
+    
+    Rowan Mercer refuses to behave as predicted. The System responds. But every correction creates new opportunities.
+    ```
+
+  **Option C: Cover Image (Image Sidebar)**
+  - **Sidebar Image**: Upload `book-cover.png` or your cover image
+
+**Module 4: Key Themes (Standard Four Image & Text Quadrant)**
+Create four quadrants highlighting key themes:
+
+**Quadrant 1:**
+- **Image**: (Create or use existing - could be system UI graphic)
+- **Headline**: "The System"
+- **Text**: "Polite. Bureaucratic. Certain it is right. Rowan is not."
+
+**Quadrant 2:**
+- **Image**: (Companions/found family theme)
+- **Headline**: "Found Family"
+- **Text**: "When compliance is safer, choosing people becomes an act of defiance."
+
+**Quadrant 3:**
+- **Image**: (Technical/problem-solving theme)
+- **Headline**: "Technical Mindset"
+- **Text**: "Breaking systems that claimed inevitability—one exploit at a time."
+
+**Quadrant 4:**
+- **Image**: (Resistance/cost theme)
+- **Headline**: "Real Cost"
+- **Text**: "Resistance brings correction. Correction is never free."
+
+**Module 5: Series Promise (Standard Image Header with Text)**
+- **Image**: Upload `divider-series-promise.png`
+- **Headline**: "Book 1 of the Fracture Protocol Series"
+- **Body Text**:
+  ```
+  Rowan discovers a dangerous truth: the System is not omnipotent—it is predictive. And prediction fails when people refuse to behave.
+  
+  This is the first book in a series about systems that optimize past empathy, resistance that carries real cost, and found family forged under pressure.
+  
+  The System is always watching.
+  ```
+
+**Module 6: Author/About (Standard Single Image and Sidebar)**
+- **Main Image**: (Upload author photo if available, or use `book-cover.png`)
+- **Headline**: "About the Book"
+- **Body Text**:
+  ```
+  Fracture Protocol: Path of Unintended Consequence blends the technical precision of systems thinking with the emotional depth of found family stories.
+  
+  If you enjoy LitRPG that asks "what does power cost?" rather than "how do I get more power?", this series is for you.
+  ```
+- **Sidebar Options** (choose one):
+
+  **Option A: Key Quote (Text Sidebar)**
+  - **Sidebar Headline**: "The Promise"
+  - **Sidebar Text**:
+    ```
+    "The System promised order. It did not promise mercy."
+    
+    Power is not free. Defiance is never clean.
+    ```
+
+  **Option B: What Makes It Different (Text Sidebar)**
+  - **Sidebar Headline**: "What Makes This Different"
+  - **Sidebar Text**:
+    ```
+    • System as antagonist, not helper
+    • Technical protagonist (SRE background)
+    • Real consequences for resistance
+    • Found family over power fantasy
+    • Thoughtful character development
+    ```
+
+  **Option C: Series Hook (Text Sidebar)**
+  - **Sidebar Headline**: "Book 1 of Fracture Protocol"
+  - **Sidebar Text**:
+    ```
+    This is the first book in a series about systems that optimize past empathy and resistance that carries real cost.
+    
+    The System is always watching.
+    ```
+
+#### Step 5: Apply ASINs
+1. Click **"Apply ASINs"** button
+2. Enter the ASIN of your book
+   - Find ASIN on your book's Amazon product page (in the product details section)
+   - Format: B0XXXXXXXXX (usually starts with B0)
+3. You can apply the same A+ Content to multiple books in your series later
+
+#### Step 6: Review and Submit
+
+**⚠️ CRITICAL: If You Can't Save as Draft or Preview**
+
+**If the save button doesn't work or you get errors preventing save, follow this systematic approach:**
+
+If you get errors preventing you from **saving** or **previewing**, check these issues systematically:
+
+**IMMEDIATE CHECKLIST - Go Through Each Module:**
+
+1. **Check Every Module Type - Required Fields by Type:**
+
+   **Standard Image Header with Text:**
+   - [ ] Image uploaded (main image field)
+   - [ ] Headline filled in
+   - [ ] Body text filled in (required!)
+
+   **Standard Single Image and Sidebar:**
+   - [ ] Main image uploaded
+   - [ ] Headline filled in
+   - [ ] Body text filled in (main section)
+   - [ ] **SIDEBAR: Either sidebar image uploaded OR sidebar text filled in (BOTH headline and body text)**
+   - ⚠️ Sidebar CANNOT be empty!
+
+   **Standard Four Image & Text Quadrant:**
+   - [ ] All 4 images uploaded
+   - [ ] All 4 headlines filled in
+   - [ ] All 4 text fields filled in
+
+   **Standard Three Image and Text:**
+   - [ ] All 3 images uploaded
+   - [ ] All 3 headlines filled in
+   - [ ] All 3 text fields filled in
+
+2. **Text Length Validation:**
+   - [ ] No body text field exceeds 500 characters
+   - [ ] Headlines are reasonable length (under 100 chars recommended)
+   - Count includes spaces and line breaks
+
+3. **Image Validation (Common Issue!):**
+   - [ ] All images uploaded successfully (no error messages)
+   - [ ] No image upload is "pending" or "processing"
+   - [ ] All images are JPEG or PNG format
+   - [ ] **Image dimensions**: Check that images meet requirements (see below)
+   - [ ] **File size**: Under 5MB per image (preferably under 2MB)
+   - [ ] **Resolution**: At least 1000px on longest side (but not too large - see below)
+   - [ ] **Color space**: RGB (not CMYK - this can cause issues!)
+   - [ ] **No transparency**: Some modules don't support PNG transparency - convert to JPG if needed
+   - Try re-uploading any images that seem problematic
+   - Try converting images to JPG format if they're PNG and causing issues
+
+4. **Module Structure:**
+   - [ ] You have at least 1 module added
+   - [ ] No modules are completely empty
+   - [ ] Try deleting and re-adding any problematic modules
+
+**Step-by-Step Debug Process:**
+
+1. **Start Fresh (if needed):**
+   - Delete all modules
+   - Add modules one at a time
+   - Save after each module is complete
+   - This helps identify which module is causing the problem
+
+2. **Simplified Test:**
+   - Create just ONE module first (Standard Image Header with Text)
+   - Fill in: Image + Headline + Body text (under 500 chars)
+   - Try to save
+   - If this works, add modules one by one
+
+3. **Common Save-Blocking Issues:**
+   - Sidebar left empty in "Standard Single Image and Sidebar" modules
+   - Image upload failed but module thinks image is required
+   - Text field has invisible/invalid characters
+   - Module type mismatch (wrong template selected)
+
+**⚠️ BEFORE PREVIEWING - Common Issues That Cause "Project could not be deserialized" Error:**
+
+If you get error **"Failed to preview content - Error: HttpRequestError: Requested from: [/aplus/api/PreviewContent]. Received status: [400] with message: [Project could not be deserialized (CatchAll)]"**, check these:
+
+1. **"Standard Single Image and Sidebar" modules REQUIRE sidebar content:**
+   - The sidebar section cannot be empty
+   - You must fill in EITHER sidebar text (headline + body) OR upload a sidebar image
+   - If using text sidebar: Both "Sidebar Headline" and "Sidebar Text" fields must have content
+   - This is the #1 cause of this error!
+
+2. **Text length limits:**
+   - Body text: Maximum 500 characters per module
+   - Headlines: Keep under 100 characters
+   - Count characters carefully (including spaces and line breaks)
+
+3. **Image requirements:**
+   - All images must be uploaded and processed successfully
+   - Format: JPEG or PNG only
+   - File size: Under 5MB recommended
+   - Resolution: At least 1000px wide for main images
+   - No corrupted files or upload errors
+
+4. **Required fields:**
+   - Every module MUST have a headline
+   - Every module MUST have body text OR an image (depending on module type)
+   - Sidebar modules MUST have sidebar content (text or image)
+
+5. **Invalid characters:**
+   - Avoid special HTML characters that might break parsing
+   - Avoid emojis in some contexts (they can cause issues)
+   - Keep formatting simple (plain text, no HTML tags)
+
+**Quick Fix Checklist:**
+- [ ] Every "Standard Single Image and Sidebar" module has sidebar content filled in
+- [ ] All body text is under 500 characters
+- [ ] All images uploaded successfully with no errors
+- [ ] Every module has both headline and body text
+- [ ] No empty required fields
+
+**If error persists:**
+1. Try saving your content first (click "Save" button), then preview
+2. Clear browser cache and try again
+3. Try a different browser (Chrome, Firefox, Edge)
+4. Remove and re-add the problematic module
+5. **If images are the problem:** See "Image Troubleshooting" section below
+6. Contact KDP Support with your Project ID if still not working
+
+---
+
+### Image Troubleshooting Guide
+
+**If images are preventing you from saving, check these issues:**
+
+**1. Color Space (Most Common Issue!):**
+- **Problem**: Images in CMYK color space will fail
+- **Fix**: Convert to RGB
+  - Photoshop: Image → Mode → RGB Color
+  - GIMP: Image → Mode → RGB
+  - Online: Use cloudconvert.com or similar tool
+- **Check**: Open image in a viewer, check properties/details - must say "RGB"
+
+**2. File Size:**
+- **Problem**: Files over 5MB will be rejected
+- **Fix**: Compress images before uploading
+  - Use online tools like TinyPNG.com or Squoosh.app
+  - Or in Photoshop: Save for Web → JPG quality 80-90%
+- **Target**: Under 2MB per image for best results
+
+**3. Dimensions:**
+- **Problem**: Too large (over 5000px) or too small (under 1000px) can fail
+- **Fix**: Resize images
+  - Minimum: 1000px on longest side
+  - Maximum: 3000px recommended (5000px absolute max)
+  - Use Photoshop, GIMP, or online resizers
+
+**4. PNG Transparency:**
+- **Problem**: PNG files with transparency can cause issues in some modules
+- **Fix**: Convert PNG to JPG
+  - Add a background color first (white or color that matches design)
+  - Then save as JPG
+  - Or use modules that support PNG transparency
+
+**5. Corrupted Files:**
+- **Problem**: File corruption during export
+- **Fix**: Re-export from original source
+  - Don't edit already-corrupted files
+  - Start from original image file
+  - Export fresh copy
+
+**6. Wrong Format:**
+- **Problem**: File extension doesn't match actual format
+- **Fix**: Open and re-save in correct format
+  - Make sure .jpg files are actually JPEG
+  - Make sure .png files are actually PNG
+  - Don't just rename file extensions
+
+**Quick Fix Workflow:**
+1. Remove all images from your modules temporarily
+2. Try saving (if this works, images are definitely the problem)
+3. Process one image at a time:
+   - Convert to RGB if needed
+   - Resize to 2000px max width/height
+   - Compress to under 2MB
+   - Convert PNG to JPG if transparency issues
+4. Re-upload images one by one, saving after each
+5. When one fails, that's your problematic image
+
+**Image Preparation Checklist:**
+- [ ] Color space: RGB (not CMYK)
+- [ ] File size: Under 2MB (preferably)
+- [ ] Dimensions: 1000-3000px on longest side
+- [ ] Format: JPG (or PNG without transparency issues)
+- [ ] No corruption: Opens correctly in image viewer
+- [ ] File extension matches actual format
+
+---
+
+1. Use the **preview** function to see how it will look (after fixing any errors above)
+2. Check all text for typos (this appears on your product page!)
+3. Verify all images display correctly
+4. Click **"Review and Submit"**
+5. Amazon will review within **24-72 hours**
+6. You'll receive an email when approved or if changes are needed
+
+### Important Guidelines & Restrictions
+
+**What You CAN Include:**
+- ✅ Book descriptions and themes
+- ✅ Author information and background
+- ✅ High-quality images (book covers, banners, graphics)
+- ✅ Key selling points and features
+- ✅ Series information
+- ✅ Genre and audience information
+
+**What You CANNOT Include:**
+- ❌ Pricing information
+- ❌ Promotional language ("Buy now!", "Limited time offer!")
+- ❌ External links (to your website, social media, etc.)
+- ❌ Customer reviews with star ratings
+- ❌ Unverifiable claims ("Bestseller" unless verified by Amazon)
+- ❌ Contact information (email, phone)
+- ❌ Comparison to other books/competitors
+- ❌ Time-sensitive information
+
+**Image Requirements:**
+- **Format**: JPEG or PNG (JPG often more reliable than PNG)
+- **Resolution**: 
+  - Minimum: 1000px on longest side
+  - Recommended: 1500-2500px on longest side
+  - Maximum: Don't go too large (over 5000px can cause issues)
+- **File Size**: 
+  - Under 5MB per image (Amazon requirement)
+  - Under 2MB recommended for faster upload/processing
+  - If images are too large, compress them before uploading
+- **Color Space**: RGB (NOT CMYK - CMYK images will fail!)
+- **Aspect Ratio**: 
+  - Banners/headers: 3:1 to 4:1 ratio works well
+  - Square images: Work for quadrants or sidebars
+  - Avoid extreme aspect ratios (very wide or tall)
+- **Transparency**: 
+  - PNG transparency may cause issues in some modules
+  - If PNG with transparency fails, convert to JPG with background color
+- **No Watermarks**: Images must be watermark-free
+- **Content**: Must be appropriate and related to your book
+
+**Common Image Problems That Prevent Saving:**
+1. **CMYK color space** (convert to RGB in Photoshop/GIMP/etc.)
+2. **File too large** (over 5MB - compress it)
+3. **Dimensions too extreme** (over 5000px or under 1000px)
+4. **Corrupted file** (re-export from original source)
+5. **PNG transparency issues** (convert to JPG)
+6. **Wrong file extension** (make sure .jpg files are actually JPEG format)
+
+**Text Requirements:**
+- **Body Text**: Maximum 500 characters per module
+- **No HTML**: Plain text only (no formatting tags)
+- **Professional Tone**: Keep it polished and error-free
+
+### Best Practices for LitRPG Books
+
+1. **Lead with Genre**: Make it clear this is LitRPG/Isekai early
+2. **Highlight Unique Elements**: Emphasize what makes your book different (System as antagonist, SRE perspective)
+3. **Show Character Depth**: Not just stats and powers, but relationships and consequences
+4. **Series Hook**: Make sure readers know this is part of a series (builds commitment)
+5. **Visual Appeal**: Use your banner images to create visual breaks and interest
+
+### Quick Checklist Before Submitting
+
+- [ ] All text is proofread (no typos)
+- [ ] Images are high-quality and display correctly
+- [ ] No prohibited content (pricing, links, etc.)
+- [ ] ASIN is correct
+- [ ] Preview looks good on desktop and mobile
+- [ ] Content matches your book description (consistency is key)
+- [ ] All character limits respected (500 chars per body text)
+
+### After Approval
+
+- A+ Content appears in the **"From the Publisher"** section on your book's product page
+- It appears below the product description and above customer reviews
+- You can edit and resubmit anytime (changes take 24-72 hours to review)
+- Same A+ Content can be applied to multiple books in your series
+
+### Pro Tips
+
+1. **Test Different Versions**: After a few months, you can try different A+ Content to see what converts better
+2. **Series Consistency**: Use similar module structure for Book 2, 3, etc. to create brand consistency
+3. **Mobile Preview**: Always check mobile preview—many readers shop on phones
+4. **Seasonal Updates**: Consider updating images/text seasonally if relevant (though this requires re-approval)
+
+---
+
+Good luck with your launch! 🚀

@@ -25,11 +25,11 @@ He slid a twig in. Waited. Listened.
 
 Then, quietly, he said, "You're doing the thing where you stop blinking."
 
-Rowan blinked. Once. Twice. Her eyes stung like she'd been staring into a bright screen too long. "I'm fine."
+Rowan blinked. Once. Twice. Her eyes stung from staring too long. "I'm fine."
 
 Lio made a soft sound—half skepticism, half acceptance. He didn't argue. That was his gift and his curse. "Do you want the last of the dried fruit?"
 
-Rowan looked down at the pouch by her knee. The leather was stiff with salt. She'd been saving it, because saving things made her feel like she had a future.
+Rowan looked down at the pouch by her knee. The leather was stiff with salt. She'd been saving it, because saving things made her feel she had a future.
 
 "No," she said. "You can have it."
 
@@ -93,11 +93,11 @@ Window: OPEN
 Observer: [REDACTED]
 ```
 
-Kellan swore under his breath. Lio went very still, his fingers still holding a stick of wood like it mattered.
+Kellan swore under his breath. Lio went very still, his fingers still holding a stick of wood as if it mattered.
 
 Rowan's throat tightened. She forced her voice into something steady. "Let me read."
 
-Kellan's laugh was sharp and humorless. "Like we have a choice."
+Kellan's laugh was sharp and humorless. "As if we have a choice."
 
 A second pane slid in beneath the first, text dense enough to make her eyes want to skim and classify.
 
@@ -189,7 +189,7 @@ The offer was simple. It made something in Rowan's chest ache. She rubbed her th
 
 Kellan's eyebrows lifted. "Sudden?"
 
-Rowan gestured vaguely at the floating panes. "It's watching for patterns. If we act like frightened prey, it files that. If we act like heroes, it files that. If we act like we're gaming it—"
+Rowan gestured vaguely at the floating panes. "It's watching for patterns. If we act like frightened prey, it files that. If we act like heroes, it files that. If we act as if we're gaming it—"
 
 "It files that," Kellan finished, bitterness thick in his voice.
 
@@ -338,7 +338,7 @@ Kellan stared at it like she'd offered him a spell. "Now?"
 
 "Yes," Rowan said. Her voice came out rougher than she meant. "Eat."
 
-Lio accepted his piece without comment, like he understood the point before she did. He chewed slowly, eyes half-lidded, as if he was letting the taste pull him into the moment.
+Lio accepted his piece without comment, as if he understood the point before she did. He chewed slowly, eyes half-lidded, letting the taste pull him into the moment.
 
 Kellan hesitated, then took it. His fingers brushed hers—cold, calloused. He popped it into his mouth and grimaced at the sourness.
 
