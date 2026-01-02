@@ -60,6 +60,10 @@ See `docs/` folder for:
 - Publishing guides
 - Review notes
 - Progress tracking
+- Continuity audits
+- Series planning documents
+
+**Quick Reference:** See `docs/DOCUMENTATION_INDEX.md` for complete documentation organization.
 
 ## License
 
