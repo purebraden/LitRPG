@@ -63,14 +63,28 @@ The world after reformation:
 
 ## PROLOGUE — The Evolution Continues
 
-- Six months after Book 5
-- System has been evolving (slowly)
-- Partial reformation continues
-- But also: change is incomplete
-- System still resists (partially)
-- Network continues to guide
-- But also: guidance is uncertain
-- System message appears:
+**Scene:** Six months after Book 5. The System has been evolving (slowly, partially). Partial reformation continues. The world is different—better in some ways, uncertain in others. But change is incomplete. System still resists (partially). Network continues to guide. But also: guidance is uncertain.
+
+**The State of the World:**
+- System is more humane (but not perfect)
+- Corrections are slower, less consistent
+- Moments of mercy appear (unexpected, uncharacteristic)
+- But also: System still resists, still corrects, still optimizes
+- Change is visible but incomplete
+
+**The Network's Role:**
+- Network continues to guide (not force)
+- Guidance is uncertain (what works? what doesn't?)
+- Must balance intervention and patience
+- Must decide: continue or accept partial change?
+
+**The Question:**
+- Is partial change enough?
+- Should they continue pushing?
+- What does responsibility look like after intervention?
+- Can they accept imperfection?
+
+**System Message Appears:**
 
 ```
 EVOLUTION PROTOCOL: ACTIVE
@@ -78,11 +92,15 @@ REFORMATION STATUS: IN PROGRESS
 NOTE: CHANGE REQUIRES PATIENCE
 ```
 
+**The Realization:**
 - Rowan understands: reformation is a process
 - But also: process continues
 - Must decide: continue or accept partial change?
+- The final push is needed, but also dangerous
 
-**Purpose:** Establish that reformation is ongoing, requires final push
+**Purpose:** Establish that reformation is ongoing, requires final push. Show that change is visible but incomplete. Set up the final question: What does responsibility look like after intervention?
+
+**Word Count Target:** ~2,000 words
 
 ---
 
@@ -442,35 +460,55 @@ NOTE: CHANGE REQUIRES PATIENCE
 
 ## EPILOGUE — The Imperfect World
 
-- One year after reformation
+**Scene:** One year after reformation. The world has changed. System is more humane (but not perfect). World is better (but still challenging). People are freer (but still constrained). Connection is possible (but still costly).
+
+**The New World:**
 - System is more humane (but not perfect)
-- World is better (but still challenging)
-- People are freer (but still constrained)
+- Corrections are rarer, less severe
 - Connection is possible (but still costly)
-- **System says less (or nothing):**
-  - Fewer System messages
-  - Silence feels like growth
-  - Ambiguity feels like progress
-- **One small regression has occurred (from Chapter 16):**
-  - System misapplied a rule
-  - Network intervened
-  - **Reformation isn't linear—keeps ending grounded**
-- **Rowan is not fully recovered:**
-  - Lingering empathy cost
-  - Reduced capacity
-  - Quiet acknowledgment of permanent cost
-  - **Scars remain visible**
-- But also: hope exists
+- Resistance is less necessary (but still present)
+- Hope exists (but uncertainty remains)
+
+**System Says Less (or Nothing):**
+- Fewer System messages (or none at all)
+- Silence feels like growth
+- Ambiguity feels like progress
+- **Best: No System message at all**
+- **Alternative: Very minimal/ambiguous message (feels like growth, not communication)**
+- **Maintains "System says less" refinement**
+
+**One Small Regression Has Occurred (from Chapter 16):**
+- System misapplied a rule
+- Network intervened
+- **Reformation isn't linear—keeps ending grounded**
+- Shows that change is ongoing, imperfect, requires vigilance
+
+**Rowan Is Not Fully Recovered:**
+- Lingering empathy cost (permanent, visible)
+- Reduced capacity (empathy is harder, more costly)
+- Quiet acknowledgment of permanent cost
+- **Scars remain visible**
+- Peace comes from acceptance, not recovery
+
+**Character Resolutions:**
+- **Rowan:** Accepts imperfection, finds peace (not victory)
+- **Lio:** Leader, helps others, represents growth
+- **Kellan:** Rediscovers humanity, rejects alignment, redemption arc complete
+- **Tara:** Network leader, no longer at correction risk
+- **Jordan:** Fully recovers, becomes bridge between worlds
+- **Nova:** Fully recovered, supports network
+- **Wildcard:** Chose legibility, sacrificed for change (present or absent, depending on choice)
+
+**The Final Truth:**
+- Hope exists
 - Uncertainty remains
 - But also: progress continues
 - Found family together
 - Imperfect but free
-- **System message: Absent or minimal (silence feels like growth)**
-  - Best: No System message at all
-  - Alternative: Very minimal/ambiguous message (feels like growth, not communication)
-  - **Maintains "System says less" refinement**
+- Perfect systems don't exist
+- Better ones do—but only if people stay connected, vigilant, and willing to bear the cost
 
-**Final Image:** Rowan and her found family in the new world, imperfect but hopeful, still fighting but with purpose and connection. Rowan carries scars. System is silent. Reformation continues.
+**Final Image:** Rowan and her found family in the new world, imperfect but hopeful, still fighting but with purpose and connection. Rowan carries scars. System is silent. Reformation continues. The world is imperfect but free. They are responsible now.
 
 **Word Count Target:** ~3,500 words
 

@@ -64,13 +64,21 @@ Original creators of the System:
 
 ## PROLOGUE — The Journey Begins
 
-- Network has prepared for journey
-- Understands: System has a core, can be modified
-- But also: journey is dangerous
-- System will resist
+**Scene:** The network has prepared for the journey. They've gathered information, mapped routes, prepared supplies. They understand: System has a core, can be modified. But they also understand: journey is dangerous. System will resist.
+
+**The Decision:**
 - Must choose: act now or wait?
-- Chooses to act
-- System message appears:
+- Waiting means more preparation, but also more System adaptation
+- Acting now means less preparation, but also less System adaptation
+- The network chooses to act
+
+**The Understanding:**
+- System has a physical core (deep underground, heavily protected)
+- System can be modified (not just destroyed)
+- But modification is dangerous (System will fight)
+- Understanding doesn't mean control
+
+**System Message Appears:**
 
 ```
 NOTICE: UNAUTHORIZED ACCESS ATTEMPT DETECTED
@@ -78,10 +86,15 @@ STATUS: DEFENSIVE PROTOCOLS ACTIVATED
 WARNING: SYSTEM INTEGRITY THREATENED
 ```
 
+**The Realization:**
 - Rowan understands: System knows, will fight
 - But also: must continue
+- The journey is dangerous but necessary
+- Understanding System architecture is the first step to changing it
 
-**Purpose:** Establish journey to System core as dangerous but necessary
+**Purpose:** Establish journey to System core as dangerous but necessary. Show that the System is aware and will resist. Set up the theme: understanding doesn't mean control.
+
+**Word Count Target:** ~2,000 words
 
 ---
 
@@ -457,23 +470,28 @@ WARNING: SYSTEM INTEGRITY THREATENED
 
 ## EPILOGUE — The Beginning of Change
 
-- System is changing (slowly, partially)
-- Network has achieved partial reformation
-- But also: change is incomplete
-- **Partial success has broken something small:**
-  - Slower corrections (noticeable)
-  - Inconsistent responses (System hesitates)
-  - Moments of mercy (unexpected leniency)
-  - **Change has side effects, not just benefits**
+**Scene:** After the modification attempt. The System is changing (slowly, partially). The network has achieved partial reformation. But change is incomplete, unstable, uncertain.
+
+**Partial Success Has Broken Something Small:**
+- Slower corrections (noticeable, inconsistent)
+- Inconsistent responses (System hesitates, shows uncertainty)
+- Moments of mercy (unexpected leniency, uncharacteristic pauses)
+- **Change has side effects, not just benefits**
+
+**The Cost:**
+- **Rowan's empathy cost lingers:**
+  - Delayed recovery (not instantaneous)
+  - Altered perception (sees things differently now)
+  - Reduced capacity (empathy is harder, more costly)
+  - **Consequences carry into Book 6**
+
+**The Process:**
 - System must continue to evolve
 - Network must guide (not force)
 - But also: guidance is uncertain
-- **Rowan's empathy cost lingers:**
-  - Delayed recovery
-  - Altered perception
-  - Reduced capacity
-  - **Consequences carry into Book 6**
-- System message appears:
+- Reformation is a process, not an event
+
+**System Message Appears:**
 
 ```
 ADAPTATION PROTOCOL: ACTIVE
@@ -482,18 +500,25 @@ STATUS: EVOLUTION IN PROGRESS
 NOTE: CHANGE REQUIRES TIME
 ```
 
+**The Understanding:**
 - Rowan understands: reformation is a process
 - But also: process has begun
-- Hope remains
-- **Book 5 ends in the only place that allows a meaningful finale:**
-  - The System is not defeated
-  - The System is not redeemed
-  - The System is changing
-  - Change is unstable
-  - Guidance matters
-  - **This sets Book 6 up to answer: What does responsibility look like after intervention?**
+- Hope remains, but uncertainty also remains
+- The System is not defeated
+- The System is not redeemed
+- The System is changing
+- Change is unstable
+- Guidance matters
 
-**Final Image:** Rowan and her network watching System begin to change, knowing that reformation is possible but requires patience and guidance. Rowan carries the cost of empathy, and change has side effects.
+**Book 5 ends in the only place that allows a meaningful finale:**
+- This sets Book 6 up to answer: What does responsibility look like after intervention?
+- The System can be changed, but change requires ongoing work
+- Understanding doesn't mean control
+- Reformation is possible but imperfect
+
+**Final Image:** Rowan and her network watching System begin to change, knowing that reformation is possible but requires patience and guidance. Rowan carries the cost of empathy, and change has side effects. The System evolves. The network guides. The process continues.
+
+**Word Count Target:** ~3,000 words
 
 **Word Count Target:** ~3,000 words
 

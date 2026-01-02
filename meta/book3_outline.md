@@ -56,13 +56,28 @@ Resistance feels like:
 
 ## PROLOGUE — The New Normal
 
-- Three weeks after leaving the city
-- Cohort is exhausted: hungry, cold, injured, sleep-deprived
-- Settlement appears: clean, organized, welcoming
+**Scene:** Three weeks after leaving the city. The cohort is exhausted: hungry, cold, injured, sleep-deprived. They've been walking for days, surviving on scavenged food and minimal rest. The weather has turned, and they're all shivering, their injuries worsening.
+
+**The Settlement Appears:**
+- Clean, organized, welcoming
 - People are friendly, resources are abundant
 - No visible System pressure
+- Everything flows smoothly
 - Rowan feels uneasy but can't identify why
-- System message appears subtly:
+
+**Harmony Solves Real Problems:**
+- Reliable food (first real meal in weeks)
+- Warmth (proper shelter, no shivering)
+- Medical care (injuries actually treated)
+- Sleep without fear (first restful night)
+
+**The Unease:**
+- People don't touch, don't share personal stories
+- Connection is shallow, empathy is discouraged
+- Everything is efficient but feels wrong
+- Rowan's overlay shows nothing wrong, but she feels wrong
+
+**System Message Appears Subtly:**
 
 ```
 REGION: OPTIMIZATION COMMUNITY
@@ -70,7 +85,9 @@ STATUS: STABLE
 NOTE: EFFICIENCY IMPROVES QUALITY OF LIFE
 ```
 
-**Purpose:** Establish the new threat—safety as compliance. Show that Harmony solves real problems the cohort has struggled with, making the later rejection hurt more.
+**Purpose:** Establish the new threat—safety as compliance. Show that Harmony solves real problems the cohort has struggled with, making the later rejection hurt more. Give the reader a reason to want Harmony before peeling it back.
+
+**Word Count Target:** ~2,000 words
 
 ---
 
@@ -432,14 +449,23 @@ RECOMMENDATION: SEEK COMMUNITY SUPPORT
 
 ## EPILOGUE — The New Resistance
 
-- Rowan and remaining cohort leave the region
-- Small resistance network remains (hidden, isolated, but present)
-- Kellan is still aligned but fighting
-- River is partially recovered (remembers, resists, but with emotional lag)
-- Lio is stronger (chose resistance over safety)
-- Tara is confirmed in her resistance
-- Rowan realizes: resistance is possible but costly
-- System message appears:
+**Scene:** Rowan and remaining cohort leave the region. They're scarred, changed, but still together. The small resistance network remains (hidden, isolated, but present). They've learned that safety can be a trap, that comfort can be compliance.
+
+**Character States:**
+- **Kellan:** Still aligned but fighting. The struggle is visible, painful. He's not lost, but he's not free.
+- **River:** Partially recovered (remembers, resists, but with emotional lag). They flinch from connection, remember with delay. Alignment is sticky.
+- **Lio:** Stronger (chose resistance over safety). They've proven they can resist comfort when it costs connection.
+- **Tara:** Confirmed in her resistance. She saw through Harmony from the start.
+- **Rowan:** Realizes resistance is possible but costly. She's learned that empathy can be weaponized, that safety can be compliance.
+
+**The Understanding:**
+- System is learning, adapting
+- Resistance is learning, adapting
+- The fight continues, but it's changed
+- Normalization is the new weapon
+- Connection is the new resistance
+
+**System Message Appears:**
 
 ```
 ADAPTATION PROTOCOL: ACTIVE
@@ -447,12 +473,9 @@ NORMALIZATION EFFICIENCY: INCREASING
 NOTE: RESISTANCE PATTERNS UNDER REVIEW
 ```
 
-- **Do not escalate this message. It's far scarier than threats. It implies: observation, learning, patience. Perfect handoff to Book 4.**
-- Rowan understands: System is learning, adapting
-- But also: resistance is learning, adapting
-- The fight continues
+**Critical Note:** **Do not escalate this message. It's far scarier than threats. It implies: observation, learning, patience. Perfect handoff to Book 4.**
 
-**Final Image:** Rowan and her cohort moving forward, knowing resistance is costly but necessary, with a small network behind them
+**Final Image:** Rowan and her cohort moving forward, knowing resistance is costly but necessary, with a small network behind them. The horizon is uncertain, but they're not alone. The System watches, learns, adapts. So do they.
 
 **Word Count Target:** ~3,000 words
 

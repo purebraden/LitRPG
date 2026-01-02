@@ -63,11 +63,22 @@ Maya's junior (Jordan) appears:
 
 ## PROLOGUE — The Signal
 
-- Two months after leaving Harmony
+**Scene:** Two months after leaving Harmony. The cohort has been traveling, avoiding settlements, staying isolated. They're surviving but lonely. Connection feels dangerous after Harmony, but isolation is also costly.
+
+**The Discovery:**
 - Rowan finds a message: another visible user nearby
+- Scratched into a tree, hidden in a pattern only she would recognize
 - First contact with another like her
-- Excitement and fear
-- System message appears:
+- Excitement and fear mix
+- She must decide: respond or stay hidden?
+
+**The Dilemma:**
+- Finding others is dangerous (System monitors connections)
+- But also: necessary (resistance requires network)
+- Isolation is safety but also weakness
+- Connection is risk but also strength
+
+**System Message Appears:**
 
 ```
 NOTICE: CONNECTION PATTERNS DETECTED
@@ -75,10 +86,15 @@ STATUS: MONITORING
 NOTE: NETWORK FORMATION INCREASES VISIBILITY
 ```
 
+**The Realization:**
 - Rowan realizes: finding others is dangerous
 - But also: necessary
+- The System already knows about connection attempts
+- The question isn't whether to connect—it's how to connect safely
 
-**Purpose:** Establish network building as both necessary and dangerous
+**Purpose:** Establish network building as both necessary and dangerous. Show that the System is already watching, already learning. Trust becomes both weapon and vulnerability.
+
+**Word Count Target:** ~2,000 words
 
 ---
 
@@ -455,14 +471,22 @@ NOTE: NETWORK FORMATION INCREASES VISIBILITY
 
 ## EPILOGUE — The Network That Remains
 
-- Small, tight network remains
-- Trust is rebuilt (carefully)
-- Jordan is still fighting alignment but improving
-- Nova is recovering
-- Network understands System better
-- But also: System understands network better
+**Scene:** After the betrayal, after the loss, after the fracture. The network is smaller, tighter, scarred. But it remains. Trust is rebuilt (carefully, slowly, with new rules). The network has learned that connection is necessary but dangerous.
+
+**Character States:**
+- **Jordan:** Still fighting alignment but improving. Partial alignment is a constant struggle, but recovery is possible. They're a bridge between worlds.
+- **Nova:** Recovering. The trauma is a long tail—she flinches at connection, survival feels complicated. But she's healing.
+- **Rowan:** Understands that networks are necessary but vulnerable. She's learned to balance trust and security, connection and safety.
+- **The Network:** Smaller, smarter, scarred. Fewer nodes, less certainty, more understanding. Higher cost awareness.
+
+**The Understanding:**
+- Network understands System better (monitoring, patterns, vulnerabilities)
+- But also: System understands network better (structure, relationships, pressure points)
 - The race continues
-- System message appears:
+- Trust must be earned but also given
+- Connection is risk but also strength
+
+**System Message Appears:**
 
 ```
 ADAPTATION PROTOCOL: ACTIVE
@@ -470,11 +494,14 @@ NETWORK PATTERNS: ANALYZED
 NOTE: CONNECTION MONITORING ESCALATED
 ```
 
+**The Realization:**
 - Rowan understands: System is learning, adapting
 - But also: network is learning, adapting
-- The fight continues
+- The fight continues, but it's changed
+- Understanding System is the first step to changing it
+- The journey to System core begins
 
-**Final Image:** Rowan and her network preparing for the journey ahead, knowing that understanding System is the first step to changing it
+**Final Image:** Rowan and her network preparing for the journey ahead, knowing that understanding System is the first step to changing it. The network is smaller, scarred, but stronger. They've learned the cost of connection, but they've also learned its necessity.
 
 **Word Count Target:** ~3,000 words
 
