@@ -74,7 +74,7 @@ The market should have been orderly. Should have been optimized. Should have mov
 
 But it didn't.
 
-A vendor's cart had a wheel that squealed. No one corrected it. A kettle whistled too long. No one attended it. A conversation ended mid-sentence, and both speakers walked away without the usual social stitching.
+A vendor dropped a coin, and it rolled under a stall. No one retrieved it. A child's ball bounced into the street, and traffic flowed around it without stopping. A merchant's sign swung loose on one hinge, creaking in a breeze that shouldn't have reached it.
 
 Small failures.
 
@@ -96,7 +96,7 @@ Kellan's expression didn't change. "Maybe the System is prioritizing. Maybe thes
 
 Kellan's jaw tightened. "That's speculation."
 
-"It's observation," Rowan said. "Look. That cart wheel. That kettle. That conversation. They should be corrected. They're not."
+"It's observation," Rowan said. "Look. That coin. That ball. That sign. They should be corrected. They're not."
 
 "They're small," Kellan said. "Maybe they don't matter."
 
@@ -150,7 +150,7 @@ And they were accumulating.
 
 They reached the edge of the market, and Rowan stopped, looking back.
 
-The small failures were still there. The cart wheel still squealed. The kettle still whistled. The conversation still ended mid-sentence.
+The small failures were still there. The coin still lay under the stall. The ball still sat in the street. The sign still creaked.
 
 And the System wasn't correcting them.
 

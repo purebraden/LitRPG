@@ -1,6 +1,6 @@
 # Book 2 — Chapter 12.5: The Cost of Remembering
 
-They found shelter in an abandoned building, hidden behind broken windows and the smell of old rot. Not safe. Not permanent. Just quiet.
+They found a space between two buildings, a narrow gap where the city's structure didn't quite meet. Not shelter. Not safe. Just a pause. Just a moment to breathe.
 
 Rowan sat on the floor, back against the wall, and tried to breathe through the aftermath. The ripple was still spreading. The city was still remembering. The corrected people were still desynchronizing.
 
@@ -120,15 +120,15 @@ Wildcard's expression was unreadable. "You made them remember. You made them fee
 
 "Why?" Rowan asked.
 
-"Because correction is easy," Wildcard said. "The System does it all the time. It smooths away variance, removes friction, optimizes behavior. It's fast. It's clean. It's efficient."
+"Because the System can correct in minutes," Wildcard said. "It can smooth away variance, remove friction, optimize behavior. Fast. Clean. Efficient."
 
 They paused, watching the others.
 
-"Healing is different," Wildcard continued. "Healing is slow. It's messy. It's costly. It requires time, and care, and people who don't give up. And even then, it's not guaranteed."
+"But healing takes time. It takes care. It takes people who don't give up. And even then, it might not work."
 
 Rowan's throat tightened. "So the empathy ripple—"
 
-"Woke them up," Wildcard said. "But waking up isn't healing. It's just the first step. And some of them won't make it past that step. Some of them will remember, and feel, and grieve, and then the System will correct them again. And this time, it'll be harder to wake them."
+"Made them feel again," Wildcard said. "But feeling what you lost isn't the same as getting it back. Some of them will remember. Some of them will grieve. And some of them won't survive the weight of it."
 
 Rowan's vision swam.
 
@@ -140,19 +140,19 @@ She'd spread the empathy.
 
 She'd made the city remember itself.
 
-And remembering hurt.
+And feeling again wasn't the same as being whole.
 
-And some of them wouldn't make it past that step.
+Some of them would break under the weight of it.
 
 "Rowan," Lio said. "You didn't know."
 
 "But I should have," Rowan said. "I should have thought about the consequences. I should have—"
 
-"Should have what?" Wildcard asked. "Not used empathy? Not disrupted containment? Not given people a chance to remember?"
+"Should have what?" Wildcard asked. "Not used empathy? Not disrupted containment? Not given people a chance to feel again?"
 
 Rowan didn't answer.
 
-"Remembering is pain," Wildcard said. "But it's better than being empty. And you gave them that. You gave them a chance. That's not nothing."
+"Feeling again is pain," Wildcard said. "But it's better than being empty. And you gave them that. You gave them a chance. That's not nothing."
 
 "But it's not enough," Rowan said.
 
@@ -168,11 +168,11 @@ That was the lesson.
 
 That was the cost.
 
-They sat in silence for a long time, processing what had happened. The ripple. The cascade. The remembering.
+They sat in silence for a long time, processing what had happened. The ripple. The cascade. The feeling again.
 
 And the cost.
 
-Remembering hurt.
+Feeling again was pain.
 
 But it was better than being empty.
 
@@ -186,47 +186,11 @@ A hope.
 
 Even if it wasn't guaranteed.
 
-Even if some of them wouldn't make it past that step.
+Even if some of them would break.
 
 Even if the System would correct them again.
 
-Rowan had given them a chance to remember.
-
-And that was something.
-
-That was enough.
-
-For now.
-
-Rowan looked at the others, at the way they were all carrying something. At the way they were all processing what had happened.
-
-The ripple.
-
-The cascade.
-
-The remembering.
-
-And the cost.
-
-Remembering hurt.
-
-But it was better than being empty.
-
-And Rowan had given them that.
-
-A chance.
-
-A possibility.
-
-A hope.
-
-Even if it wasn't guaranteed.
-
-Even if some of them wouldn't make it past that step.
-
-Even if the System would correct them again.
-
-Rowan had given them a chance to remember.
+Rowan had given them a chance to feel again.
 
 And that was something.
 
