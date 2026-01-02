@@ -369,4 +369,3 @@ And prepared.
 Because correction was coming.
 
 It was just waiting.
-

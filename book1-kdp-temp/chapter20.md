@@ -41,7 +41,9 @@ Rowan stopped.
 
 Her overlay appeared instantly, crisp and clear, as if the system had been waiting for this moment.
 
-```
+
+
+[SYSTEM]
 PATH OPTIONS AVAILABLE
 PROBABILITY OF SURVIVAL:
 ROUTE A: 71%
@@ -50,7 +52,9 @@ ROUTE C: 19%
 
 NOTE: RECOMMENDATION AVAILABLE
 SUGGESTION: ROUTE A (OPTIMAL EFFICIENCY)
-```
+[/SYSTEM]
+
+
 
 Clear.
 Helpful.
@@ -138,10 +142,14 @@ She took a breath. "But that's all I can promise. And it might not be enough."
 
 The overlay flickered, impatient now.
 
-```
+
+
+[SYSTEM]
 NOTE: PROLONGED DECISION DETECTED
 RECOMMENDATION: SELECT ROUTE A FOR OPTIMAL OUTCOMES
-```
+[/SYSTEM]
+
+
 
 Rowan ignored it, kept her focus on Lio and Kellan.
 
@@ -177,12 +185,16 @@ She stepped toward Route C.
 
 The overlay reacted instantly, sharp and urgent.
 
-```
+
+
+[SYSTEM]
 WARNING: DEVIATION INCREASING
 SURVIVAL PROBABILITY ADJUSTED: 19% → 17%
 RECOMMENDATION: RECONSIDER PATH SELECTION
 NOTE: OPTIMAL ROUTE AVAILABLE
-```
+[/SYSTEM]
+
+
 
 Rowan smiled faintly, a sharp, dangerous expression.
 
@@ -208,11 +220,15 @@ The air changed. Cooler. Drier. The glow-veins here were sparse, irregular, as i
 
 The overlay flickered one last time.
 
-```
+
+
+[SYSTEM]
 PATH CONFIRMED: NON-OPTIMAL ROUTE
 NOTE: SYSTEM SUPPORT REDUCED
 ADVISORY: RETURN TO RECOMMENDED PATH AVAILABLE
-```
+[/SYSTEM]
+
+
 
 Rowan ignored it, kept walking forward.
 

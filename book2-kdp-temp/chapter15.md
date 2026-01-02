@@ -179,4 +179,3 @@ Trust wasn't a strategy.
 It was just trust.
 
 And that was enough.
-

@@ -257,4 +257,3 @@ Residual permissions.
 They were invisible. They were persistent. They were stackable.
 
 And they were hers.
-

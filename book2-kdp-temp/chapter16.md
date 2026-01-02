@@ -271,4 +271,3 @@ Still learning.
 Still adapting.
 
 And next time, it would be ready.
-

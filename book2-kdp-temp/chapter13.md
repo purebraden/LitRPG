@@ -265,4 +265,3 @@ But so was Rowan.
 She'd interrupted the failure chain once. She could do it again.
 
 The question was: what would it cost?
-

@@ -103,11 +103,15 @@ Late.
 
 As if it had been processing, analyzing, trying to understand what she was doing before it reacted.
 
-```
+
+
+[SYSTEM]
 CONTEXT WARNING: VARIABLE COUPLING DETECTED
 STATUS: ANALYZING
 NOTE: ANOMALOUS POSITIONING
-```
+[/SYSTEM]
+
+
 
 Rowan's pulse quickened. The system had seen it. Had recognized that she'd positioned herself in a way that created a problem. Had detected that she was straddling two states, creating uncertainty, forcing it to deal with conflicting requirements.
 
@@ -129,11 +133,15 @@ Three people. Two states. One system trying to optimize for both.
 
 The overlay flickered wildly, as if the system was struggling to process the conflicting requirements, trying to reconcile the impossible state she'd created.
 
-```
+
+
+[SYSTEM]
 PATH INTEGRITY: DEGRADED
 NOTE: COHORT DISTRIBUTION SUBOPTIMAL
 WARNING: CONFLICTING STATES DETECTED
-```
+[/SYSTEM]
+
+
 
 Rowan's pulse quickened. The system was confused. Was struggling. Was trying to resolve the contradiction and failing.
 
@@ -175,14 +183,18 @@ Rowan stayed where she was.
 
 The system updated, faster now, sharper, as if it was trying to force a resolution, trying to break the deadlock, trying to make the problem go away.
 
-```
+
+
+[SYSTEM]
 CONFLICTING OBJECTIVES DETECTED
 RECOMMENDATION: RESOLVE COHORT POSITION
 OPTION A: CONSOLIDATE (ALIGNMENT)
 OPTION B: SEPARATE (ISOLATE VARIABLE)
 NOTE: DELAY INCREASES COST
 WARNING: SYSTEM EFFICIENCY DEGRADING
-```
+[/SYSTEM]
+
+
 
 Rowan stared at the options, reading them like a code review, like a system architecture decision, like a choice that would determine how the system handled anomalies going forward.
 
@@ -217,12 +229,16 @@ A state the system couldn't categorize, couldn't optimize, couldn't resolve.
 
 The overlay spasmed, flickering wildly, as if the system was struggling to process, to understand, to find a solution.
 
-```
+
+
+[SYSTEM]
 ERROR: RESOLUTION FAILED
 MODEL DIVERGENCE INCREASING
 NOTE: PREDICTIVE MODELS INCONSISTENT
 WARNING: SYSTEM CONFIDENCE DECREASING
-```
+[/SYSTEM]
+
+
 
 Rowan's pulse quickened. The system's confidence was dropping. Its models were failing. Its predictions were inconsistent. It couldn't resolve the conflict because there was no clean resolution.
 
@@ -256,12 +272,16 @@ Rowan's throat tightened. They were so strong. So brave. So willing to trust her
 
 The system surged, trying to force a choice, trying to break the deadlock, trying to make the impossible state resolve.
 
-```
+
+
+[SYSTEM]
 CORRECTIVE INFLUENCE: ESCALATING
 NOTE: DELAY INCREASES COST
 WARNING: SYSTEM EFFICIENCY CRITICAL
 ADVISORY: IMMEDIATE RESOLUTION RECOMMENDED
-```
+[/SYSTEM]
+
+
 
 Rowan felt the temptation slam into her—sharp, urgent, overwhelming.
 
@@ -288,13 +308,17 @@ She didn't.
 
 The overlay stuttered, flickered, then changed, the text shifting, reorganizing, as if the system was trying a different approach, trying a new model, trying to find a solution it hadn't tried before.
 
-```
+
+
+[SYSTEM]
 STATUS: STALLED
 CONFIDENCE: LOW
 ACTION: PENDING
 NOTE: RESOLUTION FAILED
 MODEL ADJUSTMENT REQUIRED
-```
+[/SYSTEM]
+
+
 
 Rowan's breath caught.
 
@@ -339,12 +363,16 @@ The pressure returned—but weaker than before. Less urgent. Less overwhelming. 
 
 The overlay updated slowly, as if exhausted, as if the system was struggling to process what had happened, trying to categorize the event, trying to update its models to account for the new possibility.
 
-```
+
+
+[SYSTEM]
 PATTERN BREAK CONFIRMED
 NOTE: TEMPORARY INEFFICIENCY ACCEPTED
 STATUS: MODEL UPDATED
 CONFIDENCE: REDUCED
-```
+[/SYSTEM]
+
+
 
 Rowan stared at the words.
 
@@ -399,10 +427,14 @@ She looked back at the dead patch, already feeling it thin, compile, resolve, as
 
 The overlay lingered one last time.
 
-```
+
+
+[SYSTEM]
 ANOMALY CLASSIFICATION: PERSISTENT
 RESPONSE MODEL: UNDER REVIEW
-```
+[/SYSTEM]
+
+
 
 Rowan felt a slow, steady smile spread across her face.
 
