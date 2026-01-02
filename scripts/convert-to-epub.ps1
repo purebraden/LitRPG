@@ -3,9 +3,9 @@
 # No Word subscription needed!
 
 $bookDir = "book1"
-$tempDir = "book1-epub-temp"
-$outputMd = "book1-combined-epub.md"
-$outputEpub = "Fracture-Protocol-Path-of-Unintended-Consequence.epub"
+$tempDir = "temp/book1-epub-temp"
+$outputMd = "output/book1-combined-epub.md"
+$outputEpub = "output/Fracture-Protocol-Path-of-Unintended-Consequence.epub"
 
 # Clean up temp directory
 if (Test-Path $tempDir) {
@@ -108,7 +108,7 @@ pandoc $outputMd -o $outputEpub `
     --standalone `
     --metadata title="$title" `
     --metadata author="$author" `
-    --css=epub-style.css
+    --css=scripts/epub-style.css
 
 if (Test-Path $outputEpub) {
     Write-Host "SUCCESS: EPUB file created: $outputEpub"
