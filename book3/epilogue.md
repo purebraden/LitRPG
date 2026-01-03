@@ -47,37 +47,11 @@ And that was the cost.
 
 Not death.
 
-Not pain.
-
-Forgetting.
-
-Losing yourself.
-
-Losing your humanity.
-
-And that was the most dangerous thing about it.
-
-Not because it was cruel.
-
-Not because it was evil.
-
-But because it was tempting.
-
-Because it was peaceful.
-
-Because it was safe.
-
-And safety that cost connection wasn't safety.
-
-It was surrender.
+Not pain, but forgetting. Losing yourself. Losing your humanity. And that was the most dangerous thing about it—not because it was cruel, not because it was evil, but because it was tempting. Because it was peaceful. Because it was safe. And safety that cost connection wasn't safety—it was surrender.
 
 And Kellan had surrendered.
 
-Completely.
-
-Fully.
-
-Finally.
+Completely, fully, finally.
 
 Her throat closed.
 
@@ -123,25 +97,7 @@ Not stronger in power—stronger in choice. They didn't "win"—they proved resi
 
 And it was costing them.
 
-Not just physically.
-
-Not just emotionally.
-
-But existentially.
-
-They were losing themselves.
-
-And they knew it.
-
-And they were tired of it.
-
-But they would keep fighting.
-
-Because they chose connection.
-
-Because they chose empathy.
-
-Because they chose humanity.
+Not just physically, not just emotionally, but existentially. They were losing themselves, and they knew it, were tired of it. But they would keep fighting, because they chose connection, because they chose empathy, because they chose humanity.
 
 Her throat closed.
 

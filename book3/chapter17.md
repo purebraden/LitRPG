@@ -111,19 +111,7 @@ A weight settled in her chest.
 
 Her throat closed.
 
-They were scared.
-
-They were alone.
-
-They were struggling.
-
-But they were human.
-
-They felt.
-
-They connected.
-
-They resisted.
+They were scared, alone, struggling. But they were human. They felt, connected, resisted.
 
 Rowan looked at them, really looked at them, and saw the exhaustion in their eyes, the fear in their posture, the weight of resistance in every line of their body. They'd been fighting alone, struggling in isolation, resisting without support.
 
@@ -149,11 +137,7 @@ Her gut clenched.
 
 They were right.
 
-Connection was dangerous.
-
-Empathy was marked.
-
-Humanity was wrong.
+Connection was dangerous. Empathy was marked. Humanity was wrong.
 
 Like a linter that marked your code as "unstable" - technically correct, but it made you second-guess everything.
 
@@ -169,17 +153,7 @@ The resistor's face hardened, determination flickering in their eyes. "Okay. I'l
 
 Her throat closed.
 
-They would choose connection.
-
-They would choose empathy.
-
-They would choose humanity.
-
-Even when it was dangerous.
-
-Even when it was marked.
-
-Even when it was wrong.
+They would choose connection, choose empathy, choose humanity, even when it was dangerous, even when it was marked, even when it was wrong.
 
 A weight settled in her chest.
 

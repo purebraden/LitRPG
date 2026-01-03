@@ -2,25 +2,15 @@
 
 Rowan couldn't sleep.
 
-She lay in the dark, staring at the ceiling, her mind racing. Kellan was gone. He was completely lost. He was fully aligned. He was fully optimized. He was… hollow.
+She lay in the dark, staring at the ceiling, her mind racing. Kellan was gone. Completely lost. Fully aligned. Fully optimized. Hollow.
 
-But he was happy.
+But happy.
 
-Genuinely happy.
+Genuinely, peacefully happy.
 
 And Rowan didn't know what was wrong with that.
 
-Not while he was so peaceful.
-
-Not while he was so content.
-
-Not while he was so safe.
-
-But something was.
-
-Something had to be.
-
-Like a memory leak consuming someone's personality—you couldn't see it happening, but you knew it was there.
+Like watching a corrupted backup restore successfully—all the files were there, the structure intact, but something essential was missing. You couldn't point to what, exactly. The data validated. The checksums passed. But it wasn't the same.
 
 Not death.
 
@@ -69,14 +59,6 @@ She'd promised to help him resist.
 She'd promised to help him be human again.
 
 But he was gone.
-
-He was completely lost.
-
-He was fully aligned.
-
-He was fully optimized.
-
-He was… hollow.
 
 And she couldn't help him.
 
@@ -655,4 +637,3 @@ Because they connected.
 And that mattered.
 
 Accepting the price.
-

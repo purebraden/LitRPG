@@ -209,130 +209,6 @@ This was what they'd been desperate for.
 
 So why did it feel so wrong?
 
-Because it was.
-
-Because safety that cost connection wasn't safety.
-
-Because peace that cost empathy wasn't peace.
-
-Because everything that cost humanity wasn't worth it.
-
-Even when you were tired.
-
-Even when you were hungry.
-
-Even when you were desperate.
-
-Her throat closed.
-
-This was Harmony.
-
-And it was everything they'd needed.
-
-And it was everything they'd been desperate for.
-
-And it was wrong.
-
-So why did it feel so tempting?
-
-Because it worked.
-
-Because it was safe.
-
-Because it was peace.
-
-And that was the problem.
-
-Not because it was cruel.
-
-Not because it was evil.
-
-But because it was tempting.
-
-Because it was peaceful.
-
-Because it was safe.
-
-And safety that cost connection wasn't safety.
-
-It was surrender.
-
-And Rowan didn't know if she could resist it.
-
-Not while she was so tired.
-
-Not while she was so hungry.
-
-Not while she was so desperate.
-
-Not while it was so tempting.
-
-Her breath caught.
-
-This was what they'd needed.
-
-This was what they'd been desperate for.
-
-So why did it feel so wrong?
-
-Because it was.
-
-And that was the most dangerous thing about it.
-
-Not because it was cruel.
-
-Not because it was evil.
-
-But because it was tempting.
-
-Because it was peaceful.
-
-Because it was safe.
-
-And safety that cost connection wasn't safety.
-
-It was surrender.
-
-And Rowan didn't know if she could resist it.
-
-Not yet.
-
-Not while she was still so tired.
-
-Not while she was still so hungry.
-
-Not while she was still so desperate.
-
-Not while it was still so tempting.
-
-But she had to try.
-
-Because they were human.
-
-Because they felt.
-
-Because they connected.
-
-And that mattered.
-
-Accepting the price.
-
-Even when it was dangerous.
-
-Even when it was wrong.
-
-Her hands shook.
-
-This was what they'd needed.
-
-This was what they'd been desperate for.
-
-So why did it feel so wrong?
-
-Because it was.
-
-And that was the problem.
-
 "Think about it," Sarah said, her voice gentle. "You don't have to decide now. Just… rest. Eat. Sleep. We'll be here when you're ready."
 
 She walked away, leaving them at the table.
@@ -381,122 +257,84 @@ Not even for peace.
 
 Not even for everything they'd been desperate for.
 
-Her hands shook.
+Her hands shook. This was what they'd needed, what they'd been desperate for. So why did it feel so wrong?
 
-This was what they'd needed.
+Because safety that cost connection wasn't safety. Because peace that cost empathy wasn't peace. Because everything that cost humanity wasn't worth it, even when you were tired, even when you were hungry, even when you were desperate.
 
-This was what they'd been desperate for.
+Her throat closed. This was Harmony, and it was everything they'd needed, everything they'd been desperate for. And it was wrong. So why did it feel so tempting?
 
-So why did it feel so wrong?
+Because it worked. Because it was safe. Because it was peace. And that was the problem—not because it was cruel, not because it was evil, but because it was tempting. Because it was peaceful. Because it was safe. And safety that cost connection wasn't safety. It was surrender.
 
-Because it was.
+Rowan didn't know if she could resist it, not while she was so tired, not while she was so hungry, not while she was so desperate, not while it was so tempting. But she had to try, because they were human, because they felt, because they connected. And that mattered, even when it was dangerous, even when it was wrong.
 
-Because safety that cost connection wasn't safety.
+After breakfast, Sarah offered to show them around. "I'd like to give you a tour of Harmony. Help you understand how we work here."
 
-Because peace that cost empathy wasn't peace.
+Rowan exchanged a look with Tara, who gave a slight nod. They needed to see more. To understand what they were dealing with.
 
-Because everything that cost humanity wasn't worth it.
+The settlement was larger than it had seemed from the outside. Sarah led them through organized pathways, past buildings that served specific functions. A workshop where people crafted tools with methodical precision. A medical center where injuries were treated efficiently. Gardens that produced food in organized rows.
 
-Even when you were tired.
+"Everyone has a role here," Sarah explained as they walked. "Everyone contributes. We've found that structure helps people feel secure. Purpose gives meaning."
 
-Even when you were hungry.
+Rowan watched a group of people working together in the gardens. They coordinated their movements without speaking, passing tools, moving in patterns that felt choreographed. Efficient. But when one person stumbled slightly, no one reached out to steady them. They just… adjusted. Continued.
 
-Even when you were desperate.
+"Are people assigned roles?" Tara asked, her voice carefully neutral.
 
-Her throat closed.
+"People find their roles," Sarah said. "The System helps identify where they'll be most effective. Where they'll contribute best. It's about optimization—matching people to tasks that suit their capabilities."
 
-This was Harmony.
+Rowan's stomach tightened. The System was assigning roles. Matching people. Optimizing them.
 
-And it was everything they'd needed.
+They passed a building where people were learning—reading, studying, practicing skills. Through the windows, Rowan could see organized rows of desks, people focused on their work. But no one was helping each other. No one was asking questions. They just… studied. Independently. Efficiently.
 
-And it was everything they'd been desperate for.
+"Education is important here," Sarah said. "We want everyone to reach their potential. To grow. To improve."
 
-And it was wrong.
+But growth toward what? Improvement toward what end?
 
-So why did it feel so tempting?
+Rowan caught movement in her peripheral vision. A woman had dropped something, and another person nearby had seen it. They made eye contact. The second person's hand twitched, as if to help. Then they looked away, continued with their own task.
 
-Because it worked.
+The dropped item lay there, forgotten.
 
-Because it was safe.
+Like a failed API call that no one bothered to retry—the error was logged, but the request was abandoned.
 
-Because it was peace.
+"Does everyone stay here?" Lio asked. "I mean, can people leave if they want?"
 
-And that was the problem.
+Sarah's smile didn't waver. "Of course. People are free to leave. But most find that Harmony offers what they've been looking for. Safety. Stability. Purpose. Why would they want to leave?"
 
-Not because it was cruel.
+The question hung in the air, unanswerable.
 
-Not because it was evil.
+Why would they want to leave?
 
-But because it was tempting.
+When they had food, shelter, safety, purpose?
 
-Because it was peaceful.
+When they had everything they'd been desperate for?
 
-Because it was safe.
+Rowan didn't have an answer.
 
-And safety that cost connection wasn't safety.
+Not one that would make sense to someone who'd found peace here.
 
-It was surrender.
+They finished the tour at the gardens, where people were harvesting vegetables with coordinated efficiency. The work was productive. The food was real. The system worked.
 
-And Rowan didn't know if she could resist it.
+But as they walked back to the main building, Rowan noticed something. A man working alone, his movements slower than the others, his expression… different. Not peaceful. Not content. Just… tired. He looked up as they passed, and for a moment, Rowan saw something in his eyes. Recognition? Resignation? She couldn't tell.
 
-Not while she was so tired.
+Then he looked away, his movements returning to the same efficient pattern as everyone else.
 
-Not while she was so hungry.
+Like a process that had been interrupted, then resumed its normal execution.
 
-Not while she was so desperate.
+"What happens to people who don't… fit?" Rowan asked carefully.
 
-Not while it was so tempting.
+Sarah's expression didn't change. "Everyone fits, eventually. Some people just need more time to adjust. To find their place. We help them with that."
 
-Her breath caught.
+Help them adjust.
 
-This was what they'd needed.
+Help them find their place.
 
-This was what they'd been desperate for.
+Help them fit.
 
-So why did it feel so wrong?
+The words sounded like support.
 
-Because it was.
+But they also sounded like pressure.
 
-And that was the most dangerous thing about it.
+Like a system that would keep retrying until the request succeeded.
 
-Not because it was cruel.
+Rowan looked back at the man in the gardens, but he was gone. Absorbed into the pattern. Efficient. Coordinated. Optimized.
 
-Not because it was evil.
-
-But because it was tempting.
-
-Because it was peaceful.
-
-Because it was safe.
-
-And safety that cost connection wasn't safety.
-
-It was surrender.
-
-And Rowan didn't know if she could resist it.
-
-Not yet.
-
-Not while she was still so tired.
-
-Not while she was still so hungry.
-
-Not while she was still so desperate.
-
-Not while it was still so tempting.
-
-But she had to try.
-
-Because they were human.
-
-Because they felt.
-
-Because they connected.
-
-And that mattered.
-
-Accepting the price.
-
-Even when it was dangerous.
-
-Even when it was wrong.
+Like he'd never been different at all.

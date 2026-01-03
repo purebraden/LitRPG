@@ -21,6 +21,24 @@ And that was the problem.
 
 Her gut clenched.
 
+Tara stood beside her, her expression carefully neutral, her eyes watching. She'd been the one to recognize the change, to understand the cost, to see what was at stake.
+
+"Rowan," Tara said, her voice soft but firm. "I see it. I see the change. I see the cost. We have to help him. We have to try empathy. One last chance."
+
+Her throat closed.
+
+Tara had seen it.
+
+Tara had recognized it.
+
+Tara had understood it.
+
+They had to help him.
+
+They had to try empathy.
+
+One last chance.
+
 She had to help him.
 
 She had to try empathy.
@@ -197,13 +215,7 @@ Kellan looked up, gratitude flickering in his eyes. "Thank you. Please. Help me 
 
 Her throat closed.
 
-He was asking for help.
-
-He was asking to remember.
-
-He was asking to resist.
-
-He was asking to be human again.
+He was asking for help, asking to remember, asking to resist, asking to be human again.
 
 A weight settled in her chest.
 

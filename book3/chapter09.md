@@ -5,9 +5,13 @@ Rowan tried to find other resistors the next day.
 
 Not through direct questions—those felt dangerous. But through observation. Through watching. Through listening.
 
+Tara walked beside her, her movements careful, her attention focused. She'd been the one to suggest the search, to recognize the need for connection, to understand the cost of isolation.
+
 The morning air was crisp, the kind that made you want to take deep breaths and feel alive. But Rowan's lungs felt tight, her chest constricted by something that had nothing to do with the weather. She'd slept poorly again, her mind running through possibilities like a recursive function that couldn't find its exit condition.
 
 She'd mapped out her approach like debugging a distributed system—you couldn't query nodes directly without alerting the network, but you could observe traffic patterns, watch for anomalies, look for the signals that didn't match the expected protocol.
+
+Tara helped her, her movements careful, her attention focused. She'd been the one to spot the signs of resistance, to identify the safe meeting places, to recognize the patterns that indicated other resistors.
 
 Harmony was already awake when she stepped outside. People moved through the streets with purpose, their paths intersecting in ways that looked almost choreographed. Rowan watched from the edge of the common area, mentally cataloging what she saw: efficient movement, friendly nods, shared resources, coordinated tasks.
 
@@ -95,13 +99,7 @@ Something essential.
 
 Something human.
 
-And Rowan didn't know if she could live without it.
-
-Not even for safety.
-
-Not even for peace.
-
-Not even for everything they'd been desperate for.
+And Rowan didn't know if she could live without it, not even for safety, not even for peace, not even for everything they'd been desperate for.
 
 She watched as two people sat down at a nearby table, their movements coordinated, their interactions smooth. They smiled, nodded, spoke. But they didn't touch. They maintained that careful distance, that space that felt deliberate.
 
@@ -125,21 +123,11 @@ Something essential.
 
 Something human.
 
-And Rowan didn't know if she could live without it.
-
-Not even for safety.
-
-Not even for peace.
-
-Not even for everything they'd been desperate for.
+And Rowan didn't know if she could live without it, not even for safety, not even for peace, not even for everything they'd been desperate for.
 
 She watched as they finished their meal, their movements coordinated, their interactions smooth. They helped each other carry things. They shared resources. They worked together seamlessly.
 
-But they didn't touch.
-
-They didn't connect.
-
-They didn't feel.
+But they didn't touch, didn't connect, didn't feel.
 
 Like a network where every node could communicate, but none of them actually shared data. The connections existed, but they were shallow, surface-level, optimized for efficiency rather than depth.
 
@@ -153,45 +141,17 @@ But hollow.
 
 Like a distributed system where every node agreed except you. Like a feature that worked perfectly but consumed resources you couldn't afford to lose.
 
-And Rowan didn't know if she could live without it.
+And Rowan didn't know if she could live without it, not even for safety, not even for peace, not even for everything they'd been desperate for.
 
-Not even for safety.
-
-Not even for peace.
-
-Not even for everything they'd been desperate for.
-
-But she had to try.
-
-Because they were human.
-
-Because they felt.
-
-Because they connected.
-
-And that mattered.
-
-No matter the cost.
-
-Even when it was dangerous.
-
-Even when it was wrong.
+But she had to try, because they were human, because they felt, because they connected. And that mattered, no matter the cost, even when it was dangerous, even when it was wrong.
 
 What she discovered made a weight settle in her chest.
 
-They were all gone.
-
-All aligned.
-
-All optimized.
-
-All at peace.
+They were all gone—all aligned, all optimized, all at peace.
 
 Her throat closed.
 
-Resistance felt lonely.
-
-Resistance felt futile.
+Resistance felt lonely, futile.
 
 Resistance felt… wrong.
 

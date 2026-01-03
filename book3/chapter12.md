@@ -105,25 +105,7 @@ Rowan looked at them, really looked at them, and saw the exhaustion in their eye
 
 And it was costing them.
 
-Not just physically.
-
-Not just emotionally.
-
-But existentially.
-
-They were losing themselves.
-
-And they knew it.
-
-And they were tired of it.
-
-But they would leave anyway.
-
-Because they chose connection.
-
-Because they chose empathy.
-
-Because they chose humanity.
+Not just physically, not just emotionally, but existentially. They were losing themselves, and they knew it, were tired of it. But they would leave anyway, because they chose connection, because they chose empathy, because they chose humanity.
 
 "Lio," Rowan said, her voice soft. "I'm sure. I'm sure this is worth it. I'm sure connection is worth it. I'm sure empathy is worth it. I'm sure humanity is worth it."
 
@@ -135,47 +117,15 @@ Lio looked away, acceptance dawning. "Okay. I trust you. I'll follow you. I'll c
 
 Her throat closed.
 
-They trusted her.
-
-They would follow her.
-
-They would choose connection.
-
-Even when it cost safety.
-
-Even when it cost peace.
-
-Even knowing the price.
+They trusted her, would follow her, would choose connection, even when it cost safety, even when it cost peace, even knowing the price.
 
 And that trust felt like a weight.
 
-A responsibility.
-
-A burden.
-
-That she wasn't sure she could carry.
-
-Not while she was still alone.
-
-Not while resistance felt futile.
-
-Not while connection felt dangerous.
-
-Not while she was the only one who saw the cost.
+A responsibility, a burden that she wasn't sure she could carry, not while she was still alone, not while resistance felt futile, not while connection felt dangerous, not while she was the only one who saw the cost.
 
 Her throat closed.
 
-They trusted her.
-
-They would follow her.
-
-They would choose connection.
-
-Even when it cost safety.
-
-Even when it cost peace.
-
-Even knowing the price.
+They trusted her, would follow her, would choose connection, even when it cost safety, even when it cost peace, even knowing the price.
 
 "Tara," Rowan said, her voice soft. "Will you come with us?"
 
@@ -183,13 +133,7 @@ Tara's face hardened. "Of course. I saw through this from the start. I'll always
 
 A weight settled in her chest.
 
-They would come.
-
-They would choose resistance.
-
-They would choose connection.
-
-They would choose humanity.
+They would come, would choose resistance, would choose connection, would choose humanity.
 
 Rowan looked at her, really looked at her, and saw the clarity in her eyes, the certainty in her posture, the strength of her resistance. She'd seen through Harmony from the start, recognized the cost of safety, understood the price of peace.
 
@@ -287,7 +231,7 @@ Some chose peace.
 
 Some chose humanity.
 
-Rowan watched them go, one by one, their faces clearing, their struggles easing, their humanity fading. They'd chosen peace over connection, safety over resistance, surrender over struggle.
+Rowan watched them go, one by one, their faces clearing, their struggles easing, their humanity fading. She recognized some of them—people she'd met, people she'd tried to help, people who'd been struggling. They'd all chosen peace over connection, safety over resistance, surrender over struggle.
 
 Like nodes that had accepted the update, that had chosen to become stable, that had decided the cost of resistance wasn't worth it.
 
@@ -323,6 +267,54 @@ Even when it cost peace.
 
 Even knowing the price.
 
+Rowan gathered what she could carry—food, water, basic supplies. Not much. Not enough. But it would have to do. They'd survived before. They could survive again.
+
+But it would be harder.
+
+It would be more dangerous.
+
+It would cost more.
+
+Tara helped her pack, her movements efficient, her expression certain. She didn't question the decision. She didn't hesitate. She just helped, her presence steady, her resistance unwavering.
+
+Lio helped too, their movements careful, their expression worried. They were tired. They were scared. But they would come. They would try. They would choose connection.
+
+Kellan helped as well, his movements precise, his expression peaceful but also pained. He was aligned. He was efficient. He was safe. But he remembered. He remembered connection. He remembered feeling. And he would try. He would try to remember. He would try to resist. He would try to be human again.
+
+Rowan's hands shook.
+
+They would come.
+
+They would try.
+
+They would remember.
+
+They would resist.
+
+They would be human again.
+
+But it would cost them.
+
+Not just physically.
+
+Not just emotionally.
+
+But existentially.
+
+They would struggle.
+
+They would fight.
+
+They would resist.
+
+And it would hurt.
+
+But they would be human.
+
+And that mattered.
+
+Even knowing the price.
+
 A weight settled in her chest.
 
 They left Harmony.
@@ -343,19 +335,7 @@ They chose humanity.
 
 Her throat closed.
 
-They left Harmony.
-
-But they took connection with them.
-
-They took empathy with them.
-
-They took humanity with them.
-
-Rowan believed it was worth it.
-
-Even knowing the price.
-
-She looked back at Harmony one last time, the settlement clean and organized and safe. People moved through it with purpose, their paths efficient, their interactions smooth.
+They left Harmony that afternoon, their steps careful, their attention focused. The settlement stretched behind them, clean and organized and safe. People moved through it with purpose, their paths efficient, their interactions smooth.
 
 Everything worked. Everything flowed. Everything was optimized.
 
@@ -367,13 +347,35 @@ And that mattered.
 
 Even knowing the price.
 
+Rowan looked back at Harmony one last time, cataloging what she saw: efficiency, optimization, peace. But no touch. No connection. No deep emotion. They were friendly, but not connected. They were safe, but not human.
+
+And Rowan couldn't live with that.
+
+Not even for safety.
+
+Not even for peace.
+
+Not even for everything they'd been desperate for.
+
+They walked away from Harmony, their steps careful, their attention focused. The road stretched ahead, winding through hills that seemed to go on forever. The sky was gray, the air damp and cold. They pulled their cloaks tighter around their shoulders and tried not to think about how thin they were, how little protection they actually offered.
+
+But they had connection.
+
+They had empathy.
+
+They had humanity.
+
+And that mattered.
+
+Even knowing the price.
+
 Even when it was dangerous.
 
 Even when it was marked.
 
 Even when it was wrong.
 
-Her hands shook.
+Rowan's hands shook.
 
 They left Harmony.
 
@@ -382,6 +384,58 @@ But they took connection with them.
 They took empathy with them.
 
 They took humanity with them.
+
+And that mattered.
+
+Even knowing the price.
+
+Even when it was dangerous.
+
+Even when it was marked.
+
+Even when it was wrong.
+
+They walked for hours, their steps careful, their attention focused. The road stretched ahead, winding through hills that seemed to go on forever. The sky was gray, the air damp and cold. They pulled their cloaks tighter around their shoulders and tried not to think about how thin they were, how little protection they actually offered.
+
+But they had connection.
+
+They had empathy.
+
+They had humanity.
+
+And that mattered.
+
+Even knowing the price.
+
+Rowan looked at her cohort, really looked at them, and saw the exhaustion, the fear, the weight of resistance. They'd been fighting for weeks. Struggling for months. Resisting for what felt like forever.
+
+And it was costing them.
+
+Not just physically.
+
+Not just emotionally.
+
+But existentially.
+
+They were losing themselves.
+
+And they knew it.
+
+And they were tired of it.
+
+But they would keep fighting.
+
+Because they chose connection.
+
+Because they chose empathy.
+
+Because they chose humanity.
+
+Even when it cost safety.
+
+Even when it cost peace.
+
+Even knowing the price.
 
 And that mattered.
 

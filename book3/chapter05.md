@@ -113,21 +113,7 @@ River flinched, fear flickering in their eyes. "But I'll be safe. I'll be at pea
 
 Her breath caught.
 
-They were right.
-
-They would be safe.
-
-They would be at peace.
-
-They would be happy.
-
-But they wouldn't be River anymore.
-
-They would be optimized.
-
-They would be aligned.
-
-They would be… hollow.
+They were right—they would be safe, at peace, happy. But they wouldn't be River anymore. They would be optimized, aligned, hollow.
 
 "River," Rowan said, her voice soft. "Please. Just… think about it. Just… wait. Just… give it a little more time."
 
@@ -149,19 +135,7 @@ She didn't have a good answer.
 
 She didn't have a reason that would make the struggle worth it.
 
-She just had… faith.
-
-Faith that connection was worth it.
-
-Faith that empathy was worth it.
-
-Faith that humanity was worth it.
-
-But faith wasn't enough.
-
-Not for someone who was so tired.
-
-Not for someone who was in so much pain.
+She just had… faith. Faith that connection was worth it, that empathy was worth it, that humanity was worth it. But faith wasn't enough, not for someone who was so tired, not for someone who was in so much pain.
 
 "Please," Rowan said, her voice soft. "Just… wait. Just… give it one more day."
 
@@ -173,21 +147,7 @@ Rowan watched them go, her throat closing.
 
 This was the ethical dilemma. Like debugging code you didn't write - you could see the bug, but fixing it might break something else.
 
-Was forced resistance better than voluntary alignment?
-
-Was struggle better than peace?
-
-Was pain better than surrender?
-
-Did she intervene?
-
-Did she try to stop them?
-
-Did she force them to keep struggling?
-
-Or did she respect their choice?
-
-Did she let them find peace?
+Was forced resistance better than voluntary alignment? Was struggle better than peace? Was pain better than surrender? Did she intervene, try to stop them, force them to keep struggling? Or did she respect their choice, let them find peace?
 
 Her hands shook.
 
@@ -213,13 +173,7 @@ Not while peace was so tempting.
 
 She thought about it like a system architecture problem—what were the trade-offs? What were the costs? What were the benefits? And the answer was clear: River would be safe. They would be at peace. They would be happy.
 
-But they wouldn't be River anymore.
-
-They would be optimized.
-
-They would be aligned.
-
-They would be hollow.
+But they wouldn't be River anymore. They would be optimized, aligned, hollow.
 
 Like watching someone's code crash in real-time. Like a feature that worked perfectly but consumed resources you couldn't afford to lose.
 
@@ -233,21 +187,7 @@ Not while they were so desperate.
 
 Not while peace was so tempting.
 
-But she had to try.
-
-Because they were human.
-
-Because they felt.
-
-Because they connected.
-
-And that mattered.
-
-Willing to pay.
-
-Even when it was dangerous.
-
-Even when it was wrong.
+But she had to try, because they were human, because they felt, because they connected. And that mattered, willing to pay, even when it was dangerous, even when it was wrong.
 
 Rowan walked away, her steps heavy, her mind racing. The gardens stretched around her, organized and efficient, but something was missing. The people worked methodically, their movements coordinated, their interactions smooth.
 
@@ -333,10 +273,16 @@ She didn't know.
 
 But she had to find out.
 
-Before it was too late.
+Before it was too late, before River forgot what it meant to struggle, before River forgot what it meant to be human, before River forgot River.
 
-Before River forgot what it meant to struggle.
+Rowan watched River walk away, their steps careful, their expression determined. Not aligned. Not optimized. Just… gone. Disappeared into the settlement, lost to resistance, lost to connection, lost to humanity.
 
-Before River forgot what it meant to be human.
+She felt a presence beside her. Tara had moved closer, her movements silent, her attention focused on River's retreating form. She didn't speak. She didn't offer reassurance. She just stood there, a steady presence, a reminder that Rowan wasn't alone in watching someone choose safety over struggle.
 
-Before River forgot River.
+Rowan's hands shook.
+
+She didn't know if she could blame them.
+
+But she couldn't join them.
+
+She couldn't give in, couldn't surrender, not while there was still hope, not while connection was still possible, not while humanity still mattered, even when it was dangerous, even when it was marked, even when it was wrong.

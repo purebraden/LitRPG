@@ -103,6 +103,54 @@ Through the System.
 
 Like a partial backup—the structure was there, but pieces were missing. Like a feature that worked perfectly but consumed resources you couldn't afford to lose.
 
+Tara stepped forward, her expression carefully neutral, her eyes watching. "Kellan," she said, her voice soft but firm. "You're becoming Marcus. You're becoming aligned. You're becoming hollow. And we can't let that happen."
+
+Kellan's face went still, confusion clouding his features. "But I'm safe. I'm efficient. I'm optimized. What's wrong with that?"
+
+Tara's face hardened. "Everything. Everything is wrong with that. Because you're losing yourself. You're losing your humanity. You're losing your connection. And that's not safety. That's surrender."
+
+Her gut clenched.
+
+Tara was right.
+
+That wasn't safety.
+
+That was surrender.
+
+And they couldn't let that happen.
+
+"Kellan," Tara said, her voice soft but firm. "Please. Remember. Remember us. Remember connection. Remember feeling. Remember being human."
+
+Kellan's face crumpled. "I… I want to. I want to remember. I want to connect. I want to feel. But it's so hard. It's so dangerous. It's so costly."
+
+Tara's face went still, recognition dawning. "I know. I know it's hard. I know it's dangerous. I know it's costly. But it's worth it. Connection is worth it. Empathy is worth it. Humanity is worth it."
+
+Her throat closed.
+
+Tara was right.
+
+Connection was worth it.
+
+Empathy was worth it.
+
+Humanity was worth it.
+
+Even when it was hard.
+
+Even when it was dangerous.
+
+Even when it was costly.
+
+Because they were human.
+
+Because they felt.
+
+Because they connected.
+
+And that mattered.
+
+Accepting the price.
+
 He was still Kellan.
 
 But he was becoming something else.
@@ -167,13 +215,7 @@ Kellan's face crumpled. "I… I don't know. I'm scared. I'm scared of the cost. 
 
 Her throat closed.
 
-He was scared.
-
-He was scared of connection.
-
-He was scared of feeling.
-
-He was scared of being human.
+He was scared—scared of connection, scared of feeling, scared of being human.
 
 Like a node that had refused the update, that had maintained their original protocols, that had chosen to remain unstable. But the cost was high. Too high. And they were tired of paying it.
 
@@ -185,35 +227,7 @@ Rowan looked at him, really looked at him, and saw the fear in his eyes, the exh
 
 And it was costing him.
 
-Not just physically.
-
-Not just emotionally.
-
-But existentially.
-
-He was losing himself.
-
-And he knew it.
-
-And he was scared of it.
-
-And he just wanted peace.
-
-But he was asking for help.
-
-He was asking to remember.
-
-He was asking to resist.
-
-He was asking to be human again.
-
-And Rowan had to try.
-
-Even when it was dangerous.
-
-Even when it was marked.
-
-Even when it was wrong.
+Not just physically, not just emotionally, but existentially. He was losing himself, and he knew it, was scared of it, just wanted peace. But he was asking for help, asking to remember, asking to resist, asking to be human again. And Rowan had to try, even when it was dangerous, even when it was marked, even when it was wrong.
 
 Rowan opened herself to his emotional state, like reading someone's code that was slowly being overwritten.
 
@@ -221,25 +235,11 @@ It was risky. Dangerous. But she had to try.
 
 His emotions hit her like corrupted data - the structure was there, but something essential was missing.
 
-She found… efficiency.
-
-Optimization.
-
-Safety.
-
-But beneath that, she found… pain.
-
-Struggle.
-
-Humanity.
+She found efficiency, optimization, safety. But beneath that, she found pain, struggle, humanity.
 
 Like corrupted data—some files intact, some lost forever. Like a partial backup—the structure was there, but pieces were missing.
 
-He was still there.
-
-He was still fighting.
-
-He was still human.
+He was still there, still fighting, still human.
 
 But he was losing. Like a memory leak consuming his personality - you could see it happening in real-time. Like watching someone's code slowly being overwritten—the structure was there, but something essential was missing.
 

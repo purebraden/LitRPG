@@ -13,11 +13,19 @@ Like a software update that promised to fix all your problems—no rollback opti
 
 But something was missing.
 
-Rowan watched them from a distance, a weight settling in her chest. They moved through the settlement with purpose, their tasks coordinated, their interactions smooth. They looked like someone who'd found what they were looking for—safety, stability, peace.
+Rowan watched them from a distance, a weight settling in her chest. Tara stood beside her, her expression carefully neutral, her eyes watching. She'd been the one to recognize the change, to understand the cost, to see what was missing.
+
+They moved through the settlement with purpose, their tasks coordinated, their interactions smooth. They looked like someone who'd found what they were looking for—safety, stability, peace.
 
 But something was missing.
 
 This was what alignment looked like.
+
+Tara stood beside her, her movements silent, her attention focused on River. She didn't speak. She didn't need to. Rowan could see the recognition in her posture, the way her shoulders tensed slightly, the careful neutrality of her expression that didn't quite hide the understanding.
+
+"They're aligned," Rowan said quietly, more to herself than to Tara. "They're optimized. They're at peace. But something is missing."
+
+Tara's gaze didn't shift from River, but Rowan caught the slight nod, the acknowledgment. Connection. Empathy. Humanity. The cost was visible, even if River couldn't see it themselves yet.
 
 Not cruelty. Not coldness.
 
@@ -139,21 +147,7 @@ Struggle.
 
 Humanity.
 
-They remembered.
-
-They remembered choosing.
-
-They remembered the cost.
-
-They regretted it.
-
-Her throat closed.
-
-They remembered.
-
-They regretted.
-
-But they couldn't undo it.
+They remembered, remembered choosing, remembered the cost. They regretted it, but they couldn't undo it.
 
 A pause.
 
@@ -167,17 +161,9 @@ Rowan pulled back, her movements careful, her attention focused.
 
 River's face crumpled.
 
-They flinched from connection.
+They flinched from connection, physically withdrew, emotionally lagged. Like a system with high latency - the response came, but too late to be useful.
 
-Physically withdrew.
-
-Emotionally lagged. Like a system with high latency - the response came, but too late to be useful.
-
-They remembered, but with delay.
-
-They felt, but seconds late.
-
-They wanted to help, but optimization language slipped in. Like code that had been refactored - the function worked, but the variable names were wrong.
+They remembered, but with delay. They felt, but seconds late. They wanted to help, but optimization language slipped in. Like code that had been refactored - the function worked, but the variable names were wrong.
 
 They were fighting, but alignment kept trying to reassert.
 
@@ -187,17 +173,7 @@ River's face went still, desperation clouding their features. "I remember. I rem
 
 Her throat closed.
 
-They were stuck.
-
-They were aligned.
-
-They were hollow.
-
-But they were fighting.
-
-They were remembering.
-
-They were feeling.
+They were stuck, aligned, hollow. But they were fighting, remembering, feeling.
 
 "River," Rowan said, her voice soft. "Can I help you? Can I help you remember more? Can I help you resist?"
 
@@ -215,11 +191,7 @@ River's face cleared, relief washing over them. "Thank you. Please. I don't want
 
 Her throat closed.
 
-They wanted to be human.
-
-They wanted to feel.
-
-They wanted to connect.
+They wanted to be human, to feel, to connect.
 
 But alignment was sticky.
 
@@ -227,17 +199,11 @@ Recovery was incomplete.
 
 Like trying to roll back a database migration—some data restored, some lost forever. Like corrupted data—some files intact, some lost forever.
 
-They would always flinch from connection.
-
-They would always lag emotionally.
-
-They would always struggle.
+They would always flinch from connection, always lag emotionally, always struggle.
 
 Like a system with high latency—the response came, but too late to be useful. Like code that had been refactored—the function worked, but the variable names were wrong.
 
-Sometimes it would worsen.
-
-Sometimes it would embarrass them.
+Sometimes it would worsen, sometimes it would embarrass them.
 
 Sometimes it would hurt Rowan.
 

@@ -7,6 +7,10 @@ Not suddenly. Not dramatically. Just… gradually.
 
 Like a software update rolling out across a network—you didn't notice it happening, but one day you looked up and everything was different. More settlements became optimized. More people became aligned. More resistance became isolated.
 
+Rowan first noticed it when they reached a settlement they'd passed through weeks ago. It had been struggling then, people uncertain, resources scarce, resistance visible. But now it was different. Clean. Organized. Efficient. Optimized.
+
+The people moved with purpose, their paths coordinated, their interactions smooth. They were friendly, but not connected. They were safe, but not human. They'd chosen peace over struggle, safety over resistance, surrender over humanity.
+
 Rowan felt it like a recursive function with no exit condition—each iteration made resistance harder, each cycle made connection costlier, each loop made humanity feel more wrong.
 
 She'd been tracking the changes like monitoring system logs—watching for patterns, looking for anomalies, trying to understand the update protocol. But the System wasn't broadcasting its changes. It was just… happening.
@@ -26,6 +30,20 @@ Resistance felt lonely.
 Resistance felt… wrong.
 
 Like a bug that kept appearing in your code, but when you tried to fix it, the linter marked your fix as "unstable." Technically you weren't wrong, but you were definitely the problem.
+
+Rowan watched the settlement from a distance, cataloging what she saw: efficiency, optimization, peace. But no touch. No connection. No deep emotion. They were friendly, but not connected. They were safe, but not human.
+
+And more settlements were becoming like this.
+
+Every day, more settlements became optimized.
+
+Every day, more people became aligned.
+
+Every day, more resistance became isolated.
+
+And Rowan didn't know how to stop it.
+
+Not while she was still alone, not while resistance felt futile, not while connection felt dangerous, not while the cost was so high.
 
 Rowan's cohort felt the pressure.
 
@@ -49,15 +67,25 @@ She didn't judge them.
 
 She just… couldn't join them.
 
-She'd seen what alignment cost. She'd seen what optimization required. She'd seen what peace demanded.
+Tara stood beside her, her expression carefully neutral, her eyes watching. She'd been the one to provide strength, to offer certainty, to remind them why resistance mattered.
 
-And she couldn't pay it.
+"Rowan," Tara said, her voice soft but firm. "I see the pressure. I see the temptation. I see the cost. But we can't give in. We can't accept it. We can't surrender. We choose connection. We choose empathy. We choose humanity. Even when it's dangerous. Even when it's marked. Even when it's wrong."
 
-Not yet.
+Her throat closed.
 
-Not while there was still hope.
+Tara was right.
 
-Not while connection was still possible.
+They couldn't give in.
+
+They couldn't accept it.
+
+They couldn't surrender.
+
+They would choose connection.
+
+They would choose empathy.
+
+They would choose humanity.
 
 Even when it was dangerous.
 
@@ -65,31 +93,29 @@ Even when it was marked.
 
 Even when it was wrong.
 
+Because they were human, because they felt, because they connected. And that mattered, accepting the price.
+
+She'd seen what alignment cost. She'd seen what optimization required. She'd seen what peace demanded.
+
+And she couldn't pay it.
+
+Not yet, not while there was still hope, not while connection was still possible, even when it was dangerous, even when it was marked, even when it was wrong.
+
 "Rowan," Lio said, their voice soft, worried. "What do we do? How do we resist this? How do we fight the wave?"
 
 Her throat closed.
 
-They were worried.
-
-They were scared.
-
-They didn't know how to resist.
-
-But they would try.
-
-Because they chose connection.
-
-Because they chose empathy.
-
-Because they chose humanity.
+They were worried, scared, didn't know how to resist. But they would try, because they chose connection, because they chose empathy, because they chose humanity.
 
 Rowan looked at them, really looked at them, and saw the exhaustion in their eyes, the fear in their posture, the weight of resistance in every line of their body. They'd been fighting for weeks, struggling for months, resisting for what felt like forever.
 
 And it was getting harder.
 
-Not because the System was getting stronger.
+Not because the System was getting stronger, but because resistance was getting lonelier. Every day, more settlements became optimized, more people became aligned, more resistance became isolated.
 
-But because resistance was getting lonelier.
+And Rowan didn't know how to stop it.
+
+Not while she was still alone, not while resistance felt futile, not while connection felt dangerous, not while the cost was so high.
 
 "Lio," Rowan said, her voice soft. "I don't know. I don't know how to resist this. I don't know how to fight the wave. But I know we have to try. I know we have to resist. I know we have to choose connection."
 
@@ -98,6 +124,82 @@ She thought about it like a system architecture problem—how do you resist a di
 The answer was: you couldn't. Not perfectly. Not safely. Not efficiently.
 
 But you could try.
+
+You could maintain.
+
+You could persist.
+
+No matter the cost.
+
+Rowan watched the fire, cataloging what she saw: the flames dancing, the warmth spreading, the light flickering. But something was missing. Something essential. Something human.
+
+The cohort sat around the fire, their movements careful, their attention focused. They were tired. They were scared. They were losing themselves.
+
+And Rowan didn't know how to help them.
+
+Not while they were so tired.
+
+Not while resistance felt futile.
+
+Not while connection felt dangerous.
+
+Not while the cost was so high.
+
+But they would try.
+
+They would try to resist.
+
+They would try to choose connection.
+
+They would try to be human.
+
+And that mattered.
+
+Even when it was dangerous.
+
+Even when it was marked.
+
+Even when it was wrong.
+
+Rowan looked at the horizon, where more settlements were becoming optimized, where more people were becoming aligned, where more resistance was becoming isolated. The wave was spreading, rolling across the region, consuming everything in its path.
+
+And Rowan didn't know how to stop it.
+
+Not while she was still alone, not while resistance felt futile, not while connection felt dangerous, not while the cost was so high.
+
+But she would try.
+
+She would try to resist.
+
+She would try to choose connection.
+
+She would try to be human.
+
+And that mattered.
+
+Even when it was dangerous.
+
+Even when it was marked.
+
+Even when it was wrong.
+
+Her breath caught.
+
+This was the normalization wave.
+
+And it was winning.
+
+But she would keep fighting.
+
+Because they were human.
+
+Because they felt.
+
+Because they connected.
+
+And that mattered.
+
+No matter the cost.
 
 You could persist.
 

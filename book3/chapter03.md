@@ -169,13 +169,7 @@ The horror was that he was at peace.
 
 Her throat closed.
 
-Let go.
-
-Accept the help.
-
-The words sounded like surrender.
-
-But they also sounded like relief. Like finally accepting a broken API instead of trying to fix it.
+Let go. Accept the help. The words sounded like surrender, but they also sounded like relief, like finally accepting a broken API instead of trying to fix it.
 
 "I can't," Rowan said, her voice soft. "I can't give up connection. I can't give up empathy. I can't give up… me."
 
@@ -193,19 +187,7 @@ Marcus's expression cleared, his smile returning. "I understand. I felt that way
 
 Her throat closed.
 
-He was trying to help.
-
-He genuinely wanted her to be happy.
-
-He was proud of her for "making it this far."
-
-He was patient with her confusion.
-
-He was generous with resources.
-
-He was kind.
-
-And he was at peace.
+He was trying to help, genuinely wanted her to be happy, was proud of her for "making it this far." He was patient with her confusion, generous with resources, kind. And he was at peace.
 
 What was wrong with that?
 
@@ -241,11 +223,7 @@ Her breath caught.
 
 She looked at the food Marcus had brought her—real food, warm, filling, more than she'd had in weeks.
 
-He was trying to help.
-
-He was kind.
-
-He was at peace.
+He was trying to help, was kind, was at peace.
 
 Rowan didn't know what was wrong with that.
 
@@ -392,6 +370,152 @@ Willing to pay.
 Even when it was dangerous.
 
 Even when it was wrong.
+
+Rowan spent the rest of the day thinking about Marcus. He'd been struggling. He'd been in pain. He'd been exhausted. And he'd found peace.
+
+Genuine peace.
+
+Real peace.
+
+And he was happy.
+
+Genuinely happy.
+
+And Rowan didn't know what was wrong with that.
+
+Not while she was so tired.
+
+Not while she was so hungry.
+
+Not while she was so desperate.
+
+Not while peace was so tempting.
+
+She thought about it like a system architecture problem—what were the trade-offs? What were the costs? What were the benefits? And the answer was clear: Marcus was safe. He was at peace. He was happy.
+
+But he didn't remember.
+
+He didn't remember the struggle.
+
+He didn't remember the pain.
+
+He didn't remember being human.
+
+He just… was.
+
+Like corrupted data—some files intact, some lost forever. Like a partial backup—the structure was there, but pieces were missing.
+
+He was still Marcus.
+
+But he was becoming something else.
+
+Something optimized.
+
+Something efficient.
+
+Something hollow.
+
+And Rowan didn't know how to stop it.
+
+Not while they were still in Harmony.
+
+Not while alignment was so strong.
+
+Not while safety was so tempting.
+
+Not while she was the only one who saw the cost.
+
+Her hands shook.
+
+This was what Kellan was becoming.
+
+Kind. Helpful. At peace.
+
+Successful.
+
+Happy.
+
+But hollow.
+
+Like corrupted data—some files intact, some lost forever. Like a feature that worked perfectly but consumed resources you couldn't afford to lose.
+
+And Rowan didn't know how to stop it.
+
+Not while they were still in Harmony.
+
+Not while alignment was so strong.
+
+Not while safety was so tempting.
+
+Not while she was the only one who saw the cost.
+
+But she had to try.
+
+Because they were human.
+
+Because they felt.
+
+Because they connected.
+
+And that mattered.
+
+Willing to pay.
+
+Even when it was dangerous.
+
+Even when it was wrong.
+
+Rowan found Kellan later that evening, sitting in the common room, looking out the window. His movements were precise, his expression peaceful, his posture relaxed. He looked… content. At ease. Like he'd found his place.
+
+"Kellan," Rowan said, her voice soft. "How are you? How are you settling in?"
+
+Kellan looked up, his expression friendly but distant. "I'm well. Very well. Harmony is a good place. Safe. Peaceful. Efficient. I think I could be happy here."
+
+Her throat closed.
+
+He could be happy here.
+
+He could be safe here.
+
+He could be at peace here.
+
+But at what cost?
+
+Rowan didn't know.
+
+And that was the problem.
+
+She didn't know what the cost was.
+
+Not yet.
+
+Not while everything was still so new, so overwhelming, so tempting.
+
+But she would find out.
+
+She would learn what Harmony cost.
+
+And then she would have to choose.
+
+Safety or connection.
+
+Peace or humanity.
+
+Comfort or truth.
+
+And she didn't know which she would choose.
+
+Not yet.
+
+Not while the bread was still warm and the bed was still soft and the safety was still real.
+
+But she would.
+
+She would have to choose.
+
+And that choice would cost her.
+
+No matter what she chose.
 
 A weight settled in her chest.
 

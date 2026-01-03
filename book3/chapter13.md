@@ -7,9 +7,33 @@ They were struggling. In pain. Desperate.
 
 The person sat by the side of the road, their posture hunched, their breathing shallow. They looked like someone who'd been running for days, who'd been fighting for weeks, who'd been struggling for months. Their clothes were torn, their face was drawn, their eyes were haunted.
 
-Rowan had been walking for hours, her steps careful, her attention focused. The road stretched ahead, winding through hills that seemed to go on forever. The sky was gray, the air damp and cold. She pulled her cloak tighter around her shoulders and tried not to think about how thin it was, how little protection it actually offered.
+Rowan had been walking for hours, her steps careful, her attention focused. Tara walked beside her, her movements careful, her attention focused. She'd been the one to spot the person, to recognize the need, to understand the cost.
+
+The road stretched ahead, winding through hills that seemed to go on forever. The sky was gray, the air damp and cold. She pulled her cloak tighter around her shoulders and tried not to think about how thin it was, how little protection it actually offered.
 
 Then she saw them.
+
+Tara had moved closer, her steps careful, her attention split between the person and the surrounding area. She didn't speak, but Rowan felt her presence, steady and certain. When Rowan looked at her, Tara met her gaze and gave a single, slight nod.
+
+They needed help. They needed connection. They needed empathy.
+
+And they would try.
+
+Even when it was dangerous.
+
+Even when it was marked.
+
+Even when it was costly.
+
+Because they were human.
+
+Because they felt.
+
+Because they connected.
+
+And that mattered.
+
+Accepting the price.
 
 Sitting by the side of the road, their posture hunched, their breathing shallow. They looked like someone who'd been running for days, who'd been fighting for weeks, who'd been struggling for months.
 
@@ -97,23 +121,11 @@ But she had to try.
 
 Their pain hit her like a memory leak - consuming, unstoppable, eating away at her resources.
 
-She found… pain.
-
-Deep, aching pain.
-
-The kind that sat in your bones and reminded you that you were human.
-
-The kind that made you want to give up.
-
-The kind that made you want peace.
+She found pain—deep, aching pain. The kind that sat in your bones and reminded you that you were human, the kind that made you want to give up, the kind that made you want peace.
 
 Her breath caught.
 
-This was real.
-
-This was human.
-
-This was connection.
+This was real, human, connection.
 
 But then something shifted.
 
@@ -147,21 +159,11 @@ SYSTEM ATTENTION: ELEVATED
 
 Her hands shook.
 
-The System was watching.
-
-The System was marking her.
-
-The System was making empathy dangerous. Like a linter that marked your code as "unstable" - technically correct, but it made you second-guess everything.
+The System was watching, marking her, making empathy dangerous. Like a linter that marked your code as "unstable" - technically correct, but it made you second-guess everything.
 
 But the person was helped.
 
-They remembered.
-
-They chose resistance.
-
-They chose connection.
-
-They chose humanity.
+They remembered, chose resistance, chose connection, chose humanity.
 
 Her throat closed.
 
@@ -169,9 +171,7 @@ The empathy worked.
 
 But it cost more than ever.
 
-Days of aftermath.
-
-Deep emotional contamination.
+Days of aftermath, deep emotional contamination.
 
 Elevated System attention.
 

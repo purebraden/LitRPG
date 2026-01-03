@@ -169,23 +169,11 @@ Dr. Chen had found peace.
 
 And she was certain that everyone else could find it too.
 
-If they just let go.
-
-If they just accepted.
-
-If they just aligned.
+If they just let go, just accepted, just aligned.
 
 And that certainty was the most dangerous thing about her.
 
-Not her cruelty.
-
-Not her evil.
-
-But her kindness.
-
-Her certainty.
-
-Her belief that she was helping.
+Not her cruelty, not her evil, but her kindness, her certainty, her belief that she was helping.
 
 Even when she was facilitating surrender.
 
@@ -237,11 +225,7 @@ VARIANCE: DECREASING
 
 Her breath caught.
 
-The System was watching.
-
-The System was guiding.
-
-The System was optimizing.
+The System was watching, guiding, optimizing.
 
 Dr. Chen continued, her voice soft, hypnotic. "You've been fighting. Struggling. Resisting. But why? What has resistance given you? Pain. Exhaustion. Fear. What has it cost you? Safety. Peace. Stability."
 

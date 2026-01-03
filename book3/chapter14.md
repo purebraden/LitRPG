@@ -27,6 +27,52 @@ They didn't want to remember.
 
 They just wanted peace.
 
+Tara stood beside her, her expression carefully neutral, her eyes watching. She'd been the one to recognize the conflict, to understand the cost, to see the ethical dilemma.
+
+"Rowan," Tara said, her voice quiet. "They don't want this. You know that."
+
+Rowan's hands shook. "But they're in pain. I can see it. They're struggling. They're human."
+
+"Using empathy against their will is a violation," Tara said, her voice still quiet but firm. "Even if it reveals truth. Even if it helps. It's still a violation."
+
+Rowan knew she was right. Knew it in the way she knew when code was technically correct but ethically wrong. But the person was in pain. And she could help. And that mattered.
+
+It shouldn't matter more than consent. But it did.
+
+They couldn't force connection.
+
+They couldn't impose empathy.
+
+"Tara," Rowan said, her voice soft. "What do we do? How do we help them without violating consent?"
+
+Tara's face hardened. "We don't. We respect their choice. We respect their consent. We respect their peace. Even when it's painful. Even when it's wrong. Even when it costs us."
+
+Her throat closed.
+
+Tara was right.
+
+They would respect their choice.
+
+They would respect their consent.
+
+They would respect their peace.
+
+Even when it was painful.
+
+Even when it was wrong.
+
+Even when it cost them.
+
+Because they were human.
+
+Because they felt.
+
+Because they connected.
+
+And that mattered.
+
+Accepting the price.
+
 Her gut clenched.
 
 She had to choose. Like debugging code you didn't write - you could see the bug, but fixing it might break something else.
@@ -71,15 +117,7 @@ She chose empathy.
 
 And that choice would cost her.
 
-Not just physically.
-
-Not just emotionally.
-
-But ethically.
-
-She had crossed a line.
-
-And there was no going back.
+Not just physically, not just emotionally, but ethically. She had crossed a line, and there was no going back.
 
 Rowan opened herself to their emotional state, like forcing a connection to someone's private data - invasive, wrong, but necessary.
 
@@ -89,31 +127,9 @@ But she had to try.
 
 Their emotions hit her like a corrupted database - the structure was there, but something essential was missing.
 
-She found… peace.
+She found peace, contentment, safety. But beneath that, she found pain, struggle, humanity.
 
-Contentment.
-
-Safety.
-
-But beneath that, she found… pain.
-
-Struggle.
-
-Humanity.
-
-They remembered.
-
-They were in pain.
-
-They wanted to resist.
-
-But they were also angry.
-
-Angry at Rowan for forcing the connection.
-
-Angry at Rowan for violating their consent.
-
-Angry at Rowan for taking their peace.
+They remembered, were in pain, wanted to resist. But they were also angry—angry at Rowan for forcing the connection, for violating their consent, for taking their peace.
 
 "I was happy," they said, their voice tight, angry. "I was safe. I was at peace. Why did you do this? Why did you force this? Why did you take my peace away?"
 

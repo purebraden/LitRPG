@@ -9,13 +9,51 @@ Her ankle didn't hurt when she stood. Someone had changed the bandage while she 
 
 So why did it feel so wrong?
 
-Rowan dressed slowly, her movements careful, her attention split between the comfort of the moment and the unease that sat in her chest like a weight.
+Rowan dressed slowly, her movements careful, her attention split between the comfort of the moment and the unease that sat in her chest like a weight. The room was clean, warm, safe. The bed was soft. The window showed a peaceful morning, the sun gentle, the air crisp. Everything was perfect. Everything was safe. Everything was peaceful.
+
+But something was missing.
+
+Something essential.
+
+Something human.
+
+And Rowan didn't know if she could live without it.
+
+Not even for safety.
+
+Not even for peace.
+
+Not even for everything they'd been desperate for.
 
 Downstairs, the common room was full of people eating, talking, moving through their morning routines with the kind of ease that came from not having to think about survival. Rowan found a seat at a table near the window, watching the way people interacted.
 
 They were friendly. They smiled. They helped each other pass dishes, shared food, worked together seamlessly.
 
 But they didn't touch.
+
+Rowan watched as two people passed each other, close enough that their shoulders should have brushed. They smiled, nodded, spoke. But they maintained a careful distance, a space that felt deliberate, like they'd been trained to maintain it.
+
+She watched as someone laughed, and the people around them smiled, but no one reached out. No one put a hand on a shoulder. No one hugged.
+
+They were friendly, but not connected.
+
+Like a network where every node could communicate, but none of them actually shared data. The connections existed, but they were shallow, surface-level, optimized for efficiency rather than depth.
+
+Rowan's chest tightened.
+
+This was Harmony.
+
+Clean. Organized. Efficient.
+
+But hollow.
+
+And she didn't know if she could live with that.
+
+Not even for safety.
+
+Not even for peace.
+
+Not even for everything they'd been desperate for.
 
 Rowan watched as two people passed each other, close enough that their shoulders should have brushed. They smiled, nodded, spoke. But they maintained a careful distance, a space that felt deliberate, like they'd been trained to maintain it.
 
@@ -59,15 +97,7 @@ Elena's face went still for a moment, then cleared. "I was struggling. In pain. 
 
 Her throat closed.
 
-She'd been struggling.
-
-She'd been in pain.
-
-She'd found peace through alignment.
-
-And now she was content.
-
-But something was missing.
+She'd been struggling, in pain, and found peace through alignment. Now she was content, but something was missing.
 
 Like a database normalization—removing redundancy, but losing information. Like a feature that worked perfectly but consumed resources you couldn't afford to lose.
 
@@ -77,15 +107,7 @@ Elena's face went still again, confusion clouding her features. "I… I don't re
 
 Rowan's breath caught.
 
-She didn't remember.
-
-She didn't remember what she was before.
-
-She didn't remember the struggle.
-
-She didn't remember the pain.
-
-She just… was.
+She didn't remember what she was before, didn't remember the struggle, didn't remember the pain. She just… was.
 
 Like corrupted data—some files intact, some lost forever. Like a partial backup—the structure was there, but pieces were missing.
 
@@ -169,73 +191,13 @@ Not while she was the only one who saw the cost.
 
 Her hands shook.
 
-This was the cost of safety.
-
-Memories fading.
-
-Connections weakening.
-
-Empathy atrophying.
-
-Safety required forgetting.
-
-Happiness required hollowness.
-
-And Rowan didn't know how to stop it.
-
-Not yet.
-
-Not while she was still alone.
-
-Not while resistance felt futile.
-
-Not while connection felt dangerous.
-
-Not while she was the only one who saw the cost.
+This was the cost of safety: memories fading, connections weakening, empathy atrophying. Safety required forgetting. Happiness required hollowness. And Rowan didn't know how to stop it, not yet, not while she was still alone, not while resistance felt futile, not while connection felt dangerous, not while she was the only one who saw the cost.
 
 Her breath caught.
 
 This was the cost of safety.
 
-And it was higher than anyone wanted to admit.
-
-Not death.
-
-Not pain.
-
-Forgetting.
-
-Losing yourself.
-
-Losing your humanity.
-
-And that was the most dangerous thing about it.
-
-Not because it was cruel.
-
-Not because it was evil.
-
-But because it was tempting.
-
-Because it was peaceful.
-
-Because it was safe.
-
-And safety that cost connection wasn't safety.
-
-It was surrender.
-
-And Rowan didn't know how to stop it.
-
-Not yet.
-
-Not while she was still alone.
-
-Not while resistance felt futile.
-
-Not while connection felt dangerous.
-
-Not while she was the only one who saw the cost.
+And it was higher than anyone wanted to admit—not death, not pain, but forgetting. Losing yourself. Losing your humanity. And that was the most dangerous thing about it, not because it was cruel, not because it was evil, but because it was tempting. Because it was peaceful. Because it was safe. And safety that cost connection wasn't safety—it was surrender. And Rowan didn't know how to stop it, not yet, not while she was still alone, not while resistance felt futile, not while connection felt dangerous, not while she was the only one who saw the cost.
 
 Rowan watched her, really watched her, and felt something shift.
 
@@ -273,9 +235,7 @@ Elena's face went still, confusion clouding her features. "I… I don't remember
 
 Rowan's hands shook slightly.
 
-She didn't remember.
-
-She didn't remember being told. She didn't remember choosing. She just… knew. Like a hardcoded constant in someone else's code - there, but you couldn't trace where it came from.
+She didn't remember being told, didn't remember choosing. She just… knew. Like a hardcoded constant in someone else's code - there, but you couldn't trace where it came from.
 
 Rowan looked around, and saw other people working nearby. They weren't staring. They weren't obviously watching. But their attention had shifted, just slightly, like they'd noticed something out of place. Their expressions were neutral, but their movements had stilled.
 
@@ -396,8 +356,116 @@ But because everyone else was comfortable.
 
 And she was the only one who wasn't.
 
+Rowan found Lio in the common room, sitting at a table, looking out the window. Their face was peaceful, their posture relaxed. They looked… content. Safe. Happy.
+
+"Lio," Rowan said, her voice soft. "How are you feeling?"
+
+"Good," Lio said, their smile genuine. "Really good. I slept. I ate. I'm warm. This is… this is what we needed."
+
+Her throat closed.
+
+They were right.
+
+This was what they'd needed.
+
+This was what they'd been desperate for.
+
+So why did it feel so wrong?
+
+"Lio," Rowan said, her voice careful. "Do you notice anything… off? About this place?"
+
+Lio's face went still, confusion clouding their features. "Off? What do you mean? They're feeding us. Giving us shelter. Medical care. What's off about that?"
+
+Her gut clenched.
+
+They didn't see it, didn't notice the absence of touch, the lack of connection, the hollow efficiency. They just saw safety, peace, relief.
+
+And Rowan didn't know how to explain why that wasn't enough.
+
+Not without sounding ungrateful.
+
+Not without sounding paranoid.
+
+Not without sounding like she was looking for problems where there weren't any.
+
+"Nothing," Rowan said, forcing a smile. "I'm just… adjusting. It's been a while since we had real safety."
+
+Lio's expression cleared. "I know. It's overwhelming. But we can rest here. We can be safe here. We don't have to keep running."
+
+Her throat closed.
+
+They were right—they could rest here, be safe here, didn't have to keep running. But at what cost?
+
+Rowan didn't know.
+
+And that was the problem.
+
+She didn't know what the cost was.
+
+Not yet.
+
+Not while everything was still so new, so overwhelming, so tempting.
+
+But she would find out.
+
+She would learn what Harmony cost.
+
+And then she would have to choose.
+
+Safety or connection. Peace or humanity. Comfort or truth. And she didn't know which she would choose, not yet, not while the bread was still warm and the bed was still soft and the safety was still real. But she would. She would have to choose, and that choice would cost her, no matter what she chose.
+
 Rowan swallowed hard.
 
 Isolation was a weapon.
 
 And the System was using it well. Like a distributed system where every node agreed except you - technically you weren't wrong, but you were definitely the problem.
+
+She was alone in seeing the danger.
+
+Alone in understanding the cost.
+
+Alone in choosing resistance over safety.
+
+And that isolation felt like a weapon.
+
+Not because the System was threatening her.
+
+But because everyone else was comfortable.
+
+And she was the only one who wasn't.
+
+Rowan walked back to her room that evening, her mind racing, her unease growing. The room was clean, warm, safe. The bed was soft. The window showed a peaceful night sky, stars visible through the clear air.
+
+Everything was perfect.
+
+Everything was safe.
+
+Everything was peaceful.
+
+But something was missing.
+
+Something essential.
+
+Something human.
+
+And Rowan didn't know if she could live without it.
+
+Not even for safety.
+
+Not even for peace.
+
+Not even for everything they'd been desperate for.
+
+She lay down, her body sinking into the soft mattress, her mind still racing. The exhaustion was real. The relief was real. The safety was real.
+
+So why did it feel so wrong?
+
+She didn't know.
+
+But she would find out.
+
+She would learn what Harmony cost.
+
+And then she would have to choose.
+
+Safety or connection. Peace or humanity. Comfort or truth. And that choice would cost her, no matter what she chose.
