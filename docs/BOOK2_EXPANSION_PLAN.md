@@ -187,3 +187,4 @@ To reach 60,000-70,000 words, we need:
 
 **Recommendation:** Focus on the expansions above first, then reassess. The book may work well at 35,000-40,000 words if the pacing is tight.
 
+

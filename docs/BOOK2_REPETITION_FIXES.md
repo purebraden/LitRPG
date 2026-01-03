@@ -91,3 +91,4 @@ All repetition issues have been addressed. Each .5 chapter now:
 
 The chapters should now feel fresh and additive, not repetitive.
 
+
