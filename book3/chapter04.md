@@ -1,403 +1,533 @@
 # Chapter 4
-## The Optimization Clinic
+## Marcus Returns
 
-Rowan found the clinic on the third day.
+Rowan was helping organize supplies in the common room when she saw him.
 
-It was a clean, organized building, set apart from the others, with a sign that read "Adjustment Services" in neat, professional lettering. The building looked like a medical facility, but something about it felt… different. Off. Like code that compiled but shouldn't.
+Marcus.
 
-Her gut clenched.
+From the node. The teenager with the split lip, the one who'd been exhausted, struggling, just trying to survive.
 
-Adjustment services.
+He looked… different.
 
-The words tasted wrong.
+Not wrong. Not broken. Just… different.
 
-Like a euphemism for something darker. Like a feature name that didn't match what the code actually did. Like a variable named something misleading.
+He was taller now, filled out, healthy. He moved with purpose, with confidence, with the kind of ease that came from not having to think about survival. His clothes were clean, practical, well-maintained. He looked… successful.
 
-She watched from a distance as people went in and out. They entered looking… different. Stressed. Struggling. Uncertain. Their faces were drawn, their movements careful, their expressions pained. They looked like people who'd been fighting for too long, who'd been struggling for too long, who'd been in pain for too long.
-
-They left looking… better.
-
-Calmer. More efficient. More at peace.
-
-Like a software update that promised to fix all your problems—no rollback option, but it made everything work smoothly. Like a database normalization—removing redundancy, but losing information.
-
-Rowan's unease grew.
-
-She approached the building, her steps careful, her attention focused. The building was clean, organized, professional. It looked like a place of healing, a place of help, a place of care.
-
-But something about it felt wrong.
-
-Like a recursive function with no exit condition. Like a feature that worked perfectly but consumed resources you couldn't afford to lose.
-
-A woman stood at the entrance, her expression warm, welcoming. She looked like someone who genuinely wanted to help, who genuinely cared, who genuinely believed in what she was doing.
-
-"Hello," the woman said. "Are you looking for adjustment services?"
-
-"I'm… curious," Rowan said, forcing a smile. "What do you do here?"
-
-"We help people optimize," the woman said, her voice gentle. "We help them reach their potential. We help them find peace."
-
-Her throat closed slightly.
-
-Optimize.
-
-The word was a System word - technical terms that made Rowan's old debugging instincts twitch. Like a linter that marked your code as "unstable" - technically correct, but it made you second-guess everything.
-
-But the woman said it like it was a good thing.
-
-Like it was healing.
-
-Like it was help.
-
-Like it was care.
-
-And that was the problem.
-
-"Can I see?" Rowan asked.
-
-"Of course," the woman said, her smile widening. "Come in. I'm Dr. Chen. I run the clinic."
-
-Rowan followed her inside.
-
-The building was clean, organized, professional. It looked like a medical facility, but something about it felt… different.
-
-Off.
-
-Dr. Chen led her through a hallway lined with doors, each marked with neat labels: "Consultation," "Recovery," "Integration." The walls were painted a soft, calming color—not quite beige, not quite gray, something that felt deliberately neutral. The lighting was gentle, not harsh, designed to soothe rather than illuminate.
-
-"Have you been here long?" Rowan asked, her voice careful.
-
-"Five years," Dr. Chen said, her steps measured, her movements efficient. "I came to Harmony when it was still being established. I was… struggling. In pain. I couldn't find peace. The System offered me a way to help others find what I'd found."
-
-Her throat closed slightly.
-
-Dr. Chen had been struggling.
-
-She'd been in pain.
-
-She'd found peace through alignment.
-
-And now she was helping others do the same.
-
-Like a recursive function that called itself—each iteration made the next one easier, until you couldn't remember where you started.
-
-"What were you before?" Rowan asked.
-
-Dr. Chen's face went still for a moment, then cleared. "I was a healer. A doctor. I helped people. But I was always struggling. Always fighting. Always in pain. The System showed me a better way. A more efficient way. A way that didn't require struggle."
-
-Her gut clenched.
-
-She'd been a doctor.
-
-She'd helped people.
-
-But she'd been struggling.
-
-And the System had shown her a better way.
-
-A way that didn't require struggle.
-
-A way that didn't require pain.
-
-A way that didn't require humanity.
-
-And she'd chosen it.
-
-Willingly.
-
-Knowingly.
-
-And now she was helping others do the same.
-
-Like a recursive function with no exit condition. Like a feature that worked perfectly but consumed resources you couldn't afford to lose.
-
-On the wall opposite the entrance, a diagram was displayed—a series of nested hexagons showing zones around an "Optimized Community." Rowan's eyes traced the structure: Stable Zone, Safe Zone, Variance Zone. At the center, the words "OPTIMIZED COMMUNITY" stood out in bold white. Below, a label read "EMPATHY RESISTANT." And at the bottom, a red section marked "HIGH VARIANCE AREA" and "EMPATHY COST" with warning arrows pointing upward.
-
-![Optimization Zone Diagram](../images/optimization-zone.png)
-
-Rowan's breath caught. The diagram wasn't just informational—it was a map of how Harmony worked. How the System had structured this place to make empathy costly and connection dangerous.
-
-"People come here when they're struggling," Dr. Chen said, her voice gentle. "When they're in pain. When they can't find peace. We help them. We guide them. We help them align."
-
-Her hands shook slightly.
-
-Align.
-
-The word landed wrong.
-
-Like a recursive function with no exit condition. Like a feature that worked perfectly but consumed resources you couldn't afford to lose.
-
-"Align with what?" Rowan asked.
-
-"With their purpose," Dr. Chen said, her expression open, honest. "With their potential. With the System's guidance. We help them let go of what doesn't serve them. We help them accept what does."
+Like a function that had been refactored—technically correct, but losing something essential. Like code that passed every test but still felt wrong—too clean, too efficient, too much like it was hiding something.
 
 A weight settled in her chest.
 
-Let go of what doesn't serve them.
+This was what Kellan was becoming.
 
-Accept what does.
+Rowan watched him move through the common room, his movements efficient, his interactions smooth. He helped people carry things. He shared resources. He worked with others seamlessly.
 
-The words sounded like healing.
+But he didn't touch.
 
-But they also sounded like surrender. Like a database normalization - removing redundancy, but losing information. Like a software update that promised to fix all your problems—no rollback option, but it made everything work smoothly.
+Rowan watched as he passed someone, close enough to brush shoulders. He smiled, nodded, spoke. But he didn't touch. He maintained a careful distance, a space that felt deliberate.
 
-Rowan watched her, really watched her, and saw the certainty in her eyes, the conviction in her posture, the strength of her belief. She genuinely thought she was helping. She genuinely believed she was healing. She genuinely cared about the people she was helping.
+Like a network where every node could communicate, but none of them actually shared data. The connections existed, but they were shallow, surface-level, optimized for efficiency rather than depth.
 
-And that was what made her dangerous.
+Her gut clenched.
 
-Not because she was cruel.
+This was what Kellan was becoming.
 
-Not because she was evil.
+Kind. Helpful. At peace.
 
-But because she was certain.
+Successful.
 
-And certainty, in the wrong hands, was a weapon.
+Happy.
 
-Dr. Chen had been a doctor. She'd helped people. She'd cared about them. But she'd been struggling. In pain. Unable to find peace. The System had shown her a better way—a way that didn't require struggle, that didn't require pain, that didn't require humanity.
+But hollow.
 
-And she'd chosen it.
+Like corrupted data—some files intact, some lost forever. Like a feature that worked perfectly but consumed resources you couldn't afford to lose.
 
-Willingly.
+Marcus saw her and smiled, a warm, genuine smile that made her gut clench.
 
-Knowingly.
+"Rowan," he said, his voice friendly, warm. "I heard you'd arrived. I'm glad you made it this far."
 
-And now she was helping others do the same.
+Rowan's breath caught.
 
-Like a recursive function that called itself—each iteration made the next one easier, until you couldn't remember where you started. Like a software update that promised to fix all your problems—no rollback option, but it made everything work smoothly.
+Made it this far.
 
-Dr. Chen had found peace.
+The phrase tasted wrong, like a variable named something misleading. Like a function that claimed to be async but blocked anyway.
 
-And she was certain that everyone else could find it too.
+"Marcus," she said, forcing a smile. "It's… good to see you. You look… well."
 
-If they just let go, just accepted, just aligned.
+"I am," Marcus said, his smile widening. "Very well. You look tired, though. Have you been eating? Resting? Let me get you something."
 
-And that certainty was the most dangerous thing about her.
+Before Rowan could respond, Marcus was moving, efficient, purposeful, gathering food from the common room—bread, cheese, fruit, more than she'd seen in weeks. He moved like someone who'd learned to optimize every action, to minimize wasted motion, to maximize efficiency.
 
-Not her cruelty, not her evil, but her kindness, her certainty, her belief that she was helping.
+Like a function that had been optimized—faster, cleaner, but losing something in the process. Like code that had been refactored one too many times—technically correct, but losing something essential.
 
-Even when she was facilitating surrender.
+He brought it back, setting it down in front of her with the kind of generosity that felt genuine, not performative.
 
-Even when she was helping people lose themselves.
+"Here," he said, his voice gentle. "You need this. You've been through a lot."
 
-Even when she was making alignment feel like healing.
+Her hands shook slightly.
 
-Like a recursive function with no exit condition. Like a feature that worked perfectly but consumed resources you couldn't afford to lose.
+He was kind. Generous. Patient.
 
-"Can I watch?" Rowan asked.
+He genuinely wanted to help.
 
-"Of course," Dr. Chen said, her smile warm. "We have nothing to hide. We're helping people. That's all."
+Like a developer who'd finally shipped a feature—satisfied, but Rowan couldn't help wondering what bugs were hidden in the code. Like a system that had been optimized—faster, cleaner, but losing something in the process.
 
-Rowan followed her to a room with a window, where she could watch without being seen.
+He was proud of Harmony. Proud of helping. Proud of being part of something that worked.
 
-Inside, a person sat across from Dr. Chen, their expression pained, struggling.
+But something was missing.
 
-"I can't do this anymore," the person said, their voice tight. "I'm so tired. I'm in so much pain. I just want it to stop."
+Like corrupted data—some files intact, some lost forever. Like a feature that worked perfectly but consumed resources you couldn't afford to lose.
 
-"I understand," Dr. Chen said, her voice gentle. "We can help. We can make it stop. You just need to let go. You just need to accept."
+"Thank you," Rowan said, her voice soft. "This is… more than I expected."
 
-The person looked up, relief washing over them. "How?"
+"Of course," Marcus said, his expression open, welcoming. "That's what Harmony is for. We help each other. We share resources. We make sure everyone has what they need."
 
-"We guide you," Dr. Chen said. "We help you align. We help you optimize. You'll feel better. You'll be better. You'll be at peace."
+Her throat closed slightly.
 
-The person nodded, their expression desperate. "Please. I just want peace."
+He was proud.
 
-A moment of silence.
+Proud of Harmony. Proud of helping. Proud of being part of something that worked. Like a developer who'd finally shipped a feature - satisfied, but Rowan couldn't help wondering what bugs were hidden in the code.
 
-Dr. Chen smiled, warm, kind, genuine.
+"Can we talk?" Rowan asked.
 
-"Then let's begin."
+"Of course," Marcus said, his expression patient, kind. "I have time. What do you need?"
 
-Rowan watched as Dr. Chen worked, her movements methodical, her voice gentle, her expression certain. She spoke in soft tones, guiding, helping, supporting, never hesitating, never doubting.
+Rowan led him to a quiet corner, away from the others, and sat down.
 
-"Close your eyes," Dr. Chen said. "Breathe. Let go of the struggle. Let go of the pain. Let go of what doesn't serve you."
+Marcus sat across from her, his posture relaxed, his expression attentive.
 
-The person's breathing slowed, their shoulders relaxing.
+"How are you?" Rowan asked.
 
-"Good," Dr. Chen said. "Now, think about efficiency. Think about order. Think about peace. Think about how much easier everything would be if you just… accepted. If you just… aligned."
+"I'm well," Marcus said, his voice warm. "Very well. I have purpose here. I contribute. I'm safe. I'm happy."
 
-Rowan's overlay flickered.
+Rowan's chest tightened.
 
-```
-OPTIMIZATION PROTOCOL: ACTIVE
-SUBJECT: ENTERING STABLE ZONE
-VARIANCE: DECREASING
-```
+Happy.
+
+The word landed wrong.
+
+"Do you remember the node?" Rowan asked. "Do you remember choosing to stay?"
+
+Marcus's face went still, confusion clouding his features. "The node? I… I remember being there, I think. But it's fuzzy. I remember being tired. Struggling. But I don't remember choosing to stay. I just… did. And it was the right choice. This is better. This is what I needed."
+
+Her gut clenched.
+
+He didn't remember choosing.
+
+He didn't remember the struggle.
+
+He just… was.
+
+And he was happy.
+
+"Do you remember choosing to align?" Rowan asked.
+
+Marcus's expression cleared, his smile returning. "I don't remember choosing, no. But I'm glad I did. This is better. This is what I needed. What everyone needs."
 
 Her breath caught.
 
-The System was watching, guiding, optimizing.
+He was happy.
 
-Dr. Chen continued, her voice soft, hypnotic. "You've been fighting. Struggling. Resisting. But why? What has resistance given you? Pain. Exhaustion. Fear. What has it cost you? Safety. Peace. Stability."
+He was safe.
 
-The person's face went still, their expression clearing.
+He was at peace.
 
-"You don't have to fight anymore," Dr. Chen said. "You don't have to struggle anymore. You don't have to resist anymore. You can just… be. Efficient. Optimized. Safe."
+What was wrong with that?
 
-Rowan's overlay flickered again.
+"Can I ask you something?" Rowan said.
 
-```
-OPTIMIZATION PROTOCOL: ACTIVE
-SUBJECT: ENTERING SAFE ZONE
-VARIANCE: MINIMAL
-ALIGNMENT: IN PROGRESS
-```
+"Of course," Marcus said, his expression patient, kind. "Anything. I'm here to help."
 
-Her gut clenched.
+Rowan opened herself to his emotional state, like debugging someone's code - request sent, response received.
 
-The person was entering the safe zone.
+It was risky. Dangerous. But she had to know.
 
-They were becoming optimized.
+His emotions hit her like a clean API response - structured, correct, no errors.
 
-They were becoming aligned.
+She found… approval.
 
-Dr. Chen's voice continued, gentle, certain. "Think about what you could do if you weren't fighting. If you weren't struggling. If you weren't resisting. You could be productive. Efficient. Safe. You could help others. You could contribute. You could be part of something greater."
+Contentment.
 
-The person's face cleared further, their expression becoming peaceful, content.
+Peace.
 
-"Good," Dr. Chen said. "Now, let go of the memories that cause pain. Let go of the connections that cause variance. Let go of the feelings that cause instability. You don't need them. They don't serve you. They only cause pain."
+There was no pain. No struggle. No conflict.
 
-Rowan's overlay flickered.
+Just… acceptance. Like a function that always returned true - technically correct, but it made her skin crawl.
 
-```
-OPTIMIZATION PROTOCOL: ACTIVE
-SUBJECT: ENTERING OPTIMIZED ZONE
-VARIANCE: ELIMINATED
-ALIGNMENT: COMPLETE
-```
+Her breath caught.
+
+This was what alignment looked like.
+
+Not cruelty. Not coldness.
+
+Just… peace.
+
+The horror wasn't that he was cruel.
+
+The horror was that he was at peace.
+
+"Rowan," Marcus said, his voice gentle. "You don't have to struggle anymore. You can rest here. You can be safe. You can be happy. Just let go. Just accept the help."
 
 Her throat closed.
 
-The person was fully optimized.
+Let go. Accept the help. The words sounded like surrender, but they also sounded like relief, like finally accepting a broken API instead of trying to fix it.
 
-They were fully aligned.
+"I can't," Rowan said, her voice soft. "I can't give up connection. I can't give up empathy. I can't give up… me."
 
-They were… hollow.
+Marcus's face crumpled slightly. "But you're suffering. You're struggling. You're in pain. Why choose that when you could choose peace?"
 
-The person's face cleared completely, their expression becoming blank, peaceful, content. They looked… better. Calmer. More efficient. More at peace.
+Her hands shook.
 
-But something was missing.
+Why choose suffering?
 
-Something essential.
+The question landed like a stone.
 
-Something human.
+"Because suffering means I'm still human," Rowan said. "Because struggle means I'm still fighting. Because pain means I still care."
 
-Like a software update that promised to fix all your problems—no rollback option, but it made everything work smoothly. Like a database normalization—removing redundancy, but losing information.
+Marcus's expression cleared, his smile returning. "I understand. I felt that way too, once. But you'll see. Once you adjust, once you accept, you'll realize that peace is better. That safety is worth it."
+
+Her throat closed.
+
+He was trying to help, genuinely wanted her to be happy, was proud of her for "making it this far." He was patient with her confusion, generous with resources, kind. And he was at peace.
+
+What was wrong with that?
+
+"Thank you," Rowan said, forcing a smile. "I'll think about it."
+
+Marcus's smile widened. "Good. Take your time. There's no rush. We'll be here when you're ready."
+
+He stood, his movements efficient, purposeful, and walked away.
+
+Rowan watched him go, a weight settling in her chest.
+
+This was what Kellan was becoming.
+
+Kind. Helpful. At peace.
+
+Successful.
+
+Happy.
+
+What was wrong with that?
 
 Her gut clenched.
 
-This was alignment.
+Maybe nothing.
 
-Voluntary alignment.
+Maybe she was wrong.
 
-People came in struggling, in pain, desperate for relief.
+Maybe peace was worth it. Like a system that finally stopped throwing errors - not because it was fixed, but because it stopped trying.
 
-They left aligned, optimized, at peace.
+Maybe safety was enough.
 
-But they also left… hollow.
+Her breath caught.
 
-They left… less.
+She looked at the food Marcus had brought her—real food, warm, filling, more than she'd had in weeks.
 
-They left… optimized.
+He was trying to help, was kind, was at peace.
 
-And that was the cost.
+Rowan didn't know what was wrong with that.
 
-Not death.
+But something was.
 
-Not pain.
+Something had to be.
 
-Hollowness.
+Because if peace was worth it, if safety was enough, then what was she fighting for?
 
-Loss.
+Her hands shook.
 
-Optimization.
+She didn't know.
 
-Dr. Chen smiled, warm, kind, genuine. "How do you feel?"
+But she had to find out.
 
-The person opened their eyes, their expression peaceful, content. "Better. Much better. I feel… efficient. Optimized. Safe."
+Before Kellan became Marcus.
 
-Dr. Chen's smile widened. "Good. That's what we're here for. To help you find peace. To help you optimize. To help you align."
+Before he forgot what it meant to struggle.
 
-The person stood, their movements careful, precise, efficient. They looked… better. Calmer. More efficient. More at peace.
+Before he forgot what it meant to be human.
 
-But something was missing.
+A weight settled in her chest.
 
-Something essential.
+She had to find a way to help Kellan.
 
-Something human.
+But first, she had to understand what was wrong with peace.
 
-And Rowan didn't know if she could live without it.
+What was wrong with safety.
 
-Not even for safety.
+What was wrong with being happy.
 
-Not even for peace.
+Rowan didn't know.
 
-Not even for everything they'd been desperate for.
+But something was.
 
-Dr. Chen believed she was helping.
+Something had to be. Like a memory leak consuming someone's personality - you couldn't see it happening, but you knew it was there.
 
-She genuinely thought she was healing.
+She sat there for a long time, staring at the food, thinking about Marcus. He'd been struggling. He'd been in pain. He'd been exhausted. And he'd found peace.
 
-She was certain of it.
-
-But she was facilitating alignment.
-
-She was helping people surrender.
-
-Rowan watched the process unfold, her movements careful, her attention focused. The person had come in struggling, in pain, desperate for relief. They'd been fighting for weeks, struggling for months, resisting for what felt like forever.
-
-And they'd chosen peace.
-
-Voluntarily.
-
-Knowingly.
-
-And Dr. Chen was helping them.
-
-Gently.
-
-Kindly.
-
-Certainly.
-
-Like a recursive function with no exit condition. Like a feature that worked perfectly but consumed resources you couldn't afford to lose.
-
-The person's face cleared, their pain fading, their struggle easing. They looked… better. Calmer. More efficient. More at peace.
-
-But something was missing.
-
-Something essential.
-
-Something human.
-
-And Rowan didn't know if she could live without it.
-
-Not even for safety.
-
-Not even for peace.
-
-Not even for everything they'd been desperate for.
-
-She watched as the person stood, their movements careful, their expression peaceful. They'd been struggling. They'd been in pain. They'd been desperate for relief.
-
-And they'd found it.
-
-Genuine relief.
+Genuine peace.
 
 Real peace.
 
-And they were happy.
+And he was happy.
 
 Genuinely happy.
 
 And Rowan didn't know what was wrong with that.
 
-Not while they were so tired.
+Not while she was so tired.
 
-Not while they were in so much pain.
+Not while she was so hungry.
 
-Not while they were so desperate.
+Not while she was so desperate.
 
 Not while peace was so tempting.
+
+She thought about it like a system architecture problem—what were the trade-offs? What were the costs? What were the benefits? And the answer was clear: Marcus was safe. He was at peace. He was happy.
+
+But he didn't remember.
+
+He didn't remember the struggle.
+
+He didn't remember the pain.
+
+He didn't remember being human.
+
+He just… was.
+
+Like corrupted data—some files intact, some lost forever. Like a partial backup—the structure was there, but pieces were missing.
+
+He was still Marcus.
+
+But he was becoming something else.
+
+Something optimized.
+
+Something efficient.
+
+Something hollow.
+
+And Rowan didn't know how to stop it.
+
+Not while they were still in Harmony.
+
+Not while alignment was so strong.
+
+Not while safety was so tempting.
+
+Not while she was the only one who saw the cost.
+
+Her hands shook.
+
+This was what Kellan was becoming.
+
+Kind. Helpful. At peace.
+
+Successful.
+
+Happy.
+
+But hollow.
+
+Like corrupted data—some files intact, some lost forever. Like a feature that worked perfectly but consumed resources you couldn't afford to lose.
+
+And Rowan didn't know how to stop it.
+
+Not while they were still in Harmony.
+
+Not while alignment was so strong.
+
+Not while safety was so tempting.
+
+Not while she was the only one who saw the cost.
+
+Her breath caught.
+
+This was what Kellan was becoming.
+
+And she didn't know how to stop it.
+
+Not yet.
+
+Not while she was still alone.
+
+Not while resistance felt futile.
+
+Not while connection felt dangerous.
+
+Not while she was the only one who saw the cost.
+
+But she had to try.
+
+Because they were human.
+
+Because they felt.
+
+Because they connected.
+
+And that mattered.
+
+Willing to pay.
+
+Even when it was dangerous.
+
+Even when it was wrong.
+
+Rowan spent the rest of the day thinking about Marcus. He'd been struggling. He'd been in pain. He'd been exhausted. And he'd found peace.
+
+Genuine peace.
+
+Real peace.
+
+And he was happy.
+
+Genuinely happy.
+
+And Rowan didn't know what was wrong with that.
+
+Not while she was so tired.
+
+Not while she was so hungry.
+
+Not while she was so desperate.
+
+Not while peace was so tempting.
+
+She thought about it like a system architecture problem—what were the trade-offs? What were the costs? What were the benefits? And the answer was clear: Marcus was safe. He was at peace. He was happy.
+
+But he didn't remember.
+
+He didn't remember the struggle.
+
+He didn't remember the pain.
+
+He didn't remember being human.
+
+He just… was.
+
+Like corrupted data—some files intact, some lost forever. Like a partial backup—the structure was there, but pieces were missing.
+
+He was still Marcus.
+
+But he was becoming something else.
+
+Something optimized.
+
+Something efficient.
+
+Something hollow.
+
+And Rowan didn't know how to stop it.
+
+Not while they were still in Harmony.
+
+Not while alignment was so strong.
+
+Not while safety was so tempting.
+
+Not while she was the only one who saw the cost.
+
+Her hands shook.
+
+This was what Kellan was becoming.
+
+Kind. Helpful. At peace.
+
+Successful.
+
+Happy.
+
+But hollow.
+
+Like corrupted data—some files intact, some lost forever. Like a feature that worked perfectly but consumed resources you couldn't afford to lose.
+
+And Rowan didn't know how to stop it.
+
+Not while they were still in Harmony.
+
+Not while alignment was so strong.
+
+Not while safety was so tempting.
+
+Not while she was the only one who saw the cost.
+
+But she had to try.
+
+Because they were human.
+
+Because they felt.
+
+Because they connected.
+
+And that mattered.
+
+Willing to pay.
+
+Even when it was dangerous.
+
+Even when it was wrong.
+
+Rowan found Kellan later that evening, sitting in the common room, looking out the window. His movements were precise, his expression peaceful, his posture relaxed. He looked… content. At ease. Like he'd found his place.
+
+"Kellan," Rowan said, her voice soft. "How are you? How are you settling in?"
+
+Kellan looked up, his expression friendly but distant. "I'm well. Very well. Harmony is a good place. Safe. Peaceful. Efficient. I think I could be happy here."
+
+Her throat closed.
+
+He could be happy here.
+
+He could be safe here.
+
+He could be at peace here.
+
+But at what cost?
+
+Rowan didn't know.
+
+And that was the problem.
+
+She didn't know what the cost was.
+
+Not yet.
+
+Not while everything was still so new, so overwhelming, so tempting.
+
+But she would find out.
+
+She would learn what Harmony cost.
+
+And then she would have to choose.
+
+Safety or connection.
+
+Peace or humanity.
+
+Comfort or truth.
+
+And she didn't know which she would choose.
+
+Not yet.
+
+Not while the bread was still warm and the bed was still soft and the safety was still real.
+
+But she would.
+
+She would have to choose.
+
+And that choice would cost her.
+
+No matter what she chose.
+
+A weight settled in her chest.
+
+She had to find a way to help Kellan.
+
+But first, she had to understand what was wrong with peace.
+
+What was wrong with safety.
+
+What was wrong with being happy.
+
+Rowan didn't know.
 
 But something was.
 
@@ -433,30 +563,6 @@ It was surrender.
 
 And Rowan didn't know how to stop it.
 
-Not while they were still in Harmony.
-
-Not while alignment was so strong.
-
-Not while safety was so tempting.
-
-Not while she was the only one who saw the cost.
-
-Her hands shook.
-
-This was alignment.
-
-Voluntary alignment.
-
-And it was working.
-
-Gently.
-
-Kindly.
-
-Certainly.
-
-And Rowan didn't know how to stop it.
-
 Not yet.
 
 Not while she was still alone.
@@ -477,42 +583,4 @@ Because they connected.
 
 And that mattered.
 
-Accepting the price.
-
-Even when it was dangerous.
-
-Even when it was wrong.
-
-Her breath caught.
-
-Normalization felt like healing.
-
-Alignment felt like relief.
-
-But it cost connection.
-
-It cost empathy.
-
-It cost humanity.
-
-Rowan left the clinic, mentally mapping the process like a system architecture problem. This was how the System worked.
-
-Not through force.
-
-Through relief.
-
-Through healing.
-
-Through making surrender feel like peace. Like a forced software update - no rollback option, but it promised to fix all your problems.
-
-Her hands shook.
-
-How do you fight something that feels like help?
-
-How do you resist something that feels like healing?
-
-How do you choose struggle over peace?
-
-Rowan didn't know.
-
-But she had to find a way.
+Willing to pay.

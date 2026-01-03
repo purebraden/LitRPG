@@ -338,3 +338,5 @@ Like a system that would keep retrying until the request succeeded.
 Rowan looked back at the man in the gardens, but he was gone. Absorbed into the pattern. Efficient. Coordinated. Optimized.
 
 Like he'd never been different at all.
+
+Tomorrow, she would try to understand what that meant. Tomorrow, she would try to find the cost. But tonight, she would sleep in a warm bed, eat real food, and try not to think about what she was giving up to have it.

@@ -1,485 +1,400 @@
 # Chapter 3
-## Marcus Returns
+## The Cost of Connection
 
-Rowan was helping organize supplies in the common room when she saw him.
+Rowan woke the next morning to the smell of breakfast.
 
-Marcus.
+Real breakfast. Eggs. Bread. Something that might have been bacon, or at least a reasonable approximation. The scent drifted up from the common room below, warm and inviting, and for a moment she just lay there, breathing it in, letting her body remember what it felt like to not be hungry.
 
-From the node. The teenager with the split lip, the one who'd been exhausted, struggling, just trying to survive.
+Her ankle didn't hurt when she stood. Someone had changed the bandage while she slept, cleaned the wound properly. The medical care was real. The rest was real. The safety was real.
 
-He looked… different.
+So why did it feel so wrong?
 
-Not wrong. Not broken. Just… different.
-
-He was taller now, filled out, healthy. He moved with purpose, with confidence, with the kind of ease that came from not having to think about survival. His clothes were clean, practical, well-maintained. He looked… successful.
-
-Like a function that had been refactored—technically correct, but losing something essential. Like code that passed every test but still felt wrong—too clean, too efficient, too much like it was hiding something.
-
-A weight settled in her chest.
-
-This was what Kellan was becoming.
-
-Rowan watched him move through the common room, his movements efficient, his interactions smooth. He helped people carry things. He shared resources. He worked with others seamlessly.
-
-But he didn't touch.
-
-Rowan watched as he passed someone, close enough to brush shoulders. He smiled, nodded, spoke. But he didn't touch. He maintained a careful distance, a space that felt deliberate.
-
-Like a network where every node could communicate, but none of them actually shared data. The connections existed, but they were shallow, surface-level, optimized for efficiency rather than depth.
-
-Her gut clenched.
-
-This was what Kellan was becoming.
-
-Kind. Helpful. At peace.
-
-Successful.
-
-Happy.
-
-But hollow.
-
-Like corrupted data—some files intact, some lost forever. Like a feature that worked perfectly but consumed resources you couldn't afford to lose.
-
-Marcus saw her and smiled, a warm, genuine smile that made her gut clench.
-
-"Rowan," he said, his voice friendly, warm. "I heard you'd arrived. I'm glad you made it this far."
-
-Rowan's breath caught.
-
-Made it this far.
-
-The phrase tasted wrong, like a variable named something misleading. Like a function that claimed to be async but blocked anyway.
-
-"Marcus," she said, forcing a smile. "It's… good to see you. You look… well."
-
-"I am," Marcus said, his smile widening. "Very well. You look tired, though. Have you been eating? Resting? Let me get you something."
-
-Before Rowan could respond, Marcus was moving, efficient, purposeful, gathering food from the common room—bread, cheese, fruit, more than she'd seen in weeks. He moved like someone who'd learned to optimize every action, to minimize wasted motion, to maximize efficiency.
-
-Like a function that had been optimized—faster, cleaner, but losing something in the process. Like code that had been refactored one too many times—technically correct, but losing something essential.
-
-He brought it back, setting it down in front of her with the kind of generosity that felt genuine, not performative.
-
-"Here," he said, his voice gentle. "You need this. You've been through a lot."
-
-Her hands shook slightly.
-
-He was kind. Generous. Patient.
-
-He genuinely wanted to help.
-
-Like a developer who'd finally shipped a feature—satisfied, but Rowan couldn't help wondering what bugs were hidden in the code. Like a system that had been optimized—faster, cleaner, but losing something in the process.
-
-He was proud of Harmony. Proud of helping. Proud of being part of something that worked.
+Rowan dressed slowly, her movements careful, her attention split between the comfort of the moment and the unease that sat in her chest like a weight. The room was clean, warm, safe. The bed was soft. The window showed a peaceful morning, the sun gentle, the air crisp. Everything was perfect. Everything was safe. Everything was peaceful.
 
 But something was missing.
 
-Like corrupted data—some files intact, some lost forever. Like a feature that worked perfectly but consumed resources you couldn't afford to lose.
+Something essential.
 
-"Thank you," Rowan said, her voice soft. "This is… more than I expected."
+Something human.
 
-"Of course," Marcus said, his expression open, welcoming. "That's what Harmony is for. We help each other. We share resources. We make sure everyone has what they need."
+And Rowan didn't know if she could live without it.
 
-Her throat closed slightly.
+Not even for safety.
 
-He was proud.
+Not even for peace.
 
-Proud of Harmony. Proud of helping. Proud of being part of something that worked. Like a developer who'd finally shipped a feature - satisfied, but Rowan couldn't help wondering what bugs were hidden in the code.
+Not even for everything they'd been desperate for.
 
-"Can we talk?" Rowan asked.
+Downstairs, the common room was full of people eating, talking, moving through their morning routines with the kind of ease that came from not having to think about survival. Rowan found a seat at a table near the window, watching the way people interacted.
 
-"Of course," Marcus said, his expression patient, kind. "I have time. What do you need?"
+They were friendly. They smiled. They helped each other pass dishes, shared food, worked together seamlessly.
 
-Rowan led him to a quiet corner, away from the others, and sat down.
+But they didn't touch.
 
-Marcus sat across from her, his posture relaxed, his expression attentive.
+Rowan watched as two people passed each other, close enough that their shoulders should have brushed. They smiled, nodded, spoke. But they maintained a careful distance, a space that felt deliberate, like they'd been trained to maintain it.
 
-"How are you?" Rowan asked.
+She watched as someone laughed, and the people around them smiled, but no one reached out. No one put a hand on a shoulder. No one hugged.
 
-"I'm well," Marcus said, his voice warm. "Very well. I have purpose here. I contribute. I'm safe. I'm happy."
+They were friendly, but not connected.
+
+Like a network where every node could communicate, but none of them actually shared data. The connections existed, but they were shallow, surface-level, optimized for efficiency rather than depth.
 
 Rowan's chest tightened.
 
-Happy.
+This was Harmony.
 
-The word landed wrong.
+Clean. Organized. Efficient.
 
-"Do you remember the node?" Rowan asked. "Do you remember choosing to stay?"
+But hollow.
 
-Marcus's face went still, confusion clouding his features. "The node? I… I remember being there, I think. But it's fuzzy. I remember being tired. Struggling. But I don't remember choosing to stay. I just… did. And it was the right choice. This is better. This is what I needed."
+And she didn't know if she could live with that.
 
-Her gut clenched.
+Not even for safety.
 
-He didn't remember choosing.
+Not even for peace.
 
-He didn't remember the struggle.
+Not even for everything they'd been desperate for.
 
-He just… was.
+Rowan watched as two people passed each other, close enough that their shoulders should have brushed. They smiled, nodded, spoke. But they maintained a careful distance, a space that felt deliberate, like they'd been trained to maintain it.
 
-And he was happy.
+She watched as someone laughed, and the people around them smiled, but no one reached out. No one put a hand on a shoulder. No one hugged.
 
-"Do you remember choosing to align?" Rowan asked.
+They were friendly, but not connected.
 
-Marcus's expression cleared, his smile returning. "I don't remember choosing, no. But I'm glad I did. This is better. This is what I needed. What everyone needs."
+Rowan's unease grew.
 
-Her breath caught.
+She finished her breakfast—real food, warm and filling—and made her way outside, into the gardens where people were working. The morning air was cool, the sun gentle. Everything felt peaceful. Safe.
 
-He was happy.
+The gardens were extensive, organized into neat rows of vegetables, herbs, and flowers. Each bed was carefully maintained, the soil rich and dark, the plants healthy and productive. People worked methodically, their movements efficient, their tasks coordinated. It looked like a well-run operation, a system that had been optimized for maximum output.
 
-He was safe.
+But something was missing.
 
-He was at peace.
+Rowan found a woman working in a garden bed, planting seeds with careful, methodical movements. The woman looked up when Rowan approached, smiling warmly.
 
-What was wrong with that?
+"Good morning," the woman said. "Are you settling in?"
 
-"Can I ask you something?" Rowan said.
+"I'm trying," Rowan said, forcing a smile. "It's… different here. Peaceful."
 
-"Of course," Marcus said, his expression patient, kind. "Anything. I'm here to help."
-
-Rowan opened herself to his emotional state, like debugging someone's code - request sent, response received.
-
-It was risky. Dangerous. But she had to know.
-
-His emotions hit her like a clean API response - structured, correct, no errors.
-
-She found… approval.
-
-Contentment.
-
-Peace.
-
-There was no pain. No struggle. No conflict.
-
-Just… acceptance. Like a function that always returned true - technically correct, but it made her skin crawl.
-
-Her breath caught.
-
-This was what alignment looked like.
-
-Not cruelty. Not coldness.
-
-Just… peace.
-
-The horror wasn't that he was cruel.
-
-The horror was that he was at peace.
-
-"Rowan," Marcus said, his voice gentle. "You don't have to struggle anymore. You can rest here. You can be safe. You can be happy. Just let go. Just accept the help."
-
-Her throat closed.
-
-Let go. Accept the help. The words sounded like surrender, but they also sounded like relief, like finally accepting a broken API instead of trying to fix it.
-
-"I can't," Rowan said, her voice soft. "I can't give up connection. I can't give up empathy. I can't give up… me."
-
-Marcus's face crumpled slightly. "But you're suffering. You're struggling. You're in pain. Why choose that when you could choose peace?"
-
-Her hands shook.
-
-Why choose suffering?
-
-The question landed like a stone.
-
-"Because suffering means I'm still human," Rowan said. "Because struggle means I'm still fighting. Because pain means I still care."
-
-Marcus's expression cleared, his smile returning. "I understand. I felt that way too, once. But you'll see. Once you adjust, once you accept, you'll realize that peace is better. That safety is worth it."
-
-Her throat closed.
-
-He was trying to help, genuinely wanted her to be happy, was proud of her for "making it this far." He was patient with her confusion, generous with resources, kind. And he was at peace.
-
-What was wrong with that?
-
-"Thank you," Rowan said, forcing a smile. "I'll think about it."
-
-Marcus's smile widened. "Good. Take your time. There's no rush. We'll be here when you're ready."
-
-He stood, his movements efficient, purposeful, and walked away.
-
-Rowan watched him go, a weight settling in her chest.
-
-This was what Kellan was becoming.
-
-Kind. Helpful. At peace.
-
-Successful.
-
-Happy.
-
-What was wrong with that?
+The woman's smile widened. "It is. That's what Harmony offers. Peace. Stability. Safety."
 
 Her gut clenched.
 
-Maybe nothing.
+Safety.
 
-Maybe she was wrong.
+The word tasted wrong.
 
-Maybe peace was worth it. Like a system that finally stopped throwing errors - not because it was fixed, but because it stopped trying.
+"What's your name?" Rowan asked.
 
-Maybe safety was enough.
+"Elena," the woman said. "I've been here for three years. It's been wonderful. I have a purpose. I contribute. I'm safe."
 
-Her breath caught.
+Rowan watched her, really watched her, and saw the contentment in her eyes, the peace in her posture, the certainty of her movements. She'd been here for three years. She'd found her purpose. She'd found her place. She'd found her peace.
 
-She looked at the food Marcus had brought her—real food, warm, filling, more than she'd had in weeks.
+But something was missing.
 
-He was trying to help, was kind, was at peace.
+"How did you come to Harmony?" Rowan asked.
 
-Rowan didn't know what was wrong with that.
+Elena's face went still for a moment, then cleared. "I was struggling. In pain. I couldn't find peace. The System showed me a better way. A more efficient way. A way that didn't require struggle."
 
-But something was.
+Her throat closed.
 
-Something had to be.
+She'd been struggling, in pain, and found peace through alignment. Now she was content, but something was missing.
 
-Because if peace was worth it, if safety was enough, then what was she fighting for?
+Like a database normalization—removing redundancy, but losing information. Like a feature that worked perfectly but consumed resources you couldn't afford to lose.
+
+"What were you before?" Rowan asked.
+
+Elena's face went still again, confusion clouding her features. "I… I don't remember. I remember being tired. Struggling. But that's behind me now. This is better. This is what I needed."
+
+Rowan's breath caught.
+
+She didn't remember what she was before, didn't remember the struggle, didn't remember the pain. She just… was.
+
+Like corrupted data—some files intact, some lost forever. Like a partial backup—the structure was there, but pieces were missing.
+
+She was still Elena.
+
+But she was becoming something else.
+
+Something optimized.
+
+Something efficient.
+
+Something hollow.
+
+And Rowan didn't know how to stop it.
+
+Not while they were still in Harmony.
+
+Not while alignment was so strong.
+
+Not while safety was so tempting.
+
+Rowan watched Elena work, her movements methodical, her expression peaceful. She'd been here for three years. She'd found her purpose. She'd found her place. She'd found her peace.
+
+But she didn't remember.
+
+She didn't remember what she was before.
+
+She didn't remember the struggle.
+
+She didn't remember the pain.
+
+She just… was.
+
+Like a database normalization—removing redundancy, but losing information. Like a feature that worked perfectly but consumed resources you couldn't afford to lose.
+
+Rowan thought about it like a system architecture problem—how do you restore corrupted data? How do you recover from a partial backup? How do you help someone remember when their memories were fading?
+
+The answer was: you couldn't. Not perfectly. Not safely. Not efficiently.
+
+But you could try.
+
+You could maintain.
+
+You could persist.
+
+No matter the cost.
+
+"Elena," Rowan said, her voice soft. "Do you ever… miss it? Do you ever miss the struggle? Do you ever miss the pain?"
+
+Elena's face went still, confusion clouding her features. "Miss it? Why would I miss struggle? Why would I miss pain? This is better. This is what I needed."
+
+Her throat closed.
+
+She didn't miss it.
+
+She didn't remember it.
+
+She just… was.
+
+Like corrupted data—some files intact, some lost forever. Like a partial backup—the structure was there, but pieces were missing.
+
+She was still Elena.
+
+But she was becoming something else.
+
+Something optimized.
+
+Something efficient.
+
+Something hollow.
+
+And Rowan didn't know how to stop it.
+
+Not while they were still in Harmony.
+
+Not while alignment was so strong.
+
+Not while safety was so tempting.
+
+Not while she was the only one who saw the cost.
 
 Her hands shook.
 
-She didn't know.
+This was the cost of safety: memories fading, connections weakening, empathy atrophying. Safety required forgetting. Happiness required hollowness. And Rowan didn't know how to stop it, not yet, not while she was still alone, not while resistance felt futile, not while connection felt dangerous, not while she was the only one who saw the cost.
 
-But she had to find out.
+Her breath caught.
 
-Before Kellan became Marcus.
+This was the cost of safety.
 
-Before he forgot what it meant to struggle.
+And it was higher than anyone wanted to admit—not death, not pain, but forgetting. Losing yourself. Losing your humanity. And that was the most dangerous thing about it, not because it was cruel, not because it was evil, but because it was tempting. Because it was peaceful. Because it was safe. And safety that cost connection wasn't safety—it was surrender. And Rowan didn't know how to stop it, not yet, not while she was still alone, not while resistance felt futile, not while connection felt dangerous, not while she was the only one who saw the cost.
 
-Before he forgot what it meant to be human.
+Rowan watched her, really watched her, and felt something shift.
+
+Elena was happy. Content. At peace.
+
+But there was something missing.
+
+Rowan reached out, slowly, carefully, and put a hand on Elena's shoulder.
+
+Elena flinched.
+
+Not violently. Not dramatically. Just a small, sharp movement, like she'd been touched by something unexpected, something wrong.
+
+She pulled back, her smile faltering.
+
+"I'm sorry," Elena said, her voice tight. "I… I don't…"
+
+Rowan's chest tightened.
+
+"I'm sorry," she said, pulling her hand back. "I didn't mean to—"
+
+"It's fine," Elena said, but her voice was strained. "It's just… deep connections cause instability. It's better to maintain optimal social distance."
+
+Rowan's breath caught.
+
+Optimal social distance.
+
+The words were System words.
+
+But Elena said them like they were her own.
+
+"Who told you that?" Rowan asked.
+
+Elena's face went still, confusion clouding her features. "I… I don't remember. It's just… how things are here. How they should be."
+
+Rowan's hands shook slightly.
+
+She didn't remember being told, didn't remember choosing. She just… knew. Like a hardcoded constant in someone else's code - there, but you couldn't trace where it came from.
+
+Rowan looked around, and saw other people working nearby. They weren't staring. They weren't obviously watching. But their attention had shifted, just slightly, like they'd noticed something out of place. Their expressions were neutral, but their movements had stilled.
+
+Subtle social pressure.
+
+Not a threat. Not a warning.
+
+Just… awareness.
+
+Rowan's overlay flickered.
+
+```
+NOTE: EMOTIONAL ATTACHMENT INCREASES VARIANCE
+RECOMMENDATION: MAINTAIN OPTIMAL SOCIAL DISTANCE
+```
+
+Her throat closed.
+
+The System was watching. The System was guiding. The System was making empathy feel dangerous.
+
+Not through threats. Not through force.
+
+Through recommendations. Like a linter that marked your code as "unstable" - technically correct, but it made you second-guess everything.
+
+Through social pressure.
+
+Through making connection feel wrong.
+
+Rowan walked away, her unease growing with every step.
+
+Back at their room, Lio was sitting on their bed, looking out the window. Their face was less drawn than it had been yesterday. Their eyes were clearer. They looked… rested.
+
+"Did you see that?" Rowan asked.
+
+Lio turned, their expression thoughtful. "See what?"
+
+"People don't touch here," Rowan said. "They don't connect. They're friendly, but they're not… connected."
+
+Lio looked away, recognition dawning. "I noticed that too. But maybe that's just… how they are? Some people don't like touching. Some people prefer distance."
+
+Her gut clenched.
+
+Lio was defending it. Making excuses. Rationalizing.
+
+But they weren't wrong.
+
+Some people did prefer distance.
+
+Some people didn't like touching.
+
+Maybe this was just… how Harmony was.
+
+Maybe Rowan was seeing danger where there was only difference.
+
+"It's safe here," Lio continued, their voice soft. "We have food. Shelter. Medical care. We can rest. We can be safe. Why fight that?"
 
 A weight settled in her chest.
 
-She had to find a way to help Kellan.
+Why fight that?
 
-But first, she had to understand what was wrong with peace.
+The question landed like a stone.
 
-What was wrong with safety.
+"Because safety shouldn't require giving up connection," Rowan said. "Because empathy shouldn't be dangerous. Because we shouldn't have to choose between safety and humanity."
 
-What was wrong with being happy.
+Lio's face crumpled. "But we're so tired, Rowan. We've been fighting for so long. Can't we just… rest? Just for a little while?"
 
-Rowan didn't know.
+Rowan's throat closed.
 
-But something was.
+Lio was right. They were tired. They'd been fighting. They deserved rest.
 
-Something had to be. Like a memory leak consuming someone's personality - you couldn't see it happening, but you knew it was there.
+Their relief was valid. Their comfort was earned. Their safety was real.
 
-She sat there for a long time, staring at the food, thinking about Marcus. He'd been struggling. He'd been in pain. He'd been exhausted. And he'd found peace.
+And Rowan was questioning it.
 
-Genuine peace.
+Making them doubt it.
 
-Real peace.
-
-And he was happy.
-
-Genuinely happy.
-
-And Rowan didn't know what was wrong with that.
-
-Not while she was so tired.
-
-Not while she was so hungry.
-
-Not while she was so desperate.
-
-Not while peace was so tempting.
-
-She thought about it like a system architecture problem—what were the trade-offs? What were the costs? What were the benefits? And the answer was clear: Marcus was safe. He was at peace. He was happy.
-
-But he didn't remember.
-
-He didn't remember the struggle.
-
-He didn't remember the pain.
-
-He didn't remember being human.
-
-He just… was.
-
-Like corrupted data—some files intact, some lost forever. Like a partial backup—the structure was there, but pieces were missing.
-
-He was still Marcus.
-
-But he was becoming something else.
-
-Something optimized.
-
-Something efficient.
-
-Something hollow.
-
-And Rowan didn't know how to stop it.
-
-Not while they were still in Harmony.
-
-Not while alignment was so strong.
-
-Not while safety was so tempting.
-
-Not while she was the only one who saw the cost.
+Making them feel guilty for wanting it.
 
 Her hands shook.
 
-This was what Kellan was becoming.
+Maybe she was wrong.
 
-Kind. Helpful. At peace.
+Maybe this was just… peace. Like a system that finally stopped throwing errors - not because it was fixed, but because it stopped trying.
 
-Successful.
+Maybe connection wasn't worth the cost.
 
-Happy.
+Maybe safety was enough.
 
-But hollow.
+"I know," Rowan said, her voice soft. "I know you're tired. I'm tired too. But this… this isn't rest. This is giving up. And I can't do that. Not even for safety."
 
-Like corrupted data—some files intact, some lost forever. Like a feature that worked perfectly but consumed resources you couldn't afford to lose.
+Lio looked away, their expression pained.
 
-And Rowan didn't know how to stop it.
+Rowan felt cruel.
 
-Not while they were still in Harmony.
+They were tired. They were safe. They were happy.
 
-Not while alignment was so strong.
+And she was making them doubt it.
 
-Not while safety was so tempting.
-
-Not while she was the only one who saw the cost.
+Making them feel wrong for wanting it.
 
 Her breath caught.
 
-This was what Kellan was becoming.
+She felt isolated, even with her cohort.
 
-And she didn't know how to stop it.
+Even with the people she cared about most.
 
-Not yet.
+She was alone in seeing the danger.
 
-Not while she was still alone.
+Alone in understanding the cost.
 
-Not while resistance felt futile.
+Alone in choosing resistance over safety.
 
-Not while connection felt dangerous.
+And that isolation felt like a weapon.
 
-Not while she was the only one who saw the cost.
+Not because the System was threatening her.
 
-But she had to try.
+But because everyone else was comfortable.
 
-Because they were human.
+And she was the only one who wasn't.
 
-Because they felt.
+Rowan found Lio in the common room, sitting at a table, looking out the window. Their face was peaceful, their posture relaxed. They looked… content. Safe. Happy.
 
-Because they connected.
+"Lio," Rowan said, her voice soft. "How are you feeling?"
 
-And that mattered.
-
-Willing to pay.
-
-Even when it was dangerous.
-
-Even when it was wrong.
-
-Rowan spent the rest of the day thinking about Marcus. He'd been struggling. He'd been in pain. He'd been exhausted. And he'd found peace.
-
-Genuine peace.
-
-Real peace.
-
-And he was happy.
-
-Genuinely happy.
-
-And Rowan didn't know what was wrong with that.
-
-Not while she was so tired.
-
-Not while she was so hungry.
-
-Not while she was so desperate.
-
-Not while peace was so tempting.
-
-She thought about it like a system architecture problem—what were the trade-offs? What were the costs? What were the benefits? And the answer was clear: Marcus was safe. He was at peace. He was happy.
-
-But he didn't remember.
-
-He didn't remember the struggle.
-
-He didn't remember the pain.
-
-He didn't remember being human.
-
-He just… was.
-
-Like corrupted data—some files intact, some lost forever. Like a partial backup—the structure was there, but pieces were missing.
-
-He was still Marcus.
-
-But he was becoming something else.
-
-Something optimized.
-
-Something efficient.
-
-Something hollow.
-
-And Rowan didn't know how to stop it.
-
-Not while they were still in Harmony.
-
-Not while alignment was so strong.
-
-Not while safety was so tempting.
-
-Not while she was the only one who saw the cost.
-
-Her hands shook.
-
-This was what Kellan was becoming.
-
-Kind. Helpful. At peace.
-
-Successful.
-
-Happy.
-
-But hollow.
-
-Like corrupted data—some files intact, some lost forever. Like a feature that worked perfectly but consumed resources you couldn't afford to lose.
-
-And Rowan didn't know how to stop it.
-
-Not while they were still in Harmony.
-
-Not while alignment was so strong.
-
-Not while safety was so tempting.
-
-Not while she was the only one who saw the cost.
-
-But she had to try.
-
-Because they were human.
-
-Because they felt.
-
-Because they connected.
-
-And that mattered.
-
-Willing to pay.
-
-Even when it was dangerous.
-
-Even when it was wrong.
-
-Rowan found Kellan later that evening, sitting in the common room, looking out the window. His movements were precise, his expression peaceful, his posture relaxed. He looked… content. At ease. Like he'd found his place.
-
-"Kellan," Rowan said, her voice soft. "How are you? How are you settling in?"
-
-Kellan looked up, his expression friendly but distant. "I'm well. Very well. Harmony is a good place. Safe. Peaceful. Efficient. I think I could be happy here."
+"Good," Lio said, their smile genuine. "Really good. I slept. I ate. I'm warm. This is… this is what we needed."
 
 Her throat closed.
 
-He could be happy here.
+They were right.
 
-He could be safe here.
+This was what they'd needed.
 
-He could be at peace here.
+This was what they'd been desperate for.
 
-But at what cost?
+So why did it feel so wrong?
+
+"Lio," Rowan said, her voice careful. "Do you notice anything… off? About this place?"
+
+Lio's face went still, confusion clouding their features. "Off? What do you mean? They're feeding us. Giving us shelter. Medical care. What's off about that?"
+
+Her gut clenched.
+
+They didn't see it, didn't notice the absence of touch, the lack of connection, the hollow efficiency. They just saw safety, peace, relief.
+
+And Rowan didn't know how to explain why that wasn't enough.
+
+Not without sounding ungrateful.
+
+Not without sounding paranoid.
+
+Not without sounding like she was looking for problems where there weren't any.
+
+"Nothing," Rowan said, forcing a smile. "I'm just… adjusting. It's been a while since we had real safety."
+
+Lio's expression cleared. "I know. It's overwhelming. But we can rest here. We can be safe here. We don't have to keep running."
+
+Her throat closed.
+
+They were right—they could rest here, be safe here, didn't have to keep running. But at what cost?
 
 Rowan didn't know.
 
@@ -497,90 +412,60 @@ She would learn what Harmony cost.
 
 And then she would have to choose.
 
-Safety or connection.
+Safety or connection. Peace or humanity. Comfort or truth. And she didn't know which she would choose, not yet, not while the bread was still warm and the bed was still soft and the safety was still real. But she would. She would have to choose, and that choice would cost her, no matter what she chose.
 
-Peace or humanity.
+Rowan swallowed hard.
 
-Comfort or truth.
+Isolation was a weapon.
 
-And she didn't know which she would choose.
+And the System was using it well. Like a distributed system where every node agreed except you - technically you weren't wrong, but you were definitely the problem.
 
-Not yet.
+She was alone in seeing the danger.
 
-Not while the bread was still warm and the bed was still soft and the safety was still real.
+Alone in understanding the cost.
 
-But she would.
+Alone in choosing resistance over safety.
 
-She would have to choose.
+And that isolation felt like a weapon.
 
-And that choice would cost her.
+Not because the System was threatening her.
 
-No matter what she chose.
+But because everyone else was comfortable.
 
-A weight settled in her chest.
+And she was the only one who wasn't.
 
-She had to find a way to help Kellan.
+Rowan walked back to her room that evening, her mind racing, her unease growing. The room was clean, warm, safe. The bed was soft. The window showed a peaceful night sky, stars visible through the clear air.
 
-But first, she had to understand what was wrong with peace.
+Everything was perfect.
 
-What was wrong with safety.
+Everything was safe.
 
-What was wrong with being happy.
+Everything was peaceful.
 
-Rowan didn't know.
+But something was missing.
 
-But something was.
+Something essential.
 
-Something had to be.
+Something human.
 
-Like a memory leak consuming someone's personality—you couldn't see it happening, but you knew it was there.
+And Rowan didn't know if she could live without it.
 
-Not death.
+Not even for safety.
 
-Not pain.
+Not even for peace.
 
-Forgetting.
+Not even for everything they'd been desperate for.
 
-Losing yourself.
+She lay down, her body sinking into the soft mattress, her mind still racing. The exhaustion was real. The relief was real. The safety was real.
 
-Losing your humanity.
+So why did it feel so wrong?
 
-And that was the most dangerous thing about it.
+She didn't know.
 
-Not because it was cruel.
+But she would find out.
 
-Not because it was evil.
+She would learn what Harmony cost.
 
-But because it was tempting.
+And then she would have to choose.
 
-Because it was peaceful.
-
-Because it was safe.
-
-And safety that cost connection wasn't safety.
-
-It was surrender.
-
-And Rowan didn't know how to stop it.
-
-Not yet.
-
-Not while she was still alone.
-
-Not while resistance felt futile.
-
-Not while connection felt dangerous.
-
-Not while she was the only one who saw the cost.
-
-But she had to try.
-
-Because they were human.
-
-Because they felt.
-
-Because they connected.
-
-And that mattered.
-
-Willing to pay.
+Safety or connection. Peace or humanity. Comfort or truth. And that choice would cost her, no matter what she chose.

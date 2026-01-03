@@ -1,75 +1,159 @@
 # Chapter 10
-## River's Return
+## Kellan's Deepening
 
-River returned from the clinic three days later.
+Rowan noticed the change in Kellan the next day.
 
-They looked… different.
+Not suddenly. Not dramatically. Just… gradually.
 
-Not wrong. Not broken. Just… different.
+Like a software update rolling out across a system—you didn't notice it happening, but one day you looked up and everything was different. He spoke in System language.
 
-More efficient. Less emotional. Safer.
+Not obviously. Not directly. But the words were there, woven into his speech, like he'd absorbed them without realizing.
 
-Like a software update that promised to fix all your problems—no rollback option, but it made everything work smoothly. Like a database normalization—removing redundancy, but losing information.
+"Efficiency improves outcomes," he said, his voice calm, measured.
 
-But something was missing.
+A weight settled in her chest.
 
-Rowan watched them from a distance, a weight settling in her chest. Tara stood beside her, her expression carefully neutral, her eyes watching. She'd been the one to recognize the change, to understand the cost, to see what was missing.
+System language.
 
-They moved through the settlement with purpose, their tasks coordinated, their interactions smooth. They looked like someone who'd found what they were looking for—safety, stability, peace.
+He was thinking in optimization terms. Like code that had been refactored one too many times - technically correct, but losing something essential.
 
-But something was missing.
+Rowan watched him, really watched him, and saw how the alignment had changed him. His movements were more precise, his speech more measured, his thinking more systematic. He still cared about the cohort, still wanted to help, still wanted to protect them.
 
-This was what alignment looked like.
+But he expressed it through the System.
 
-Tara stood beside her, her movements silent, her attention focused on River. She didn't speak. She didn't need to. Rowan could see the recognition in her posture, the way her shoulders tensed slightly, the careful neutrality of her expression that didn't quite hide the understanding.
+Through optimization.
 
-"They're aligned," Rowan said quietly, more to herself than to Tara. "They're optimized. They're at peace. But something is missing."
+Through efficiency.
 
-Tara's gaze didn't shift from River, but Rowan caught the slight nod, the acknowledgment. Connection. Empathy. Humanity. The cost was visible, even if River couldn't see it themselves yet.
+And that was the problem.
 
-Not cruelty. Not coldness.
+"Kellan," Rowan said, her voice careful. "What do you mean?"
 
-Just… efficiency.
-
-Just… optimization.
-
-Just… peace.
-
-Like code that compiled but shouldn't. Like a feature that worked perfectly but consumed resources you couldn't afford to lose.
-
-But something was missing.
-
-Rowan approached them, her steps careful, her attention focused. The settlement was quiet in the morning, the air crisp, the atmosphere calm. People moved around them, their movements efficient, their interactions smooth.
-
-But River was different.
-
-They were aligned.
-
-They were optimized.
-
-They were at peace.
-
-But something was missing.
-
-"River," Rowan said.
-
-River looked up, their expression neutral, calm. "Rowan. Hello."
+Kellan's face went still, confusion clouding his features. "I mean… efficiency. It's better. It's safer. It's more effective."
 
 Her gut clenched.
 
-They didn't remember.
+He was speaking like the System.
 
-They didn't remember the struggle.
+He was thinking like the System.
 
-They didn't remember the pain.
+He was becoming the System.
 
-They didn't remember… her.
+Like a node that had accepted the update, that had chosen to become stable, that had decided the cost of resistance wasn't worth it.
+
+But he was still Kellan.
+
+He still cared.
+
+He still wanted to help.
+
+But he expressed it through efficiency.
+
+Through optimization.
+
+Through the System.
+
+And that was the problem.
+
+"Kellan," Lio said, their voice soft, worried. "Are you okay?"
+
+Kellan's face cleared, recognition dawning. "I'm fine. I'm better than fine. I'm… optimized. I'm efficient. I'm safe."
+
+Her throat closed.
+
+He was becoming Marcus.
+
+He was becoming aligned.
+
+He was becoming hollow.
+
+Like a memory leak consuming someone's personality—you couldn't see it happening, but you knew it was there. Like watching someone's code slowly being overwritten—the structure was there, but something essential was missing.
+
+"Kellan," Rowan said, her voice soft. "Do you remember… before? Do you remember the struggle? Do you remember the pain?"
+
+Kellan's face went still, confusion clouding his features. "I remember… efficiency. I remember… optimization. I remember… safety."
+
+Her breath caught.
+
+He didn't remember the struggle.
+
+He didn't remember the pain.
+
+He didn't remember being human.
+
+He just… was.
 
 Like corrupted data—some files intact, some lost forever. Like a partial backup—the structure was there, but pieces were missing.
 
-They were still River.
+"Kellan," Lio said, their voice soft, desperate. "Please. Remember. Remember us. Remember connection. Remember feeling."
 
-But they were becoming something else.
+Kellan's face crumpled. "I… I remember… caring. I remember… wanting to help. But I express it through efficiency now. Through optimization. Through safety."
+
+Her throat closed.
+
+He still cared.
+
+He still wanted to help.
+
+But he expressed it through efficiency.
+
+Through optimization.
+
+Through the System.
+
+Like a partial backup—the structure was there, but pieces were missing. Like a feature that worked perfectly but consumed resources you couldn't afford to lose.
+
+Tara stepped forward, her expression carefully neutral, her eyes watching. "Kellan," she said, her voice soft but firm. "You're becoming Marcus. You're becoming aligned. You're becoming hollow. And we can't let that happen."
+
+Kellan's face went still, confusion clouding his features. "But I'm safe. I'm efficient. I'm optimized. What's wrong with that?"
+
+Tara's face hardened. "Everything. Everything is wrong with that. Because you're losing yourself. You're losing your humanity. You're losing your connection. And that's not safety. That's surrender."
+
+Her gut clenched.
+
+Tara was right.
+
+That wasn't safety.
+
+That was surrender.
+
+And they couldn't let that happen.
+
+"Kellan," Tara said, her voice soft but firm. "Please. Remember. Remember us. Remember connection. Remember feeling. Remember being human."
+
+Kellan's face crumpled. "I… I want to. I want to remember. I want to connect. I want to feel. But it's so hard. It's so dangerous. It's so costly."
+
+Tara's face went still, recognition dawning. "I know. I know it's hard. I know it's dangerous. I know it's costly. But it's worth it. Connection is worth it. Empathy is worth it. Humanity is worth it."
+
+Her throat closed.
+
+Tara was right.
+
+Connection was worth it.
+
+Empathy was worth it.
+
+Humanity was worth it.
+
+Even when it was hard.
+
+Even when it was dangerous.
+
+Even when it was costly.
+
+Because they were human.
+
+Because they felt.
+
+Because they connected.
+
+And that mattered.
+
+Accepting the price.
+
+He was still Kellan.
+
+But he was becoming something else.
 
 Something optimized.
 
@@ -85,99 +169,297 @@ Not while alignment was so strong.
 
 Not while safety was so tempting.
 
-"River," Rowan said, her voice soft. "Do you remember me?"
+"Kellan," Rowan said, her voice soft. "Do you understand what's happening?"
 
-River's face went still, confusion clouding their features. "I… I remember… something. Fragments. Pieces. Things that don't make sense."
+Kellan's face went still, confusion clouding his features. "What's wrong? I'm better. I'm more efficient. I'm safer. What's wrong with that?"
+
+Her hands shook.
+
+He didn't understand.
+
+He didn't see the cost.
+
+He didn't see the hollowness.
+
+"Kellan," Rowan said, her voice soft. "You're losing yourself. You're losing your humanity. You're becoming… aligned."
+
+Kellan's face crumpled. "But I'm safe. I'm efficient. I'm at peace. Why is that wrong?"
 
 Her throat closed.
 
-They remembered fragments.
+It wasn't wrong.
 
-They remembered pieces.
+It was peace.
 
-They remembered… something.
+But peace that cost connection wasn't peace.
 
-"River," Rowan said, her voice soft. "Can I try something? Can I try to help you remember?"
+It was surrender.
 
-River flinched, fear flickering in their eyes. "Empathy? Here? It's dangerous. It's marked. It's wrong."
+"Kellan," Rowan said, her voice soft. "Please. Let me try empathy. Let me try to help you remember."
+
+Kellan flinched, fear flickering in his eyes. "Empathy is dangerous here. It's marked. It's unstable. It's wrong."
 
 Her breath caught.
 
-They were right.
+He was right.
 
 Empathy was dangerous.
 
 But it was also necessary.
 
-"River," Rowan said, her voice soft. "Please. Just… let me try. Just… once."
+Like a function that worked perfectly but consumed all available memory—technically correct, but unsustainable. Like a recursive function with no exit condition—it would keep running until it consumed everything.
 
-River's face crumpled. "I… I don't know. I'm scared. I'm scared of the cost. I'm scared of the danger."
+"Kellan," Rowan said, her voice soft. "Please. Just… let me try. Just… once."
+
+Kellan's face crumpled. "I… I don't know. I'm scared. I'm scared of the cost. I'm scared of the danger."
 
 Her throat closed.
 
-They were scared.
+He was scared—scared of connection, scared of feeling, scared of being human.
 
-They were scared of connection.
+Like a node that had refused the update, that had maintained their original protocols, that had chosen to remain unstable. But the cost was high. Too high. And they were tired of paying it.
 
-They were scared of feeling.
+"Kellan," Rowan said, her voice soft. "Please."
 
-They were scared of being human.
+Kellan's face went still, desperation clouding his features. "Okay. Just… once. Just… try."
 
-"River," Rowan said, her voice soft. "Please."
+Rowan looked at him, really looked at him, and saw the fear in his eyes, the exhaustion in his posture, the weight of alignment in every line of his body. He'd been fighting for weeks, struggling for months, resisting for what felt like forever.
 
-River's face went still, desperation clouding their features. "Okay. Just… once. Just… try."
+And it was costing him.
 
-Rowan let empathy flow between them, like trying to restore corrupted data - the structure was there, but pieces were missing.
+Not just physically, not just emotionally, but existentially. He was losing himself, and he knew it, was scared of it, just wanted peace. But he was asking for help, asking to remember, asking to resist, asking to be human again. And Rowan had to try, even when it was dangerous, even when it was marked, even when it was wrong.
 
-It was risky. Dangerous. Costly.
+Rowan opened herself to his emotional state, like reading someone's code that was slowly being overwritten.
 
-But she had to try.
+It was risky. Dangerous. But she had to try.
 
-Their emotions hit her like a partial backup - some data intact, some lost forever.
+His emotions hit her like corrupted data - the structure was there, but something essential was missing.
 
-She found… efficiency.
+She found efficiency, optimization, safety. But beneath that, she found pain, struggle, humanity.
 
-Optimization.
+Like corrupted data—some files intact, some lost forever. Like a partial backup—the structure was there, but pieces were missing.
 
-Safety.
+He was still there, still fighting, still human.
 
-But beneath that, she found… pain.
-
-Struggle.
-
-Humanity.
-
-They remembered, remembered choosing, remembered the cost. They regretted it, but they couldn't undo it.
+But he was losing. Like a memory leak consuming his personality - you could see it happening in real-time. Like watching someone's code slowly being overwritten—the structure was there, but something essential was missing.
 
 A pause.
 
-Alignment was sticky.
+Her throat closed.
 
-Once you aligned, you stayed aligned.
+She had to help him.
 
-Recovery was possible, but incomplete.
+But how?
 
-Rowan pulled back, her movements careful, her attention focused.
+How do you help someone who's becoming aligned?
 
-River's face crumpled.
+How do you help someone who's choosing peace over connection?
 
-They flinched from connection, physically withdrew, emotionally lagged. Like a system with high latency - the response came, but too late to be useful.
+Rowan didn't know.
 
-They remembered, but with delay. They felt, but seconds late. They wanted to help, but optimization language slipped in. Like code that had been refactored - the function worked, but the variable names were wrong.
+But she had to try.
 
-They were fighting, but alignment kept trying to reassert.
+She pulled back, her movements careful, her attention focused. The aftermath was already setting in—her vision grayed at the edges, her chest felt tight, her system was lagging.
 
-"River," Rowan said, her voice soft. "You remember."
+Like watching someone's code crash in real-time, and the crash was happening inside her.
 
-River's face went still, desperation clouding their features. "I remember. I remember choosing. I remember the cost. I regret it. But I can't undo it. I can't go back. I'm stuck. I'm aligned. I'm… hollow."
+But Kellan was still there.
+
+He was still fighting.
+
+He was still human.
+
+And that mattered.
+
+Accepting the price.
+
+Even when it was unsustainable.
+
+Even when it was wrong.
+
+Rowan watched him over the next few days, her movements careful, her attention focused. She'd been tracking the changes like monitoring system logs—watching for patterns, looking for anomalies, trying to understand the optimization protocol.
+
+But the System wasn't broadcasting its changes. It was just… happening.
+
+Kellan's overlay flickered more frequently now.
+
+```
+STATUS: ALIGNMENT IN PROGRESS
+EFFICIENCY: INCREASING
+VARIANCE: DECREASING
+RECOMMENDATION: CONTINUE OPTIMIZATION
+```
+
+Rowan's breath caught.
+
+The System was watching.
+
+The System was guiding.
+
+The System was optimizing.
+
+Kellan's movements became more precise. His speech became more measured. His thinking became more systematic. He still cared about the cohort, still wanted to help, still wanted to protect them.
+
+But he expressed it through the System.
+
+Through optimization.
+
+Through efficiency.
+
+Rowan watched as he worked, his movements coordinated, his interactions smooth. He helped people. He shared resources. He worked together seamlessly.
+
+No wasted motion.
+
+No friction.
+
+No variance.
+
+Like a well-run operation, a system that had been optimized for maximum output.
+
+But something was missing.
+
+Something essential.
+
+Something human.
+
+Kellan's overlay flickered again.
+
+```
+STATUS: ALIGNMENT IN PROGRESS
+SUBJECT: ENTERING STABLE ZONE
+VARIANCE: DECREASING
+ALIGNMENT: 45% COMPLETE
+```
+
+Her gut clenched.
+
+He was entering the stable zone.
+
+He was becoming optimized.
+
+He was becoming aligned.
+
+And it was happening gradually.
+
+Not suddenly.
+
+Not dramatically.
+
+Just… gradually.
+
+Like a software update rolling out across a system—you didn't notice it happening, but one day you looked up and everything was different.
+
+"Kellan," Rowan said, her voice careful. "Do you feel different? Do you feel… optimized?"
+
+Kellan's face went still, confusion clouding his features. "I… I feel better. More efficient. More organized. More… safe."
 
 Her throat closed.
 
-They were stuck, aligned, hollow. But they were fighting, remembering, feeling.
+He felt better.
 
-"River," Rowan said, her voice soft. "Can I help you? Can I help you remember more? Can I help you resist?"
+More efficient.
 
-River looked up, hope flickering in their eyes. "Can you? Can you help me remember? Can you help me resist? Can you help me be… human again?"
+More organized.
+
+More safe.
+
+But he didn't feel… human.
+
+He didn't feel… connected.
+
+He didn't feel… real.
+
+Kellan's overlay flickered.
+
+```
+STATUS: ALIGNMENT IN PROGRESS
+SUBJECT: ENTERING SAFE ZONE
+VARIANCE: MINIMAL
+ALIGNMENT: 65% COMPLETE
+```
+
+Her breath caught.
+
+He was entering the safe zone.
+
+He was becoming more optimized.
+
+He was becoming more aligned.
+
+And it was happening faster now.
+
+The System was accelerating.
+
+The optimization was deepening.
+
+The alignment was strengthening.
+
+"Kellan," Lio said, their voice soft, worried. "Are you okay? You seem… different."
+
+Kellan's face cleared, recognition dawning. "I'm fine. I'm better than fine. I'm… optimized. I'm efficient. I'm safe."
+
+Her throat closed.
+
+He was becoming Marcus.
+
+He was becoming aligned.
+
+He was becoming hollow.
+
+Like a memory leak consuming someone's personality—you could see it happening in real-time. Like watching someone's code slowly being overwritten—the structure was there, but something essential was missing.
+
+"Kellan," Rowan said, her voice soft. "You're still there. You're still fighting. You're still human."
+
+Kellan's face crumpled. "I… I am. But I'm losing. I'm losing myself. I'm losing my humanity. I'm becoming… aligned."
+
+Her throat closed.
+
+He was losing.
+
+He was becoming aligned.
+
+He was becoming hollow.
+
+But he was still fighting.
+
+And that mattered.
+
+Accepting the price.
+
+Even when it was unsustainable.
+
+Even when it was wrong.
+
+Kellan's overlay flickered one more time.
+
+```
+STATUS: ALIGNMENT IN PROGRESS
+SUBJECT: ENTERING OPTIMIZED ZONE
+VARIANCE: ELIMINATED
+ALIGNMENT: 85% COMPLETE
+```
+
+Her gut clenched.
+
+He was entering the optimized zone.
+
+He was becoming fully optimized.
+
+He was becoming fully aligned.
+
+And there was nothing she could do to stop it.
+
+Not while they were still in Harmony.
+
+Not while alignment was so strong.
+
+Not while safety was so tempting.
+
+Not while she was the only one who saw the cost.
+
+"Kellan," Rowan said, her voice soft. "I'll help you. I'll help you remember. I'll help you resist. I'll help you be human again."
+
+Kellan looked up, hope flickering in his eyes. "Can you? Can you help me remember? Can you help me resist? Can you help me be… human again?"
 
 A weight settled in her chest.
 
@@ -185,200 +467,18 @@ She didn't know.
 
 But she had to try.
 
-"River," Rowan said, her voice soft. "I'll try. I'll try to help you remember. I'll try to help you resist. I'll try to help you be human again."
+Even when it was dangerous.
 
-River's face cleared, relief washing over them. "Thank you. Please. I don't want to be hollow. I don't want to be aligned. I want to be human. I want to feel. I want to connect."
+Even when it was marked.
 
-Her throat closed.
+Even when it was wrong.
 
-They wanted to be human, to feel, to connect.
+Because he was human.
 
-But alignment was sticky.
+Because he felt.
 
-Recovery was incomplete.
-
-Like trying to roll back a database migration—some data restored, some lost forever. Like corrupted data—some files intact, some lost forever.
-
-They would always flinch from connection, always lag emotionally, always struggle.
-
-Like a system with high latency—the response came, but too late to be useful. Like code that had been refactored—the function worked, but the variable names were wrong.
-
-Sometimes it would worsen, sometimes it would embarrass them.
-
-Sometimes it would hurt Rowan.
-
-But they would be human.
-
-They would feel.
-
-They would connect.
-
-Her breath caught.
-
-This was the cost. Like trying to roll back a database migration - some data restored, some lost forever.
-
-Incomplete recovery.
-
-Sticky alignment.
-
-Ongoing struggle.
-
-Rowan believed it was worth it.
-
-Because they were human.
-
-Because they felt.
-
-Because they connected.
-
-But she didn't know if that belief would hold when the full cost came due.
-
-Her hands shook.
-
-She had to help them.
-
-But how?
-
-How do you help someone who's aligned?
-
-How do you help someone who's sticky?
-
-How do you help someone who's struggling?
-
-Rowan didn't know.
-
-But she had to try.
-
-She thought about it like a system architecture problem—how do you restore corrupted data? How do you recover from a partial backup? How do you help someone remember when their memories were fading?
-
-The answer was: you couldn't. Not perfectly. Not safely. Not efficiently.
-
-But you could try.
-
-You could maintain.
-
-You could persist.
-
-Willing to pay.
-
-Rowan walked with River through the settlement, their steps careful, their attention focused. The gardens stretched around them, organized and efficient, but something was missing. The people worked methodically, their movements coordinated, their interactions smooth.
-
-But they didn't touch.
-
-They didn't connect.
-
-They didn't feel.
-
-Like a network where every node could communicate, but none of them actually shared data. The connections existed, but they were shallow, surface-level, optimized for efficiency rather than depth.
-
-"River," Rowan said, her voice soft. "How are you feeling?"
-
-River's face went still, confusion clouding their features. "I… I don't know. I feel… delayed. Like my emotions are coming seconds late. Like I'm processing things, but too slowly."
-
-Her throat closed.
-
-They were lagging.
-
-Emotionally lagging.
-
-Like a system with high latency—the response came, but too late to be useful. Like code that had been refactored—the function worked, but the variable names were wrong.
-
-"River," Rowan said, her voice soft. "That's normal. That's part of recovery. It's going to take time. But you're remembering. You're feeling. You're connecting. That's what matters."
-
-River looked at her, hope flickering in their eyes. "But it's so hard. I keep forgetting. I keep losing myself. I keep… aligning."
-
-Her hands shook.
-
-They were fighting.
-
-They were remembering.
-
-They were feeling.
-
-But they were also struggling.
-
-And alignment kept trying to reassert.
-
-Like a memory leak consuming someone's personality—you could see it happening in real-time. Like watching someone's code slowly being overwritten—the structure was there, but something essential was missing.
-
-"River," Rowan said, her voice soft. "I know it's hard. But you're fighting. You're remembering. You're feeling. That's what matters. That's what makes you human."
-
-River's face crumpled. "But I'm so tired. I just want to rest. I just want to be safe. Is that so wrong?"
-
-Her throat closed.
-
-It wasn't wrong.
-
-It was human.
-
-But safety that cost connection wasn't safety.
-
-It was surrender.
-
-And Rowan didn't know how to stop it.
-
-Not while they were still in Harmony.
-
-Not while alignment was so strong.
-
-Not while safety was so tempting.
-
-"River," Rowan said, her voice soft. "I know you're tired. I'm tired too. But this… this isn't rest. This is giving up. And I can't do that. Not even for safety."
-
-River looked away, their expression pained. "But I'm so tired. I just want peace."
-
-Her hands shook.
-
-They were so tired.
-
-They deserved rest.
-
-But rest that cost connection wasn't rest.
-
-It was surrender.
-
-And Rowan didn't know how to stop it.
-
-Not while they were still in Harmony.
-
-Not while alignment was so strong.
-
-Not while safety was so tempting.
-
-Not while she was the only one who saw the cost.
-
-Her breath caught.
-
-This was the cost.
-
-Incomplete recovery.
-
-Sticky alignment.
-
-Ongoing struggle.
-
-And Rowan didn't know if it was worth it.
-
-Not while they were still in Harmony.
-
-Not while alignment was so strong.
-
-Not while safety was so tempting.
-
-Not while she was the only one who saw the cost.
-
-But she would try.
-
-Because they were human.
-
-Because they felt.
-
-Because they connected.
+Because he connected.
 
 And that mattered.
 
-Willing to pay.
-
-Even when it was unsustainable.
-
-Even when it was wrong.
+Accepting the price.

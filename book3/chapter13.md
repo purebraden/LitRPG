@@ -1,243 +1,227 @@
 # Chapter 13
-## The Empathy Trap
+## River's Return
 
-Rowan encountered someone who needed help two days after leaving Harmony.
+River returned from the clinic three days later.
 
-They were struggling. In pain. Desperate.
+They looked… different.
 
-The person sat by the side of the road, their posture hunched, their breathing shallow. They looked like someone who'd been running for days, who'd been fighting for weeks, who'd been struggling for months. Their clothes were torn, their face was drawn, their eyes were haunted.
+Not wrong. Not broken. Just… different.
 
-Rowan had been walking for hours, her steps careful, her attention focused. Tara walked beside her, her movements careful, her attention focused. She'd been the one to spot the person, to recognize the need, to understand the cost.
+More efficient. Less emotional. Safer.
 
-The road stretched ahead, winding through hills that seemed to go on forever. The sky was gray, the air damp and cold. She pulled her cloak tighter around her shoulders and tried not to think about how thin it was, how little protection it actually offered.
+Like a software update that promised to fix all your problems—no rollback option, but it made everything work smoothly. Like a database normalization—removing redundancy, but losing information.
 
-Then she saw them.
+But something was missing.
 
-Tara had moved closer, her steps careful, her attention split between the person and the surrounding area. She didn't speak, but Rowan felt her presence, steady and certain. When Rowan looked at her, Tara met her gaze and gave a single, slight nod.
+Rowan watched them from a distance, a weight settling in her chest. Tara stood beside her, her expression carefully neutral, her eyes watching. She'd been the one to recognize the change, to understand the cost, to see what was missing.
 
-They needed help. They needed connection. They needed empathy.
+They moved through the settlement with purpose, their tasks coordinated, their interactions smooth. They looked like someone who'd found what they were looking for—safety, stability, peace.
 
-And they would try.
+But something was missing.
 
-Even when it was dangerous.
+This was what alignment looked like.
 
-Even when it was marked.
+Tara stood beside her, her movements silent, her attention focused on River. She didn't speak. She didn't need to. Rowan could see the recognition in her posture, the way her shoulders tensed slightly, the careful neutrality of her expression that didn't quite hide the understanding.
 
-Even when it was costly.
+"They're aligned," Rowan said quietly, more to herself than to Tara. "They're optimized. They're at peace. But something is missing."
 
-Because they were human.
+Tara's gaze didn't shift from River, but Rowan caught the slight nod, the acknowledgment. Connection. Empathy. Humanity. The cost was visible, even if River couldn't see it themselves yet.
 
-Because they felt.
+Not cruelty. Not coldness.
 
-Because they connected.
+Just… efficiency.
 
-And that mattered.
+Just… optimization.
 
-Accepting the price.
+Just… peace.
 
-Sitting by the side of the road, their posture hunched, their breathing shallow. They looked like someone who'd been running for days, who'd been fighting for weeks, who'd been struggling for months.
+Like code that compiled but shouldn't. Like a feature that worked perfectly but consumed resources you couldn't afford to lose.
 
-They needed connection.
+But something was missing.
 
-They needed empathy.
+Rowan approached them, her steps careful, her attention focused. The settlement was quiet in the morning, the air crisp, the atmosphere calm. People moved around them, their movements efficient, their interactions smooth.
 
-They needed humanity.
+But River was different.
 
-But using empathy here was dangerous.
+They were aligned.
 
-Marked. Isolated. Costly.
+They were optimized.
 
-Rowan felt it like a recursive function with no exit condition—each use of empathy increased the cost, each connection marked her, each moment of humanity made her unstable.
+They were at peace.
+
+But something was missing.
+
+"River," Rowan said.
+
+River looked up, their expression neutral, calm. "Rowan. Hello."
 
 Her gut clenched.
 
-She had to choose.
+They didn't remember.
 
-Help or stay safe.
+They didn't remember the struggle.
 
-Connection or isolation.
+They didn't remember the pain.
 
-Humanity or surrender.
+They didn't remember… her.
 
-Like choosing between two broken systems—one that worked but cost your soul, one that didn't work but kept you human.
+Like corrupted data—some files intact, some lost forever. Like a partial backup—the structure was there, but pieces were missing.
 
-A weight settled in her chest.
+They were still River.
 
-She approached slowly, her steps careful, her attention focused. The person looked up, their expression wary, their eyes haunted.
+But they were becoming something else.
 
-"Hello," Rowan said, her voice soft.
+Something optimized.
 
-The person flinched, pain clouding their features. "Hello."
+Something efficient.
 
-"I'm Rowan," Rowan said, forcing a smile. "Are you okay? Do you need help?"
+Something hollow.
 
-The person's face crumpled. "I… I don't know. I'm so tired. I'm in so much pain. I just want it to stop."
+And Rowan didn't know how to stop it.
+
+Not while they were still in Harmony.
+
+Not while alignment was so strong.
+
+Not while safety was so tempting.
+
+"River," Rowan said, her voice soft. "Do you remember me?"
+
+River's face went still, confusion clouding their features. "I… I remember… something. Fragments. Pieces. Things that don't make sense."
 
 Her throat closed.
 
-They were so tired. So desperate.
+They remembered fragments.
 
-Like a node that had refused the update, that had maintained their original protocols, that had chosen to remain unstable. But the cost was high. Too high. And they were tired of paying it.
+They remembered pieces.
 
-She chose to help.
+They remembered… something.
 
-Not because it was safe.
+"River," Rowan said, her voice soft. "Can I try something? Can I try to help you remember?"
 
-Not because it was efficient.
+River flinched, fear flickering in their eyes. "Empathy? Here? It's dangerous. It's marked. It's wrong."
 
-Not because it was smart.
+Her breath caught.
 
-But because it was human.
+They were right.
 
-And humanity mattered.
+Empathy was dangerous.
 
-Even when it was dangerous.
+But it was also necessary.
 
-Even when it was marked.
+"River," Rowan said, her voice soft. "Please. Just… let me try. Just… once."
 
-Even when it was wrong.
+River's face crumpled. "I… I don't know. I'm scared. I'm scared of the cost. I'm scared of the danger."
 
-Not because it was safe.
+Her throat closed.
 
-Not because it was efficient.
+They were scared.
 
-Not because it was smart.
+They were scared of connection.
 
-But because it was human.
+They were scared of feeling.
 
-And humanity mattered.
+They were scared of being human.
 
-Even when it was dangerous.
+"River," Rowan said, her voice soft. "Please."
 
-Even when it was marked.
+River's face went still, desperation clouding their features. "Okay. Just… once. Just… try."
 
-Even when it was wrong.
-
-Rowan let empathy flow between them, like opening a connection to someone's emotional stack trace.
+Rowan let empathy flow between them, like trying to restore corrupted data - the structure was there, but pieces were missing.
 
 It was risky. Dangerous. Costly.
 
 But she had to try.
 
-Their pain hit her like a memory leak - consuming, unstoppable, eating away at her resources.
+Their emotions hit her like a partial backup - some data intact, some lost forever.
 
-She found pain—deep, aching pain. The kind that sat in your bones and reminded you that you were human, the kind that made you want to give up, the kind that made you want peace.
+She found… efficiency.
 
-Her breath caught.
+Optimization.
 
-This was real, human, connection.
+Safety.
 
-But then something shifted.
+But beneath that, she found… pain.
 
-The empathy cost more.
+Struggle.
 
-Rowan felt it immediately—the aftermath time stretching, the emotional contamination deepening, the System attention spiking.
+Humanity.
 
-Her vision grayed at the edges, like a screen losing signal.
+They remembered, remembered choosing, remembered the cost. They regretted it, but they couldn't undo it.
 
-Her chest tightened, a pressure that felt like it was squeezing her ribs. The emotional data was too large - her system was lagging, processing too many emotions at once.
+A pause.
 
-Her breath caught.
+Alignment was sticky.
 
-The empathy was working, but it was costing more than ever. Like watching someone's code crash in real-time, and the crash was happening inside her.
+Once you aligned, you stayed aligned.
 
-Days, not hours.
+Recovery was possible, but incomplete.
 
-The aftermath time stretched.
+Rowan pulled back, her movements careful, her attention focused.
 
-The emotional contamination deepened.
+River's face crumpled.
 
-The System attention spiked.
+They flinched from connection, physically withdrew, emotionally lagged. Like a system with high latency - the response came, but too late to be useful.
 
-Rowan's overlay flickered.
+They remembered, but with delay. They felt, but seconds late. They wanted to help, but optimization language slipped in. Like code that had been refactored - the function worked, but the variable names were wrong.
 
-```
-WARNING: EMOTIONAL ATTACHMENT DETECTED
-VARIANCE INCREASE: SIGNIFICANT
-SYSTEM ATTENTION: ELEVATED
-```
+They were fighting, but alignment kept trying to reassert.
 
-Her hands shook.
+"River," Rowan said, her voice soft. "You remember."
 
-The System was watching, marking her, making empathy dangerous. Like a linter that marked your code as "unstable" - technically correct, but it made you second-guess everything.
-
-But the person was helped.
-
-They remembered, chose resistance, chose connection, chose humanity.
+River's face went still, desperation clouding their features. "I remember. I remember choosing. I remember the cost. I regret it. But I can't undo it. I can't go back. I'm stuck. I'm aligned. I'm… hollow."
 
 Her throat closed.
 
-The empathy worked.
+They were stuck, aligned, hollow. But they were fighting, remembering, feeling.
 
-But it cost more than ever.
+"River," Rowan said, her voice soft. "Can I help you? Can I help you remember more? Can I help you resist?"
 
-Days of aftermath, deep emotional contamination.
-
-Elevated System attention.
-
-Like a function that worked perfectly but consumed all available memory—technically correct, but unsustainable.
-
-But the person was helped.
-
-They remembered.
-
-They chose resistance.
-
-Rowan watched them go, their steps careful, their expression determined. They'd chosen connection over safety, empathy over peace, humanity over surrender.
-
-And it had cost them.
-
-But it had also saved them.
+River looked up, hope flickering in their eyes. "Can you? Can you help me remember? Can you help me resist? Can you help me be… human again?"
 
 A weight settled in her chest.
 
-This was the cost.
+She didn't know.
 
-Empathy was costly.
+But she had to try.
 
-But it was also necessary.
+"River," Rowan said, her voice soft. "I'll try. I'll try to help you remember. I'll try to help you resist. I'll try to help you be human again."
 
-Connection was dangerous.
-
-But it was also human.
-
-Humanity was marked.
-
-But it was also worth it.
-
-Her gut clenched.
-
-She had to choose.
-
-Help or stay safe.
-
-Connection or isolation.
-
-Humanity or surrender.
-
-Rowan had to choose.
-
-And she chose help.
-
-She chose connection.
-
-She chose humanity.
-
-Even knowing the price. Like a function that worked perfectly but consumed all available memory.
+River's face cleared, relief washing over them. "Thank you. Please. I don't want to be hollow. I don't want to be aligned. I want to be human. I want to feel. I want to connect."
 
 Her throat closed.
 
-The empathy worked.
+They wanted to be human, to feel, to connect.
 
-The person was helped.
+But alignment was sticky.
 
-They remembered.
+Recovery was incomplete.
 
-They chose resistance.
+Like trying to roll back a database migration—some data restored, some lost forever. Like corrupted data—some files intact, some lost forever.
 
-But the cost was high.
+They would always flinch from connection, always lag emotionally, always struggle.
 
-Too high.
+Like a system with high latency—the response came, but too late to be useful. Like code that had been refactored—the function worked, but the variable names were wrong.
+
+Sometimes it would worsen, sometimes it would embarrass them.
+
+Sometimes it would hurt Rowan.
+
+But they would be human.
+
+They would feel.
+
+They would connect.
+
+Her breath caught.
+
+This was the cost. Like trying to roll back a database migration - some data restored, some lost forever.
+
+Incomplete recovery.
+
+Sticky alignment.
+
+Ongoing struggle.
 
 Rowan believed it was worth it.
 
@@ -247,140 +231,156 @@ Because they felt.
 
 Because they connected.
 
+But she didn't know if that belief would hold when the full cost came due.
+
+Her hands shook.
+
+She had to help them.
+
+But how?
+
+How do you help someone who's aligned?
+
+How do you help someone who's sticky?
+
+How do you help someone who's struggling?
+
+Rowan didn't know.
+
+But she had to try.
+
+She thought about it like a system architecture problem—how do you restore corrupted data? How do you recover from a partial backup? How do you help someone remember when their memories were fading?
+
+The answer was: you couldn't. Not perfectly. Not safely. Not efficiently.
+
+But you could try.
+
+You could maintain.
+
+You could persist.
+
+Willing to pay.
+
+Rowan walked with River through the settlement, their steps careful, their attention focused. The gardens stretched around them, organized and efficient, but something was missing. The people worked methodically, their movements coordinated, their interactions smooth.
+
+But they didn't touch.
+
+They didn't connect.
+
+They didn't feel.
+
+Like a network where every node could communicate, but none of them actually shared data. The connections existed, but they were shallow, surface-level, optimized for efficiency rather than depth.
+
+"River," Rowan said, her voice soft. "How are you feeling?"
+
+River's face went still, confusion clouding their features. "I… I don't know. I feel… delayed. Like my emotions are coming seconds late. Like I'm processing things, but too slowly."
+
+Her throat closed.
+
+They were lagging.
+
+Emotionally lagging.
+
+Like a system with high latency—the response came, but too late to be useful. Like code that had been refactored—the function worked, but the variable names were wrong.
+
+"River," Rowan said, her voice soft. "That's normal. That's part of recovery. It's going to take time. But you're remembering. You're feeling. You're connecting. That's what matters."
+
+River looked at her, hope flickering in their eyes. "But it's so hard. I keep forgetting. I keep losing myself. I keep… aligning."
+
+Her hands shook.
+
+They were fighting.
+
+They were remembering.
+
+They were feeling.
+
+But they were also struggling.
+
+And alignment kept trying to reassert.
+
+Like a memory leak consuming someone's personality—you could see it happening in real-time. Like watching someone's code slowly being overwritten—the structure was there, but something essential was missing.
+
+"River," Rowan said, her voice soft. "I know it's hard. But you're fighting. You're remembering. You're feeling. That's what matters. That's what makes you human."
+
+River's face crumpled. "But I'm so tired. I just want to rest. I just want to be safe. Is that so wrong?"
+
+Her throat closed.
+
+It wasn't wrong.
+
+It was human.
+
+But safety that cost connection wasn't safety.
+
+It was surrender.
+
+And Rowan didn't know how to stop it.
+
+Not while they were still in Harmony.
+
+Not while alignment was so strong.
+
+Not while safety was so tempting.
+
+"River," Rowan said, her voice soft. "I know you're tired. I'm tired too. But this… this isn't rest. This is giving up. And I can't do that. Not even for safety."
+
+River looked away, their expression pained. "But I'm so tired. I just want peace."
+
+Her hands shook.
+
+They were so tired.
+
+They deserved rest.
+
+But rest that cost connection wasn't rest.
+
+It was surrender.
+
+And Rowan didn't know how to stop it.
+
+Not while they were still in Harmony.
+
+Not while alignment was so strong.
+
+Not while safety was so tempting.
+
+Not while she was the only one who saw the cost.
+
 Her breath caught.
 
-This was the cost. Like a recursive function with no exit condition - it would keep running until it consumed everything.
+This was the cost.
 
-Days of aftermath. Deep contamination. Elevated attention.
+Incomplete recovery.
 
-She didn't know how many more times she could pay it.
+Sticky alignment.
+
+Ongoing struggle.
+
+And Rowan didn't know if it was worth it.
+
+Not while they were still in Harmony.
+
+Not while alignment was so strong.
+
+Not while safety was so tempting.
+
+Not while she was the only one who saw the cost.
 
 But she would try.
 
-Until she couldn't.
+Because they were human.
 
-She walked away, her steps heavy, her mind racing. The aftermath was already setting in—her vision grayed at the edges, her chest felt tight, her system was lagging.
+Because they felt.
 
-Like watching someone's code crash in real-time, and the crash was happening inside her.
-
-The road stretched ahead, winding through hills that seemed to go on forever. The sky was gray, the air damp and cold. Rowan pulled her cloak tighter around her shoulders and tried not to think about how thin it was, how little protection it actually offered.
-
-But the person was helped.
-
-They remembered.
-
-They chose resistance.
+Because they connected.
 
 And that mattered.
 
-Even knowing the price.
+Willing to pay.
 
 Even when it was unsustainable.
 
 Even when it was wrong.
 
-Her hands shook.
-
-This was the empathy trap.
-
-And she'd fallen into it.
-
-Willingly.
-
-Knowingly.
-
-And she would do it again.
-
-Because they were human.
-
-Because they felt.
-
-Because they connected.
-
-And that mattered.
-
-Even knowing the price.
-
-Rowan walked for hours, her steps careful, her attention focused. The aftermath lingered—her vision still grayed at the edges, her chest still tight, her system still lagging. Like a recursive function with no exit condition—it would keep running until it consumed everything.
-
-Days, not hours.
-
-The aftermath time stretched.
-
-The emotional contamination deepened.
-
-The System attention spiked.
-
-And Rowan didn't know how many more times she could pay it.
-
-But she would try.
-
-Until she couldn't.
-
-She reached their camp as the sun was setting, the sky turning orange and red. Lio was there, sitting by a small fire, their face pale but less drawn than it had been. They looked up when Rowan approached, their expression worried.
-
-"Rowan," they said, their voice soft. "Are you okay? You look… tired."
-
-Rowan sat down beside them, her movements careful, her attention focused. "I'm fine. Just… tired."
-
-Lio's face went still, recognition dawning. "You used empathy, didn't you?"
-
-Rowan's throat closed.
-
-They knew.
-
-They could see it.
-
-The aftermath. The cost. The price.
-
-"Yes," she said, her voice soft. "I did."
-
-Lio's face crumpled. "Rowan, you can't keep doing this. You can't keep paying this cost. It's going to kill you."
-
-Her hands shook.
-
-They were right.
-
-She couldn't keep doing this.
-
-She couldn't keep paying this cost.
-
-It was going to kill her.
-
-But she would do it again.
-
-Because they were human.
-
-Because they felt.
-
-Because they connected.
-
-And that mattered.
-
-Even knowing the price.
-
-Even when it was unsustainable.
-
-Even when it was wrong.
-
-Her breath caught.
-
-This was the empathy trap.
-
-And she'd fallen into it.
-
-Willingly.
-
-Knowingly.
-
-And she would do it again.
-
-Because they were human.
-
-Because they felt.
-
-Because they connected.
-
-And that mattered.
-
-Even knowing the price.
+But River's recovery was incomplete. And Rowan didn't know if that was better or worse than complete loss. At least River remembered. At least they felt. But the lag, the flinching, the struggle—was that really better than peace?

@@ -117,7 +117,7 @@ Not even when it was dangerous.
 
 Not even knowing the price.
 
-She was the moral baseline—the one who'd never doubted, never wavered, never surrendered. And Rowan had used her perfectly throughout.
+She was the moral baseline—the one who'd never doubted, never wavered, never surrendered. Her presence had been a steady anchor throughout.
 
 None of them were idealized.
 
@@ -209,98 +209,16 @@ NOTE: RESISTANCE PATTERNS UNDER REVIEW
 
 Rowan's breath caught.
 
-The System was watching. Like a distributed system where every node agreed except you - technically you weren't wrong, but you were definitely the problem.
+The System was watching, learning, adapting. Like a distributed system where every node agreed except you—technically you weren't wrong, but you were definitely the problem. The fight continued, but it had changed. Like code that had been refactored one too many times—technically correct, but losing something essential.
 
-The System was learning.
-
-The System was adapting.
-
-The fight continued.
-
-But it had changed. Like code that had been refactored one too many times - technically correct, but losing something essential.
+Normalization was the new weapon. Connection was the new resistance.
 
 Her throat closed.
 
-They moved forward.
+They moved forward, knowing resistance was costly but necessary, with a small network behind them. The horizon was uncertain, but they weren't alone.
 
-Knowing resistance was costly.
-
-But necessary.
-
-With a small network behind them.
-
-The horizon was uncertain.
-
-But they weren't alone.
-
-The System watched.
-
-Learned.
-
-Adapted.
+The System watched, learned, adapted.
 
 So did they.
 
-A weight settled in her chest.
-
-This was the new resistance.
-
-Small. Hidden. Isolated.
-
-But it existed.
-
-It resisted.
-
-It survived.
-
-Her gut clenched.
-
-The fight continued.
-
-But it had changed.
-
-Normalization was the new weapon.
-
-Connection was the new resistance.
-
-Her throat closed.
-
-They moved forward.
-
-Knowing resistance was costly.
-
-But necessary.
-
-With a small network behind them.
-
-The horizon was uncertain.
-
-But they weren't alone.
-
-The System watched.
-
-Learned.
-
-Adapted.
-
-So did they.
-
-A weight settled in her chest.
-
-This was the new resistance.
-
-Small. Hidden. Isolated.
-
-But it existed.
-
-It resisted.
-
-It survived.
-
-The System watched.
-
-Learned.
-
-Adapted.
-
-So did they.
+This was the new resistance—small, hidden, isolated. But it existed. It resisted. It survived.

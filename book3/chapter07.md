@@ -1,286 +1,163 @@
 # Chapter 7
-## The Price of Safety
+## River's Choice
 
-Rowan spent the next day investigating what people had given up for safety.
+River had been resisting for six months.
 
-Not through direct questions—those felt dangerous. But through observation. Through watching. Through listening.
+Not in any way that felt brave anymore. Not loudly. Not cleanly. Just day after day of saying no with a body that no longer cooperated.
 
-She'd learned to think like a systems analyst—you couldn't query the database directly, but you could observe behavior patterns, watch for anomalies, look for the data that didn't match the expected schema. Like debugging a distributed system where you couldn't access the logs directly, but you could watch the traffic patterns, monitor the response times, identify the nodes that weren't behaving as expected.
+Six months of waking up already tired. Six months of pain that never quite settled, just shifted location. Six months of feeling like every connection—to people, to memory, to herself—required effort she no longer had.
 
-Harmony was quiet in the morning, the kind of quiet that felt deliberate. The air was crisp, carrying the scent of bread from the kitchens and the earthy smell of turned soil from the gardens. People moved with purpose, their tasks coordinated, their interactions smooth. No wasted motion. No friction. No variance.
+She sat in the gardens with her hands folded tightly in her lap, fingers trembling despite the warmth. Her breathing came shallow and uneven, as if her chest had forgotten how to expand all the way.
 
-Rowan walked through the settlement, her steps careful, her attention focused. She watched people work, listened to conversations, observed patterns. Everywhere she looked, she found the same thing: efficiency, optimization, peace.
+The pain wasn’t just physical anymore.
 
-But something was missing.
+It lived behind her eyes. In the hesitation before every decision. In the constant sense that she was falling behind some invisible standard everyone else understood.
 
-She tried to remember the people she'd met when they first arrived. The ones who'd seemed uncertain, who'd looked like they might be struggling. The woman with the haunted eyes who'd been working in the gardens. The man who'd been organizing supplies with shaking hands. The teenager who'd been watching everything with careful suspicion.
+River had watched people align.
 
-But when she looked for them now, she couldn't find them. Or she found them, but they were different. Calmer. More efficient. More at peace.
+She’d seen it happen gradually at first—shoulders lowering, movements smoothing out, faces losing their sharp edges. People who had once flinched now smiled easily. People who had struggled through tasks moved with practiced confidence.
 
-The woman's eyes were clear now, her movements coordinated, her expression peaceful. The man's hands were steady, his organization methodical, his efficiency optimized. The teenager's suspicion was gone, replaced with contentment, with acceptance, with peace.
+They looked… lighter.
 
-All aligned.
+Not empty. Not hollow. Just relieved.
 
-All optimized.
+River told herself she was imagining it. That it was propaganda, confirmation bias, wishful thinking.
 
-All gone.
+But the truth pressed closer every day.
 
-Rowan's chest tightened.
+Those people weren’t suffering anymore.
 
-They'd given up their struggle.
+River wanted that.
 
-They'd given up their uncertainty.
+She wanted to stop waking up braced for pain.
+She wanted her thoughts to stop looping.
+She wanted to stop feeling like resistance itself was eroding her.
 
-They'd given up their humanity.
+She had tried. God, she had tried.
 
-And they didn't remember choosing it.
+She had stayed human. Stayed connected. Stayed feeling. And the cost of that choice was written all over her body: the exhaustion that never lifted, the injuries that healed too slowly, the emotional rawness that left her exposed and brittle.
 
-They didn't remember the cost.
+It wasn’t just hard.
 
-They just… were.
+It was unsustainable.
 
-Like variables that had been set to constant values—there, but you couldn't trace where they came from. Like code that had been refactored one too many times—technically correct, but losing something essential.
+River looked around the gardens. Everything was orderly. People moved with quiet purpose, never colliding, never hesitating. Conversations were brief and efficient, punctuated by soft smiles.
 
-What she discovered made a weight settle in her chest.
+Safe. Productive. Calm.
 
-People didn't remember what they'd lost.
+Everything River no longer was.
 
-They didn't remember choosing alignment. They didn't remember the struggle. They didn't remember the pain.
+Her hands shook harder.
 
-She watched a man she'd seen yesterday, his face now clear, his movements efficient, his expression peaceful. Yesterday, he'd been struggling, his hands shaking, his attention drifting. Today, he was optimized, aligned, at peace.
+The clinic sat just beyond the garden path. Clean lines. Frosted glass. No alarms. No guards.
 
-Rowan approached him, her steps careful, her attention focused. "Hello. How are you settling in?"
+Just help.
 
-The man looked up, his expression friendly but distant. "I'm well. Very well. Harmony has been wonderful. I have purpose. I contribute. I'm safe."
+She could go inside.
 
-"Have you been here long?" Rowan asked.
+She could let someone take this weight for a while.
 
-The man's face went still for a moment, then cleared. "I… I don't remember. I remember being tired. Struggling. But that's behind me now. This is better. This is what I needed."
+The thought settled over her like a blanket. Heavy, but warm.
 
-Her breath caught.
+She stood slowly, testing her balance before taking a step. Every movement felt deliberate, careful, as though her body might refuse if asked too much.
 
-He didn't remember.
+The clinic doors slid open without resistance.
 
-He didn't remember choosing alignment.
+Rowan’s face flickered through her mind—frustrated, worried, still fighting. Rowan had tried to explain. Tried to warn her. Tried to frame this as something more dangerous than it appeared.
 
-He didn't remember the struggle.
+River didn’t doubt Rowan’s intentions.
 
-He didn't remember the pain.
+She doubted her own ability to keep going.
 
-He just… was.
+What was so wrong with peace?
 
-Like variables that had been set to constant values—there, but you couldn't trace where they came from. Like code that had been refactored one too many times—technically correct, but losing something essential.
+What was so wrong with rest?
 
-Rowan walked away, her steps careful, her mind racing. She tried another person, then another, cataloging what she found: efficiency, optimization, peace. But no memory of struggle. No memory of choice. No memory of cost.
+She’d given six months to resistance. Six months of pain in the name of something abstract and fragile.
 
-They just… were.
+She was tired of bleeding for principles she could barely articulate anymore.
 
-But some remembered fragments.
+At the clinic entrance, River stopped. Her hand hovered inches from the door handle, fingers stiff and numb.
 
-Rowan found a woman sitting alone in the gardens, her expression pained, her movements careful, like she was holding herself together by will alone.
+This was the moment.
 
-The woman sat on a bench near the edge of the settlement, her hands resting in her lap, her gaze fixed on something in the distance. Her posture was tense, her shoulders hunched, her breathing shallow. She looked like someone who was trying not to break.
+She could turn back.
+She could keep struggling.
+She could keep insisting that suffering meant something.
 
-Rowan approached slowly, her steps careful, her attention focused. The gardens stretched around them, organized and efficient, but the woman sat apart, isolated, marked by her struggle. The other workers moved around her, their movements coordinated, their tasks efficient, but they didn't approach her, didn't speak to her, didn't acknowledge her struggle.
+Or she could step forward.
 
-Like a node that had refused the update, that had maintained their original protocols, that had chosen to remain unstable. But the cost was high. Too high. And they were losing the fight.
+Her hands trembled.
 
-Rowan approached her, her steps careful, her attention focused. She'd learned to recognize the signs—the people who remembered fragments, who felt the cost of safety, who were caught between remembering and forgetting. The slight tension in their shoulders. The way their attention drifted. The careful way they held themselves, like they were trying not to break.
+Six months was enough.
 
-"Hello," Rowan said, her voice soft.
+River opened the door.
 
-The woman looked up, her expression wary. Her eyes were tired, haunted, like she'd seen something she couldn't unsee. "Hello."
+Inside, the clinic was quiet in a way that felt intentional. No sharp smells. No harsh lights. Chairs lined the walls, occupied by people at different stages of relief—some tense, some weary, some already softened into something closer to calm.
 
-"I'm Rowan," Rowan said, forcing a smile. "I'm new here. Just trying to understand the place."
+No one looked afraid.
 
-The woman's face went still, recognition dawning. She looked around, checking if anyone was watching, then back at Rowan. "You're the one who's resisting."
+A woman emerged from one of the rooms, her expression serene, her posture relaxed. Whatever pain she’d carried before no longer showed on her face.
 
-Rowan's breath caught.
+River swallowed.
 
-"How did you know?" she asked.
+She sat and waited, fingers curling into the fabric of her clothes, breath catching and releasing in short bursts.
 
-The woman flinched, pain clouding her features. "You look different. You're not… aligned. You're still struggling. I can see it in your eyes. The way you move. The way you look at people. You're still human."
+She told herself this was help.
+She told herself this was care.
 
-Her gut clenched.
+“River?”
 
-Still struggling.
+She looked up.
 
-Still human.
+Dr. Chen stood in the doorway, her expression gentle, unhurried. She didn’t smile too widely. Didn’t rush her. Just waited, as if there were no alternative outcomes worth considering.
 
-The words tasted wrong, but also right. Like a linter that marked your code as "unstable" - technically correct, but it made you second-guess everything. But also like validation, like recognition, like connection.
+“Come with me,” she said.
 
-"Are you?" Rowan asked, her voice careful.
+The room was immaculate. A single chair sat at the center. No restraints. No screens.
 
-The woman's face crumpled. "I'm trying. I've been trying. For weeks. But I remember… fragments. Pieces. Things that don't make sense. Things that hurt. A name. A face. A moment of connection. A feeling of being human. But they're fading. Every day, they fade a little more."
+Just space.
 
-Her throat closed.
+“Sit,” Dr. Chen said softly. “We’ll take this step together.”
 
-They remembered fragments, pieces, pain. But they were fading, every day a little more, like corrupted data—some files intact, some lost forever. Like a partial backup—the structure was there, but pieces were missing.
+River lowered herself into the chair. Her hands shook openly now.
 
-"What do you remember?" Rowan asked, her voice soft.
+Dr. Chen settled across from her, posture relaxed, voice calm.
 
-The woman's face went still, pain clouding her features. She looked away, her gaze fixed on something in the distance, something only she could see. "I remember… connection. I remember… feeling. I remember… being human. A hand on my shoulder. A voice saying my name. A moment of laughter. A feeling of belonging. But it's fading. Every day, it fades a little more."
+“What do you need?” she asked.
 
-A pause.
+The question cracked something open.
 
-"Soon, I won't remember at all."
+River’s throat tightened.
 
-Her breath caught.
+“I just…” Her voice came out smaller than she expected. “I just want it to stop hurting.”
 
-They were losing their memories, their connection, their humanity.
+Dr. Chen nodded, as if this were the most reasonable request in the world.
 
-Like a memory leak consuming someone's personality—you couldn't see it happening, but you knew it was there. Like watching someone's code slowly being overwritten—the structure was there, but something essential was missing.
+“Then we can begin.”
 
-Rowan sat beside her, her movements careful, her attention focused. The woman didn't look at her, didn't acknowledge her presence, but Rowan could feel the tension in her posture, the weight of her struggle.
+Warmth spread first—gentle, deliberate. The tension in River’s shoulders loosened without permission. Her breathing evened out.
 
-"What was your name?" Rowan asked, her voice soft.
+The noise inside her head softened.
 
-The woman's face went still, confusion clouding her features. "I… I don't remember. I remember… being called something. But I don't remember what. It's fading. Every day, it fades a little more."
+The fear didn’t vanish. It just stopped demanding answers.
 
-Her hands shook.
+River let herself rest in that quiet.
 
-They were losing their name, their identity, themselves. And they knew it, were scared of it, and just wanted peace.
+For the first time in months, her body wasn’t arguing with her.
 
-But peace that cost connection wasn't peace.
+This—this was what she had been chasing.
 
-It was surrender.
+Safety.
+Rest.
+Peace.
 
-"And you want to forget?" Rowan asked, her voice careful.
+It felt like enough.
 
-The woman's face crumpled. "Yes. No. I don't know. It hurts to remember. It hurts to feel. It hurts to be human. Every day, the fragments hurt more. Every day, the memories fade more. Every day, I feel less. And I just want… peace. I just want it to stop hurting."
+For now.
 
-Her throat closed.
+River closed her eyes and allowed the warmth to hold.
 
-They were in pain, wanted to forget, but didn't want to lose themselves.
+She stopped fighting.
 
-This was the cost of safety.
-
-Memories fading.
-
-Connections weakening.
-
-Empathy atrophying.
-
-Safety required forgetting.
-
-Happiness required hollowness.
-
-Her hands shook.
-
-This was the true cost. Like a memory leak consuming someone's personality - you couldn't see it happening, but you knew it was there. Like watching someone's code slowly being overwritten—the structure was there, but something essential was missing.
-
-Not death.
-
-Not pain.
-
-Forgetting.
-
-Losing yourself.
-
-Losing your humanity.
-
-Rowan watched the woman, really watched her, and saw the struggle, the pain, the desperation. They were caught between remembering and forgetting, between feeling and peace, between humanity and safety. And they were losing.
-
-Every day, they lost a little more, the fragments faded, they felt less. Soon, they wouldn't remember at all. Soon, they would be like the others—optimized, aligned, hollow. And they knew it, were scared of it, but also wanted peace. They wanted the pain to stop, wanted to forget, but didn't want to lose themselves.
-
-This was the cost of safety.
-
-And it was higher than anyone wanted to admit.
-
-A weight settled in her chest.
-
-She had to find a way to help.
-
-But how?
-
-How do you help someone who wants to forget?
-
-How do you help someone who wants peace?
-
-How do you help someone who wants to surrender?
-
-Rowan didn't know.
-
-But she had to try.
-
-She sat beside the woman, her movements careful, her attention focused. The woman didn't look at her, didn't acknowledge her presence, but Rowan could feel the tension in her posture, the weight of her struggle.
-
-"Can I help?" Rowan asked, her voice soft.
-
-The woman's face went still. "How? How can you help? I'm losing myself. Every day, I lose a little more. Every day, the fragments fade. Every day, I feel less. And soon, I won't remember at all. Soon, I'll be like them." She gestured at the other workers, their movements efficient, their expressions peaceful. "Optimized. Aligned. Hollow. And I don't want that. But I also want peace. I want the pain to stop. I want to forget. But I don't want to lose myself."
-
-Rowan's hands shook.
-
-They were caught between remembering and forgetting, between feeling and peace, between humanity and safety. And they were losing.
-
-"I don't know," Rowan said, her voice soft. "I don't have an answer. I don't have a solution. I just have… presence. Connection. Humanity. Even when it's dangerous. Even when it's marked. Even when it's wrong."
-
-The woman's face crumpled, and for a moment, Rowan saw something break through the alignment—a flicker of recognition, a moment of connection, a fragment of humanity. Like corrupted data—some files intact, some lost forever. Like a partial backup—the structure was there, but pieces were missing.
-
-"Thank you," the woman whispered, her voice breaking. "Thank you for seeing me. Thank you for remembering. Thank you for… being human."
-
-Then it was gone.
-
-The flicker faded. The connection weakened. The humanity slipped away.
-
-The woman stood, her movements careful, her expression clearing. "Thank you. But I should go. I have work to do."
-
-Rowan's throat closed.
-
-They were losing themselves.
-
-And there was nothing she could do to stop it.
-
-Not yet, not while she was still alone, not while resistance felt futile, not while connection felt dangerous, not while the cost was so high.
-
-Rowan watched the woman walk away, her steps careful, her expression clearing. She'd been struggling. She'd been in pain. She'd been remembering fragments, pieces, things that didn't make sense, things that hurt.
-
-And she wanted to forget, wanted peace, wanted safety. But safety that cost connection wasn't safety—it was surrender. And Rowan didn't know how to stop it, not while they were still in Harmony, not while alignment was so strong, not while safety was so tempting, not while she was the only one who saw the cost.
-
-Her hands shook.
-
-This was the cost of safety.
-
-And it was higher than anyone wanted to admit.
-
-Rowan watched the woman walk away, her steps careful, her expression clearing. She'd been struggling. She'd been in pain. She'd been remembering fragments, pieces, things that didn't make sense, things that hurt.
-
-And she wanted to forget.
-
-She wanted peace.
-
-She wanted safety.
-
-But safety that cost connection wasn't safety.
-
-It was surrender.
-
-And Rowan didn't know how to stop it.
-
-Not while they were still in Harmony.
-
-Not while alignment was so strong.
-
-Not while safety was so tempting.
-
-She walked away, her steps heavy, her mind racing. The gardens stretched around her, organized and efficient, but something was missing. The people worked methodically, their movements coordinated, their interactions smooth.
-
-But they didn't touch, didn't connect, didn't feel.
-
-Like a network where every node could communicate, but none of them actually shared data. The connections existed, but they were shallow, surface-level, optimized for efficiency rather than depth.
-
-Her gut clenched.
-
-This was the cost of safety: memories fading, connections weakening, empathy atrophying. Safety required forgetting. Happiness required hollowness. And Rowan didn't know how to stop it, not while she was still alone, not while resistance felt futile, not while connection felt dangerous, not while she was the only one who saw the cost.
-
-Her hands shook.
-
-This was the price of safety.
-
-And it was higher than anyone wanted to admit—not death, not pain, but forgetting. Losing yourself. Losing your humanity. And that was the most dangerous thing about it, not because it was cruel, not because it was evil, but because it was tempting. Because it was peaceful. Because it was safe. And safety that cost connection wasn't safety—it was surrender. And Rowan didn't know how to stop it, not yet, not while she was still alone, not while resistance felt futile, not while connection felt dangerous, not while she was the only one who saw the cost.
-
-Her breath caught.
-
-This was the price of safety.
-
-And it was higher than anyone wanted to admit.
+And for the moment, the world stopped asking her to.
